@@ -1,0 +1,47 @@
+[{
+  "data": {
+    "heading": "E",
+    "men": 15,
+    "contracts": [
+      {
+        "amount": 10,
+        "resource": "FLOWER"
+      },
+      {
+        "amount": 300,
+        "resource": "QUARTZ"
+      },
+      {
+        "amount": 1000,
+        "resource": "WOOD"
+      }
+    ],
+    "budget": 7000
+  },
+  "part": "Engine",
+  "time": 1447621697626,
+  "meth": "initialize"
+},{
+  "data": {
+    "exception": ["IndexOutOfBoundsException"],
+    "stacktrace": [[
+      "java.util.ArrayList.rangeCheck(ArrayList.java:638)",
+      "java.util.ArrayList.get(ArrayList.java:414)",
+      "fr.unice.polytech.qgl.qbf.Decision.decide(Decision.java:30)",
+      "fr.unice.polytech.qgl.qbf.Explorer.takeDecision(Explorer.java:29)",
+      "eu.ace_design.island.game.Engine$$anonfun$3.apply(Engine.scala:48)",
+      "eu.ace_design.island.game.Engine$$anonfun$3.apply(Engine.scala:48)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24)",
+      "scala.concurrent.impl.ExecutionContextImpl$AdaptedForkJoinTask.exec(ExecutionContextImpl.scala:121)",
+      "scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)",
+      "scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)",
+      "scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)",
+      "scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)"
+    ]],
+    "message": ["Index: 0, Size: 0"]
+  },
+  "part": "Explorer",
+  "time": 1447621697628,
+  "meth": "takeDecision"
+}]
