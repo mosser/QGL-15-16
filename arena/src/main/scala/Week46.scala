@@ -24,7 +24,7 @@ object Week46 extends Championship with SI3 with DiSLand {
   //generate()
 
   val theIsland = IslandMapFactory(new File(s"$outputDir/_map.json"))
-  val builder = new GameBoardBuilder(rand = theIsland.random, poiGenerators = Seq(new WithCreeks(10)))
+  val builder = new GameBoardBuilder(poiGenerators = Seq(new WithCreeks(10)))
   val theBoard: GameBoard = builder(theIsland).copy(startingTile = Some((1,1)))
   printInfo(theIsland, theBoard)
 
