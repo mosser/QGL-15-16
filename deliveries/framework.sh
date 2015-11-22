@@ -125,7 +125,7 @@ function xml_key_value() # $1 file name. $2 node name, $3 expected value
 {
     echo -ne "# $1/$2 == [$3]: "
     cat $1 | grep $2 | grep $3  > /dev/null 2> /dev/null
-    if [ "$?" = "0" ]; then echo "OK"; else echo "FAILURE"; fi
+    if [ "$?" = "0" ]; then echo "OK"; else  ERROR=1 ; echo "FAILURE"; fi
 }
 
 
