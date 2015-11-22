@@ -1,3 +1,4 @@
+import eu.ace_design.island.arena.Championship
 import eu.ace_design.island.dsl.DiSLand
 import eu.ace_design.island.game._
 import eu.ace_design.island.io.IslandMapFactory
@@ -5,7 +6,7 @@ import eu.ace_design.island.map.IslandMap
 import eu.ace_design.island.map.resources.Resource
 import eu.ace_design.island.stdlib.POIGenerators.WithCreeks
 import eu.ace_design.island.stdlib.Resources.{FLOWER, QUARTZ, WOOD}
-import library.{Championship, SI3}
+import library.{Islands, SI3}
 import java.io.File
 
 object Week46 extends Championship with SI3 with DiSLand {

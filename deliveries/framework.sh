@@ -38,9 +38,11 @@ function build_git_stats() # $1 is project's id
 }
 
 function count_loc() 
-{ ## Relies on sloccount
-    echo -ne "# LOC counter: " 
-    sloccount . 2> /dev/null | grep Physical | cut -d '=' -f 2 | tr -d " "
+{ ## Relies on cloc
+    echo -ne "# LOC counter [main]: " 
+    cloc src/main 2> /dev/null | grep Java | tr -s '[:space:]' ' ' | cut -d " " -f 5
+    echo -ne "# LOC counter [test]: " 
+    cloc src/test 2> /dev/null | grep Java | tr -s '[:space:]' ' ' | cut -d " " -f 5
 }
 
 

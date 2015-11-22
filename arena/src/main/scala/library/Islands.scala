@@ -1,3 +1,5 @@
+package library
+
 import eu.ace_design.island.dsl.DiSLand
 import eu.ace_design.island.map.IslandMap
 import eu.ace_design.island.map.processes.AssignPitch
@@ -14,6 +16,12 @@ object Islands extends DiSLand {
   }
 
 
+  val s47 = 0x7C86C8F0AE471824L
+  lazy val week47: IslandMap = {
+    createIsland shapedAs donut(70.percent, 30.percent) withSize 1600 having 1200.faces builtWith Seq(
+      plateau(30), flowing(rivers = 30, distance = 0.4), withMoisture(soils.normal, distance = 700),
+      AssignPitch, usingBiomes(WhittakerDiagrams.caribbean)) usingSeed s47
+  }
 
 
 }
