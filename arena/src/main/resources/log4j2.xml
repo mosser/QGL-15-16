@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="    %d{HH:mm:ss} %-5level %-13logger{1} %msg%n"/>
+        </Console>
+    </Appenders>
+    <Loggers>
+        <Root level="error">
+            <AppenderRef ref="Console"/>
+        </Root>
+        <!--
+          - Names are fully qualified names (i.e., eu.ace_deign.island.*)
+          - The name of a Logger associated to an Object ends with a '$' (e.g., Main$ to log the Main object).
+          -->
+        <Logger name="eu.ace_design.Island" level="off" additivity="false">
+            <AppenderRef ref="Console"/>
+        </Logger>
+        <Logger name="eu.ace_design.Island/Mesh" level="info" additivity="false">
+            <AppenderRef ref="Console"/>
+        </Logger>
+        <Logger name="eu.ace_design.Island/Map" level="info" additivity="false">
+            <AppenderRef ref="Console"/>
+        </Logger>
+        <Logger name="eu.ace_design.Island/Viewer" level="off" additivity="false">
+            <AppenderRef ref="Console"/>
+        </Logger>
+        <Logger name="eu.ace_design.Island/Board" level="off" additivity="false">
+            <AppenderRef ref="Console"/>
+        </Logger>
+    </Loggers>
+</Configuration>

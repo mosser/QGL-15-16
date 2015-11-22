@@ -11,7 +11,9 @@ trait Teams {
 
 trait SI3 extends Teams {
 
-  def players: Map[String, IExplorerRaid] = g1 ++ g2 ++ g3 ++ g4
+  def all: Map[String, IExplorerRaid] = g1 ++ g2 ++ g3 ++ g4
+
+  def players = all
 
   private lazy val g1: Map[String, IExplorerRaid] = Map(
     //"qaa" -> new fr.unice.polytech.qgl.qaa.Explorer(), // deliv fail

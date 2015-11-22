@@ -14,9 +14,8 @@ import scala.util.Random
 
 trait Championship extends App with Teams {
 
-  val outputDir: String
+  def outputDir: String
   val seed: Long
-  val FROZEN: Boolean = false
   val objectives: Set[(Resource, Int)]
 
   def printInfo(isl: IslandMap, board: GameBoard) {
