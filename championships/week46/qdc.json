@@ -19,7 +19,7 @@
     "budget": 7000
   },
   "part": "Engine",
-  "time": 1447621699467,
+  "time": 1448181493972,
   "meth": "initialize"
 },{
   "data": {
@@ -27,7 +27,24 @@
     "parameters": {}
   },
   "part": "Explorer",
-  "time": 1447621699475,
+  "time": 1448181493986,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1448181493988,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "stop",
+    "parameters": {}
+  },
+  "part": "Explorer",
+  "time": 1448181493989,
   "meth": "takeDecision"
 },{
   "data": {
@@ -36,23 +53,6 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1447621699478,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "stop",
-    "parameters": {}
-  },
-  "part": "Explorer",
-  "time": 1447621699479,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1447621699479,
+  "time": 1448181493989,
   "meth": "takeDecision"
 }]

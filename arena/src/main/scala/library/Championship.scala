@@ -7,6 +7,7 @@ import eu.ace_design.island.game.{Engine, ExplorationEvent, Game, GameBoard}
 import eu.ace_design.island.map.IslandMap
 import eu.ace_design.island.map.resources.Resource
 import eu.ace_design.island.viewer.svg.{FogOfWar, FogOfWarViewer}
+import eu.ace_design.island.viewer.PoiJSONViewer
 
 import scala.util.Random
 
@@ -36,6 +37,14 @@ trait Championship extends App with Teams {
 
     println("\n## Objectives")
     objectives foreach { case (res, amount) => println(f"  - ${res.name}%-10s: $amount") }
+
+    exportPOIs(board,isl)
+
+  }
+
+  def exportPOIs(board: GameBoard, m: IslandMap) = {
+    val viewer = PoiJSONViewer(board)
+    viewer(m).renameTo(new File(s"$outputDir/_pois.json"))
   }
 
   type ChampResult = Iterable[Either[Result, (String, String)] with Product with Serializable]

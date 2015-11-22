@@ -11,7 +11,7 @@ import java.io.File
 object Week46 extends Championship with SI3 with DiSLand {
 
   override val seed = 0L// Islands.s46
-  override val outputDir = "../championships/week46/"
+  override val outputDir = "championships/week46/"
   override val objectives: Set[(Resource,Int)] = Set((WOOD, 1000), (QUARTZ, 300), (FLOWER,10))
 
   // Generating the map and exporting it into readable artifacts
