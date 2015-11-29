@@ -1,0 +1,48 @@
+[{
+  "data": {
+    "heading": "N",
+    "men": 3,
+    "contracts": [
+      {
+        "amount": 1000,
+        "resource": "FUR"
+      },
+      {
+        "amount": 30,
+        "resource": "GLASS"
+      },
+      {
+        "amount": 2000,
+        "resource": "WOOD"
+      }
+    ],
+    "budget": 10000
+  },
+  "part": "Engine",
+  "time": 1448824602726,
+  "meth": "initialize"
+},{
+  "data": {
+    "exception": ["JSONException"],
+    "stacktrace": [[
+      "org.json.JSONObject.get(JSONObject.java:477)",
+      "org.json.JSONObject.getJSONArray(JSONObject.java:624)",
+      "fr.unice.polytech.qgl.qdd.Init.<init>(Init.java:38)",
+      "fr.unice.polytech.qgl.qdd.Explorer.initialize(Explorer.java:41)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply$mcV$sp(Engine.scala:30)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply(Engine.scala:30)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply(Engine.scala:30)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24)",
+      "scala.concurrent.impl.ExecutionContextImpl$AdaptedForkJoinTask.exec(ExecutionContextImpl.scala:121)",
+      "scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)",
+      "scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)",
+      "scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)",
+      "scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)"
+    ]],
+    "message": ["JSONObject[\"objective\"] not found."]
+  },
+  "part": "Explorer",
+  "time": 1448824602728,
+  "meth": "initialize"
+}]

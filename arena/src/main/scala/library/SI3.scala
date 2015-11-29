@@ -24,16 +24,16 @@ trait SI3 extends Teams {
 
   private lazy val g2: Map[String, IExplorerRaid] = Map(
     "qba" -> new fr.unice.polytech.qgl.qba.Explorer(),
-    "qbb" -> new fr.unice.polytech.qgl.qbb.Explorer(), // deliv fail
+    "qbb" -> new fr.unice.polytech.qgl.qbb.Explorer(),
     "qbc" -> new fr.unice.polytech.qgl.qbc.Explorer(),
     "qbd" -> new fr.unice.polytech.qgl.qbd.Explorer(),
-    //"qbe" -> new fr.unice.polytech.qgl.qbe.Explorer(),
+    "qbe" -> new fr.unice.polytech.qgl.qbe.Explorer(),
     "qbf" -> new fr.unice.polytech.qgl.qbf.Explorer()
   )
 
   private lazy val g3: Map[String, IExplorerRaid]= Map(
     "qca" -> new fr.unice.polytech.qgl.qca.Explorer(),
-    //"qcb" -> new fr.unice.polytech.qgl.qcb.Explorer(),
+    "qcb" -> new fr.unice.polytech.qgl.qcb.Explorer(),
     "qcc" -> new fr.unice.polytech.qgl.qcc.Explorer(),
     "qcd" -> new fr.unice.polytech.qgl.qcd.Explorer(),
     "qce" -> new fr.unice.polytech.qgl.qce.Explorer()
@@ -45,8 +45,8 @@ trait SI3 extends Teams {
     "qdb" -> new fr.unice.polytech.qgl.qdb.Explorer(),
     "qdc" -> new fr.unice.polytech.qgl.qdc.Explorer(),
     "qdd" -> new fr.unice.polytech.qgl.qdd.Explorer(),
-    "qde" -> new fr.unice.polytech.qgl.qde.Explorer()
-    //"qdf" -> new fr.unice.polytech.qgl.qdf.Explorer()
+    "qde" -> new fr.unice.polytech.qgl.qde.Explorer(),
+    "qdf" -> new fr.unice.polytech.qgl.qdf.Explorer()
   )
 
 }

@@ -1,0 +1,107 @@
+[{
+  "data": {
+    "heading": "N",
+    "men": 3,
+    "contracts": [
+      {
+        "amount": 1000,
+        "resource": "FUR"
+      },
+      {
+        "amount": 30,
+        "resource": "GLASS"
+      },
+      {
+        "amount": 2000,
+        "resource": "WOOD"
+      }
+    ],
+    "budget": 10000
+  },
+  "part": "Engine",
+  "time": 1448824622271,
+  "meth": "initialize"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1448824622277,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 50
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1448824622278,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1448824622280,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1448824622280,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1448824622280,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 52
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1448824622280,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "exception": ["NullPointerException"],
+    "stacktrace": [[
+      "fr.unice.polytech.qgl.qae.map.Map.generate(Map.java:165)",
+      "fr.unice.polytech.qgl.qae.strategy.FlyingStrategy.phase1(FlyingStrategy.java:92)",
+      "fr.unice.polytech.qgl.qae.strategy.FlyingStrategy.execute(FlyingStrategy.java:218)",
+      "fr.unice.polytech.qgl.qae.Explorer.takeDecision(Explorer.java:31)",
+      "eu.ace_design.island.game.Engine$$anonfun$3.apply(Engine.scala:48)",
+      "eu.ace_design.island.game.Engine$$anonfun$3.apply(Engine.scala:48)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24)",
+      "scala.concurrent.impl.ExecutionContextImpl$AdaptedForkJoinTask.exec(ExecutionContextImpl.scala:121)",
+      "scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)",
+      "scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)",
+      "scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)",
+      "scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)"
+    ]],
+    "message": [null]
+  },
+  "part": "Explorer",
+  "time": 1448824622281,
+  "meth": "takeDecision"
+}]
