@@ -1,0 +1,67 @@
+[{
+  "data": {
+    "heading": "N",
+    "men": 3,
+    "contracts": [
+      {
+        "amount": 300,
+        "resource": "GLASS"
+      },
+      {
+        "amount": 1000,
+        "resource": "SUGAR_CANE"
+      },
+      {
+        "amount": 5000,
+        "resource": "WOOD"
+      }
+    ],
+    "budget": 10000
+  },
+  "part": "Engine",
+  "time": 1449425853640,
+  "meth": "initialize"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1449425853653,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 2
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1449425853653,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "exception": ["ArrayIndexOutOfBoundsException"],
+    "stacktrace": [[
+      "fr.unice.polytech.qgl.qaf.Heading.getRotateCcw(Heading.java:26)",
+      "fr.unice.polytech.qgl.qaf.Eve.phase0(Eve.java:218)",
+      "fr.unice.polytech.qgl.qaf.Eve.takeDecision(Eve.java:193)",
+      "fr.unice.polytech.qgl.qaf.Explorer.takeDecision(Explorer.java:59)",
+      "eu.ace_design.island.game.Engine$$anonfun$3.apply(Engine.scala:48)",
+      "eu.ace_design.island.game.Engine$$anonfun$3.apply(Engine.scala:48)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24)",
+      "scala.concurrent.impl.ExecutionContextImpl$AdaptedForkJoinTask.exec(ExecutionContextImpl.scala:121)",
+      "scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)",
+      "scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)",
+      "scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)",
+      "scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)"
+    ]],
+    "message": ["-1"]
+  },
+  "part": "Explorer",
+  "time": 1449425853655,
+  "meth": "takeDecision"
+}]

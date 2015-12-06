@@ -33,6 +33,13 @@ object Islands extends DiSLand {
       AssignPitch, usingBiomes(WhittakerDiagrams.caribbean)) usingSeed s48
   }
 
+  // Needle in an haystack
+  val s49 = 0x19ABF6AA7B22F38BL
+  lazy val week49: IslandMap = {
+    createIsland shapedAs radial(factor = 1.57) withSize 1600 having 1200.faces builtWith Seq(
+      plateau(30), flowing(rivers = 40, distance = 0.1), withMoisture(soils.wet, distance = 100),
+      AssignPitch, usingBiomes(WhittakerDiagrams.caribbean)) usingSeed s49
+  }
 
 
 
