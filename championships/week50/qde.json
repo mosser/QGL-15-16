@@ -19,7 +19,7 @@
     "budget": 10000
   },
   "part": "Engine",
-  "time": 1450082896012,
+  "time": 1450109867764,
   "meth": "initialize"
 },{
   "data": {
@@ -27,11 +27,11 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1450082896045,
+  "time": 1450109867797,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 5,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 52
@@ -39,7 +39,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1450082896046,
+  "time": 1450109867798,
   "meth": "takeDecision"
 },{
   "data": {
@@ -47,11 +47,11 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1450082896048,
+  "time": 1450109867799,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 8,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 52
@@ -59,7 +59,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1450082896048,
+  "time": 1450109867800,
   "meth": "takeDecision"
 },{
   "data": {
@@ -67,7 +67,7 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1450082896048,
+  "time": 1450109867801,
   "meth": "takeDecision"
 },{
   "data": {
@@ -76,21 +76,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1450082896048,
+  "time": 1450109867801,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1450082896049,
+  "time": 1450109867802,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 5,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1450082896049,
+  "time": 1450109867802,
   "meth": "takeDecision"
 },{
   "data": {
@@ -124,7 +124,7 @@
       "scala.collection.AbstractTraversable.map(Traversable.scala:104)",
       "eu.ace_design.island.arena.Championship$class.run(Championship.scala:55)",
       "Week50$.run(Week50.scala:7)",
-      "eu.ace_design.island.arena.Run$class.run(Run.scala:44)",
+      "eu.ace_design.island.arena.Run$class.run(Run.scala:47)",
       "Week50$.run(Week50.scala:7)",
       "Week50$.delayedEndpoint$Week50$1(Week50.scala:21)",
       "Week50$delayedInit$body.apply(Week50.scala:7)",
@@ -146,6 +146,6 @@
     "message": ["Futures timed out after [2000 milliseconds]"]
   },
   "part": "Explorer",
-  "time": 1450082898050,
+  "time": 1450109869803,
   "meth": "takeDecision"
 }]

@@ -27,7 +27,7 @@ trait SI3 extends Teams {
     "qbb" -> new fr.unice.polytech.qgl.qbb.Explorer(),
     "qbc" -> new fr.unice.polytech.qgl.qbc.Explorer(),
     "qbd" -> new fr.unice.polytech.qgl.qbd.Explorer(),
-    "qbe" -> new fr.unice.polytech.qgl.qbe.Explorer(),
+    //"qbe" -> new fr.unice.polytech.qgl.qbe.Explorer(),
     "qbf" -> new fr.unice.polytech.qgl.qbf.Explorer()
   )
 

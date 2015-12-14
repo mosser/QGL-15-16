@@ -15,24 +15,25 @@
   - Pitch for lands (%) [min]       => 0,00
 
 ## Resources amounts
-  - FISH       => 565234
-  - FUR        => 40721
-  - WOOD       => 21558
-  - SUGAR_CANE => 2208
-  - QUARTZ     => 2169
-  - FRUITS     => 584
-  - FLOWER     => 546
+  - FISH       => 548322
+  - FUR        => 40591
+  - WOOD       => 28077
+  - QUARTZ     => 3191
+  - SUGAR_CANE => 1242
+  - FRUITS     => 778
+  - FLOWER     => 402
 
 ## Point of Interests available
-  - (30,112): Set(Creek(1c7962f8-555a-4bb4-a7b8-006febacf99c,Some(Point(305.3627790501874,1129.9446584630614))))
-  - (52,144): Set(Creek(189028e3-a6c9-47b8-b3b9-3a0d28d7e489,Some(Point(528.0803990008395,1442.7612774449449))))
-  - (101,136): Set(Creek(e6c833dd-9461-4dea-a180-bd3bcac1660a,Some(Point(1013.3904451970601,1360.4303055682449))))
-  - (49,138): Set(Creek(6675a6d8-cbac-4097-bee3-8bfa73d56c4e,Some(Point(494.0441073528514,1389.9821956853348))))
-  - (86,150): Set(Creek(f45c6cf8-83e8-417a-9123-e6e0bea39010,Some(Point(869.0941922515377,1502.1225894078077))))
-  - (93,78): Set(Creek(9b4f7de4-5b69-4b81-92a8-81f6c7d343de,Some(Point(939.4237624881339,786.9583721192688))))
-  - (124,131): Set(Creek(49c02fb6-c701-40a0-91ce-2e510c0a098f,Some(Point(1246.6337165973678,1310.4305019812302))))
-  - (95,76): Set(Creek(ba291c5c-75fc-42aa-9205-8f083cadce24,Some(Point(955.3386199739101,761.6253726774554))), Creek(a0dc312e-7acf-43d0-ab9a-ff1a5825c56e,Some(Point(955.3386199739101,761.6253726774554))))
-  - (129,99): Set(Creek(543bfe67-9320-4da3-b337-bf4d4683e7df,Some(Point(1294.6154949992786,990.1605194423818))))
+  - (95,47): Set(Creek(8e44b3f7-388c-4594-8316-5b2e7e20813d,Some(Point(956.2849265456754,478.9694498087326))))
+  - (121,139): Set(Creek(97b3c144-2be9-4304-9e62-3c06f963efca,Some(Point(1212.9801293795038,1397.7252362510437))))
+  - (94,71): Set(Creek(d64fb8cd-7fc0-4140-91b9-4e251ec2d145,Some(Point(942.4787056728823,712.9800350693516))))
+  - (34,104): Set(Creek(cfb633da-c217-4cfa-a776-6866ee47c360,Some(Point(342.14069166921627,1041.1719319751385))))
+  - (49,138): Set(Creek(c817fd3b-1ef9-4997-848b-8396dce7b19a,Some(Point(494.0441073528514,1389.9821956853348))))
+  - (22,37): Set(Creek(26d076c1-6768-4d81-adf7-554cdd3385f6,Some(Point(226.62677272693813,373.2775393207494))))
+  - (86,150): Set(Creek(ef01efef-7d9c-467d-a006-611f8462f7e2,Some(Point(869.0941922515377,1502.1225894078077))))
+  - (20,116): Set(Creek(9b66b2b8-f8a6-4ef4-8972-e1842b7e9a8a,Some(Point(200.41308804126746,1165.0009923546693))))
+  - (73,10): Set(Creek(8abad635-3489-4bb1-bcc4-2628a23c0c67,Some(Point(730.0882510318984,104.05160419858323))))
+  - (108,126): Set(Creek(0a5b15fb-ed0f-483c-a283-7d88d1d4fd6e,Some(Point(1081.387632719971,1264.0926359153586))))
 
   - Starting tile: Some((1,1))
 
@@ -47,116 +48,117 @@
 # Successful simulations
 
 ## Playing bot delivered by QAB
-  - Remaining budget: 9766
+  - Remaining budget: 9742
   - Used men: 0
   - Collected resources:
     - No resources collected
 
 ## Playing bot delivered by QAC
-  - Remaining budget: 9984
+  - Remaining budget: 9981
   - Used men: 0
   - Collected resources:
     - No resources collected
 
 ## Playing bot delivered by QAD
-  - Remaining budget: 9272
+  - Remaining budget: 8199
   - Used men: 1
   - Collected resources:
-    - FISH: 1
+    - FISH: 2
 
 ## Playing bot delivered by QAE
-  - Remaining budget: 9659
+  - Remaining budget: 9634
   - Used men: 0
   - Collected resources:
     - No resources collected
 
 ## Playing bot delivered by QAF
-  - Remaining budget: 7516
+  - Remaining budget: 9830
   - Used men: 0
   - Collected resources:
     - No resources collected
 
 ## Playing bot delivered by QBA
-  - Remaining budget: 9522
+  - Remaining budget: 8189
   - Used men: 2
   - Collected resources:
     - No resources collected
 
 ## Playing bot delivered by QBB
-  - Remaining budget: 461
+  - Remaining budget: 4067
   - Used men: 1
   - Collected resources:
-    - WOOD: 829
+    - WOOD: 1033
 
 ## Playing bot delivered by QBC
-  - Remaining budget: 4565
+  - Remaining budget: 9772
   - Used men: 2
   - Collected resources:
-    - FUR: 2
+    - FUR: 1
 
 ## Playing bot delivered by QBD
-  - Remaining budget: 9495
+  - Remaining budget: 9494
   - Used men: 0
   - Collected resources:
     - No resources collected
 
 ## Playing bot delivered by QBF
-  - Remaining budget: 8904
+  - Remaining budget: 9449
   - Used men: 1
   - Collected resources:
     - No resources collected
 
 ## Playing bot delivered by QCA
-  - Remaining budget: 56
+  - Remaining budget: 63
   - Used men: 2
   - Collected resources:
-    - No resources collected
+    - FUR: 24
 
 ## Playing bot delivered by QCB
-  - Remaining budget: 1120
+  - Remaining budget: 1744
   - Used men: 1
   - Collected resources:
-    - FUR: 1357
-    - WOOD: 1025
+    - FUR: 1262
+    - WOOD: 1003
 
 ## Playing bot delivered by QCC
-  - Remaining budget: 2045
+  - Remaining budget: 2068
   - Used men: 2
   - Collected resources:
     - No resources collected
 
 ## Playing bot delivered by QCD
-  - Remaining budget: 9998
+  - Remaining budget: 9996
   - Used men: 0
   - Collected resources:
     - No resources collected
 
 ## Playing bot delivered by QDA
-  - Remaining budget: 49
+  - Remaining budget: 75
   - Used men: 1
   - Collected resources:
-    - FUR: 973
+    - FUR: 1653
 
 ## Playing bot delivered by QDB
-  - Remaining budget: 46
+  - Remaining budget: 77
   - Used men: 2
   - Collected resources:
-    - No resources collected
+    - WOOD: 1595
+    - QUARTZ: 19
 
 ## Playing bot delivered by QDC
-  - Remaining budget: 8569
+  - Remaining budget: 8614
   - Used men: 1
   - Collected resources:
     - No resources collected
 
 ## Playing bot delivered by QDD
-  - Remaining budget: 14
-  - Used men: 0
+  - Remaining budget: 7676
+  - Used men: 1
   - Collected resources:
     - No resources collected
 
 ## Playing bot delivered by QDF
-  - Remaining budget: 9983
+  - Remaining budget: 9979
   - Used men: 0
   - Collected resources:
     - No resources collected
