@@ -7,27 +7,30 @@
     </Appenders>
     <Loggers>
 
+
         <Root level="off">
             <AppenderRef ref="Console"/>
         </Root>
 
-        <Logger name="eu.ace_design.Island" level="off" additivity="false">
-            <AppenderRef ref="Console"/>
-        </Logger>
-        <Logger name="eu.ace_design.Island/Mesh" level="info" additivity="false">
-            <AppenderRef ref="Console"/>
-        </Logger>
-        <Logger name="eu.ace_design.Island/Map" level="info" additivity="false">
-            <AppenderRef ref="Console"/>
-        </Logger>
-        <Logger name="eu.ace_design.Island/Viewer" level="off" additivity="false">
-            <AppenderRef ref="Console"/>
-        </Logger>
-        <Logger name="eu.ace_design.Island/Board" level="off" additivity="false">
-            <AppenderRef ref="Console"/>
-        </Logger>
-        <Logger name="*" level="off" additivity="true">
-            <AppenderRef ref="Console"/>
-        </Logger>
+        <!--
+       <Logger name="eu.ace_design.Island" level="off" additivity="false">
+           <AppenderRef ref="Console"/>
+       </Logger>
+       <Logger name="eu.ace_design.Island/Mesh" level="info" additivity="false">
+           <AppenderRef ref="Console"/>
+       </Logger>
+       <Logger name="eu.ace_design.Island/Map" level="info" additivity="false">
+           <AppenderRef ref="Console"/>
+       </Logger>
+       <Logger name="eu.ace_design.Island/Viewer" level="off" additivity="false">
+           <AppenderRef ref="Console"/>
+       </Logger>
+       <Logger name="eu.ace_design.Island/Board" level="off" additivity="false">
+           <AppenderRef ref="Console"/>
+       </Logger>
+       <Logger name="*" level="off" additivity="true">
+           <AppenderRef ref="Console"/>
+       </Logger>
+       -->
     </Loggers>
 </Configuration>

@@ -33,7 +33,7 @@ object Islands extends DiSLand {
       AssignPitch, usingBiomes(WhittakerDiagrams.caribbean)) usingSeed s48
   }
 
-  // Needle in an haystack
+  // Let the game begin: ocean inside!
   val s49 = 0x19ABF6AA7B22F38BL
   lazy val week49: IslandMap = {
     createIsland shapedAs radial(factor = 1.57) withSize 1600 having 1200.faces builtWith Seq(
@@ -41,6 +41,14 @@ object Islands extends DiSLand {
       AssignPitch, usingBiomes(WhittakerDiagrams.caribbean)) usingSeed s49
   }
 
+
+  // Large island, three capes, but few wood.
+  val s50 = 0xBE3EF65BEF2BD459L
+  lazy val week50: IslandMap = {
+    createIsland shapedAs radial(factor = 0.42) withSize 1600 having 1200.faces builtWith Seq(
+      plateau(5), flowing(rivers = 10, distance = 0.9), withMoisture(soils.dry, distance = 200),
+      AssignPitch, usingBiomes(WhittakerDiagrams.caribbean)) usingSeed s50
+  }
 
 
 }
