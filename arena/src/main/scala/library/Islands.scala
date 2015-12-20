@@ -50,5 +50,12 @@ object Islands extends DiSLand {
       AssignPitch, usingBiomes(WhittakerDiagrams.caribbean)) usingSeed s50
   }
 
+  // Butterfly island
+  val s51 = 0x9B4937D7A7783C0EL
+  lazy val week51: IslandMap = {
+    createIsland shapedAs radial(factor = 0.01) withSize 1600 having 1500.faces builtWith Seq(
+      plateau(20), flowing(rivers = 50, distance = 0.9), withMoisture(soils.normal, distance = 900),
+      AssignPitch, usingBiomes(WhittakerDiagrams.caribbean)) usingSeed s51
+  }
 
 }
