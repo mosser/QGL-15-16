@@ -3,10 +3,6 @@ package library
 import eu.ace_design.island.arena.Teams
 import eu.ace_design.island.bot.IExplorerRaid
 
-/**
-  * This file is part of the Default (Template) Project project
-  * @author mosser (22/11/2015, 10:51)
-  **/
 trait SI3 extends Teams {
 
   def all: Map[String, IExplorerRaid] = g1 ++ g2 ++ g3 ++ g4
@@ -27,7 +23,7 @@ trait SI3 extends Teams {
     "qbb" -> new fr.unice.polytech.qgl.qbb.Explorer(),
     "qbc" -> new fr.unice.polytech.qgl.qbc.Explorer(),
     "qbd" -> new fr.unice.polytech.qgl.qbd.Explorer(),
-    //"qbe" -> new fr.unice.polytech.qgl.qbe.Explorer(),
+    "qbe" -> new fr.unice.polytech.qgl.qbe.Explorer(),
     "qbf" -> new fr.unice.polytech.qgl.qbf.Explorer()
   )
 
