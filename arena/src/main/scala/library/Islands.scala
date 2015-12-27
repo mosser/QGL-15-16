@@ -58,4 +58,12 @@ object Islands extends DiSLand {
       AssignPitch, usingBiomes(WhittakerDiagrams.caribbean)) usingSeed s51
   }
 
+  // Salamander's Island (looks like a salamander looking to the right)
+  val s52 = 0x6C3E51CEEFA93D5FL
+  lazy val week52: IslandMap = {
+    createIsland shapedAs radial(factor = 1.42) withSize 1600 having 1500.faces builtWith Seq(
+      plateau(40), flowing(rivers = 10, distance = 0.7), withMoisture(soils.wet, distance = 400),
+      AssignPitch, usingBiomes(WhittakerDiagrams.caribbean)) usingSeed s52
+  }
+
 }
