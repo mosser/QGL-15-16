@@ -1,36 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Configuration status="warn">
+<Configuration status="off">
+
     <Appenders>
-        <Console name="Console" target="SYSTEM_OUT">
-            <PatternLayout pattern="    %d{HH:mm:ss} %-5level %-13logger{1} %msg%n"/>
+        <Console name="stdout">
+            <PatternLayout>
+                <Pattern>[%p] %c:%m%n</Pattern>
+            </PatternLayout>
         </Console>
     </Appenders>
-    <Loggers>
 
+   <Loggers>
+        <Logger name="eu.ace_design.Island" level="off" additivity="false">
+            <AppenderRef ref="stdout"/>
+        </Logger>
+        <Logger name="eu.ace_design.Island/Mesh" level="off" additivity="false">
+            <AppenderRef ref="stdout"/>
+        </Logger>
+        <Logger name="eu.ace_design.Island/Map" level="off" additivity="false">
+            <AppenderRef ref="stdout"/>
+        </Logger>
+        <Logger name="eu.ace_design.Island/Viewer" level="off" additivity="false">
+            <AppenderRef ref="stdout"/>
+        </Logger>
+        <Logger name="eu.ace_design.Island/Board" level="off" additivity="false">
+            <AppenderRef ref="stdout"/>
+        </Logger>
+       <Root level="off">
+           <AppenderRef ref="stdout" />
+       </Root>
+   </Loggers>
 
-        <Root level="off">
-            <AppenderRef ref="Console"/>
-        </Root>
-
-        <!--
-       <Logger name="eu.ace_design.Island" level="off" additivity="false">
-           <AppenderRef ref="Console"/>
-       </Logger>
-       <Logger name="eu.ace_design.Island/Mesh" level="info" additivity="false">
-           <AppenderRef ref="Console"/>
-       </Logger>
-       <Logger name="eu.ace_design.Island/Map" level="info" additivity="false">
-           <AppenderRef ref="Console"/>
-       </Logger>
-       <Logger name="eu.ace_design.Island/Viewer" level="off" additivity="false">
-           <AppenderRef ref="Console"/>
-       </Logger>
-       <Logger name="eu.ace_design.Island/Board" level="off" additivity="false">
-           <AppenderRef ref="Console"/>
-       </Logger>
-       <Logger name="*" level="off" additivity="true">
-           <AppenderRef ref="Console"/>
-       </Logger>
-       -->
-    </Loggers>
 </Configuration>
