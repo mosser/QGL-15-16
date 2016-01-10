@@ -11,13 +11,13 @@ object Week01 extends Run with SI3 {
   override val seed: Long                = Islands.s01
   override lazy val theIsland: IslandMap = Islands.week01
 
-  override val crew: Int    = 25
-  override val budget: Int  = 10000
+  override val crew: Int    = 4
+  override val budget: Int  = 15000
   override val plane: Plane = Plane(1, 1, Directions.EAST)
-  override val objectives   = Set((FLOWER, 80), (WOOD, 5000), (GLASS, 100))
+  override val objectives   = Set((FLOWER, 80), (WOOD, 3000), (QUARTZ, 800), (PLANK, 1000))
 
-  override def players = all
+  override def players = all  - "qae" - "qaf" - "qbe"- "qcf" - "qdd" - "qde"
 
-  generate()
+  run
 
 }
