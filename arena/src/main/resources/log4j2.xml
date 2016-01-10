@@ -4,7 +4,7 @@
     <Appenders>
         <Console name="stdout">
             <PatternLayout>
-                <Pattern>[%p] %c:%m%n</Pattern>
+                <Pattern>    [%p] %c:%m%n</Pattern>
             </PatternLayout>
         </Console>
     </Appenders>
@@ -16,13 +16,13 @@
         <Logger name="eu.ace_design.Island/Mesh" level="off" additivity="false">
             <AppenderRef ref="stdout"/>
         </Logger>
-        <Logger name="eu.ace_design.Island/Map" level="off" additivity="false">
+        <Logger name="eu.ace_design.Island/Map" level="INFO" additivity="false">
             <AppenderRef ref="stdout"/>
         </Logger>
         <Logger name="eu.ace_design.Island/Viewer" level="off" additivity="false">
             <AppenderRef ref="stdout"/>
         </Logger>
-        <Logger name="eu.ace_design.Island/Board" level="off" additivity="false">
+        <Logger name="eu.ace_design.Island/Board" level="INFO" additivity="false">
             <AppenderRef ref="stdout"/>
         </Logger>
        <Root level="off">
