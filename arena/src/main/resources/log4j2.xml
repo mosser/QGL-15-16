@@ -4,7 +4,7 @@
     <Appenders>
         <Console name="stdout">
             <PatternLayout>
-                <Pattern>    [%p] %c:%m%n</Pattern>
+                <Pattern>[%p] %c: %m%n</Pattern>
             </PatternLayout>
         </Console>
     </Appenders>
@@ -25,6 +25,9 @@
         <Logger name="eu.ace_design.Island/Board" level="INFO" additivity="false">
             <AppenderRef ref="stdout"/>
         </Logger>
+       <Logger name="eu.ace_design.Island/Arena" level="INFO" additivity="false">
+           <AppenderRef ref="stdout"/>
+       </Logger>
        <Root level="off">
            <AppenderRef ref="stdout" />
        </Root>

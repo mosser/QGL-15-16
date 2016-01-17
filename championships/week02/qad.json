@@ -1,0 +1,100 @@
+[{
+  "data": {
+    "heading": "E",
+    "men": 4,
+    "contracts": [
+      {
+        "amount": 50,
+        "resource": "GLASS"
+      },
+      {
+        "amount": 200,
+        "resource": "QUARTZ"
+      },
+      {
+        "amount": 5000,
+        "resource": "WOOD"
+      },
+      {
+        "amount": 40,
+        "resource": "FLOWER"
+      }
+    ],
+    "budget": 15000
+  },
+  "part": "Engine",
+  "time": 1453057042607,
+  "meth": "initialize"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1453057042615,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 52
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1453057042615,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "exception": ["TimeoutException"],
+    "stacktrace": [[
+      "scala.concurrent.impl.Promise$DefaultPromise.ready(Promise.scala:219)",
+      "scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:223)",
+      "scala.concurrent.Await$$anonfun$result$1.apply(package.scala:116)",
+      "scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:53)",
+      "scala.concurrent.Await$.result(package.scala:116)",
+      "eu.ace_design.island.util.Timeout$class.timeout(Timeout.scala:16)",
+      "eu.ace_design.island.game.Engine.timeout(Engine.scala:18)",
+      "eu.ace_design.island.game.Engine.process$1(Engine.scala:66)",
+      "eu.ace_design.island.game.Engine.play(Engine.scala:83)",
+      "eu.ace_design.island.game.Engine.run(Engine.scala:39)",
+      "eu.ace_design.island.arena.Championship$class.silent(Championship.scala:90)",
+      "Week02$.silent(Week02.scala:7)",
+      "eu.ace_design.island.arena.Championship$class.handlePlayer(Championship.scala:71)",
+      "Week02$.handlePlayer(Week02.scala:7)",
+      "eu.ace_design.island.arena.Championship$$anonfun$run$1.apply(Championship.scala:61)",
+      "eu.ace_design.island.arena.Championship$$anonfun$run$1.apply(Championship.scala:58)",
+      "scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:245)",
+      "scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:245)",
+      "scala.collection.immutable.HashMap$HashMap1.foreach(HashMap.scala:221)",
+      "scala.collection.immutable.HashMap$HashTrieMap.foreach(HashMap.scala:428)",
+      "scala.collection.TraversableLike$class.map(TraversableLike.scala:245)",
+      "scala.collection.AbstractTraversable.map(Traversable.scala:104)",
+      "eu.ace_design.island.arena.Championship$class.run(Championship.scala:58)",
+      "Week02$.run(Week02.scala:7)",
+      "eu.ace_design.island.arena.Run$class.run(Run.scala:47)",
+      "Week02$.run(Week02.scala:7)",
+      "Week02$.delayedEndpoint$Week02$1(Week02.scala:21)",
+      "Week02$delayedInit$body.apply(Week02.scala:7)",
+      "scala.Function0$class.apply$mcV$sp(Function0.scala:40)",
+      "scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:12)",
+      "scala.App$$anonfun$main$1.apply(App.scala:76)",
+      "scala.App$$anonfun$main$1.apply(App.scala:76)",
+      "scala.collection.immutable.List.foreach(List.scala:381)",
+      "scala.collection.generic.TraversableForwarder$class.foreach(TraversableForwarder.scala:35)",
+      "scala.App$class.main(App.scala:76)",
+      "Week02$.main(Week02.scala:7)",
+      "Week02.main(Week02.scala)",
+      "sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)",
+      "sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)",
+      "sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)",
+      "java.lang.reflect.Method.invoke(Method.java:483)",
+      "com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)"
+    ]],
+    "message": ["Futures timed out after [2000 milliseconds]"]
+  },
+  "part": "Explorer",
+  "time": 1453057044618,
+  "meth": "acknowledgeResults"
+}]

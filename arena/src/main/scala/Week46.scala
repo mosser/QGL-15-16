@@ -38,6 +38,6 @@ object Week46 extends Championship with SI3 with DiSLand {
   val results = run(initialization,theBoard, theIsland)
 
   // Displaying results
-  printResults(results)
+  printResults(results, objectives)
 
 }
