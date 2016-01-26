@@ -89,5 +89,12 @@ object Islands extends DiSLand {
       AssignPitch, usingBiomes(WhittakerDiagrams.caribbean))  usingSeed s02
   }
 
+  //
+  val s03 = 0xC0ECF96E85B08EFEL
+  lazy val week03: IslandMap = {
+    createIsland shapedAs radial(factor = 1.666) withSize 1600 having 1500.faces builtWith Seq(
+      plateau(30), flowing(rivers = 18, distance = 0.9), withMoisture(soils.wet, distance = 600),
+      AssignPitch, usingBiomes(WhittakerDiagrams.caribbean))  usingSeed s03
+  }
 
 }
