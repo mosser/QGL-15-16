@@ -19,7 +19,7 @@
     "budget": 10000
   },
   "part": "Engine",
-  "time": 1454269660235,
+  "time": 1454274546018,
   "meth": "initialize"
 },{
   "data": {
@@ -27,11 +27,11 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1454269660257,
+  "time": 1454274546040,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 7,
+    "cost": 3,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 0
@@ -39,7 +39,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660257,
+  "time": 1454274546040,
   "meth": "takeDecision"
 },{
   "data": {
@@ -47,7 +47,7 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1454269660258,
+  "time": 1454274546042,
   "meth": "takeDecision"
 },{
   "data": {
@@ -59,7 +59,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660258,
+  "time": 1454274546042,
   "meth": "takeDecision"
 },{
   "data": {
@@ -67,7 +67,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1454269660258,
+  "time": 1454274546043,
   "meth": "takeDecision"
 },{
   "data": {
@@ -79,12 +79,46 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660259,
+  "time": 1454274546043,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660263,
+  "time": 1454274546051,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546051,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1454274546052,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 52
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546052,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546053,
   "meth": "takeDecision"
 },{
   "data": {
@@ -93,7 +127,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660263,
+  "time": 1454274546053,
   "meth": "takeDecision"
 },{
   "data": {
@@ -101,7 +135,7 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1454269660264,
+  "time": 1454274546053,
   "meth": "takeDecision"
 },{
   "data": {
@@ -113,21 +147,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660264,
+  "time": 1454274546053,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660264,
+  "time": 1454274546054,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 2,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660264,
+  "time": 1454274546054,
   "meth": "takeDecision"
 },{
   "data": {
@@ -135,11 +169,11 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1454269660264,
+  "time": 1454274546054,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 8,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 52
@@ -147,21 +181,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660265,
+  "time": 1454274546054,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660265,
+  "time": 1454274546054,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 3,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660265,
+  "time": 1454274546054,
   "meth": "takeDecision"
 },{
   "data": {
@@ -169,45 +203,11 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1454269660265,
+  "time": 1454274546055,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 52
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660265,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660265,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660265,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1454269660266,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
+    "cost": 4,
     "extras": {
       "found": "GROUND",
       "range": 17
@@ -215,7 +215,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660266,
+  "time": 1454274546055,
   "meth": "takeDecision"
 },{
   "data": {
@@ -223,49 +223,7 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1454269660266,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660266,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 2,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660268,
+  "time": 1454274546056,
   "meth": "takeDecision"
 },{
   "data": {
@@ -274,12 +232,54 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660268,
+  "time": 1454274546056,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660268,
+  "time": 1454274546058,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546058,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546058,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546058,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546058,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546058,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546059,
   "meth": "takeDecision"
 },{
   "data": {
@@ -288,12 +288,82 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660268,
+  "time": 1454274546059,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660268,
+  "time": 1454274546059,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 2,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546059,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546059,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546059,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546059,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546059,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546059,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546059,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546059,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546059,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546059,
   "meth": "takeDecision"
 },{
   "data": {
@@ -302,96 +372,26 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660268,
+  "time": 1454274546059,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660268,
+  "time": 1454274546059,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 4,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660268,
+  "time": 1454274546059,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660268,
+  "time": 1454274546059,
   "meth": "takeDecision"
 },{
   "data": {
@@ -400,110 +400,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660268,
+  "time": 1454274546059,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 2,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 2,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660268,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660269,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660269,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660269,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660269,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660269,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660269,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660269,
+  "time": 1454274546059,
   "meth": "takeDecision"
 },{
   "data": {
@@ -512,26 +414,26 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660269,
+  "time": 1454274546059,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660269,
+  "time": 1454274546060,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 4,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660269,
+  "time": 1454274546060,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660273,
+  "time": 1454274546060,
   "meth": "takeDecision"
 },{
   "data": {
@@ -540,16 +442,114 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660273,
+  "time": 1454274546060,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546060,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 2,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546060,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546060,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546060,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546060,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546060,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546060,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546060,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546060,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546060,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546060,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546060,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546067,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546067,
   "meth": "takeDecision"
 },{
   "data": {"action": "scan"},
   "part": "Explorer",
-  "time": 1454269660273,
+  "time": 1454274546067,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 6,
     "extras": {
       "creeks": [],
       "biomes": ["OCEAN"]
@@ -557,7 +557,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660273,
+  "time": 1454274546067,
   "meth": "takeDecision"
 },{
   "data": {
@@ -565,7 +565,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1454269660274,
+  "time": 1454274546069,
   "meth": "takeDecision"
 },{
   "data": {
@@ -574,7 +574,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660274,
+  "time": 1454274546069,
   "meth": "takeDecision"
 },{
   "data": {
@@ -582,7 +582,7 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1454269660274,
+  "time": 1454274546069,
   "meth": "takeDecision"
 },{
   "data": {
@@ -591,16 +591,16 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660274,
+  "time": 1454274546069,
   "meth": "takeDecision"
 },{
   "data": {"action": "scan"},
   "part": "Explorer",
-  "time": 1454269660275,
+  "time": 1454274546069,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 3,
     "extras": {
       "creeks": [],
       "biomes": ["OCEAN"]
@@ -608,26 +608,26 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660275,
+  "time": 1454274546069,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660275,
+  "time": 1454274546069,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 2,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660275,
+  "time": 1454274546069,
   "meth": "takeDecision"
 },{
   "data": {"action": "scan"},
   "part": "Explorer",
-  "time": 1454269660275,
+  "time": 1454274546069,
   "meth": "takeDecision"
 },{
   "data": {
@@ -642,123 +642,30 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660275,
+  "time": 1454274546069,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660275,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 2,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660275,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "scan"},
-  "part": "Explorer",
-  "time": 1454269660275,
+  "time": 1454274546070,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 3,
-    "extras": {
-      "creeks": [],
-      "biomes": ["BEACH"]
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660275,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660275,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660275,
+  "time": 1454274546070,
   "meth": "takeDecision"
 },{
   "data": {"action": "scan"},
   "part": "Explorer",
-  "time": 1454269660275,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "creeks": [],
-      "biomes": ["BEACH"]
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660275,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660275,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660275,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "scan"},
-  "part": "Explorer",
-  "time": 1454269660275,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "creeks": [],
-      "biomes": ["BEACH"]
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660275,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660275,
+  "time": 1454274546070,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 6,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660275,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "scan"},
-  "part": "Explorer",
-  "time": 1454269660275,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 4,
     "extras": {
       "creeks": [],
       "biomes": ["BEACH"]
@@ -766,12 +673,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660276,
+  "time": 1454274546070,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660276,
+  "time": 1454274546070,
   "meth": "takeDecision"
 },{
   "data": {
@@ -780,12 +687,105 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660276,
+  "time": 1454274546070,
   "meth": "takeDecision"
 },{
   "data": {"action": "scan"},
   "part": "Explorer",
-  "time": 1454269660276,
+  "time": 1454274546070,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {
+      "creeks": [],
+      "biomes": ["BEACH"]
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546070,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546070,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546070,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "scan"},
+  "part": "Explorer",
+  "time": 1454274546070,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "creeks": [],
+      "biomes": ["BEACH"]
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546070,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546070,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546070,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "scan"},
+  "part": "Explorer",
+  "time": 1454274546070,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 8,
+    "extras": {
+      "creeks": [],
+      "biomes": ["BEACH"]
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546070,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546071,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546071,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "scan"},
+  "part": "Explorer",
+  "time": 1454274546071,
   "meth": "takeDecision"
 },{
   "data": {
@@ -797,30 +797,30 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660276,
+  "time": 1454274546071,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660276,
+  "time": 1454274546071,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 2,
+    "cost": 4,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660276,
+  "time": 1454274546071,
   "meth": "takeDecision"
 },{
   "data": {"action": "scan"},
   "part": "Explorer",
-  "time": 1454269660276,
+  "time": 1454274546071,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 7,
+    "cost": 4,
     "extras": {
       "creeks": [],
       "biomes": ["BEACH"]
@@ -828,30 +828,30 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660276,
+  "time": 1454274546071,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660276,
+  "time": 1454274546071,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 5,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660276,
+  "time": 1454274546071,
   "meth": "takeDecision"
 },{
   "data": {"action": "scan"},
   "part": "Explorer",
-  "time": 1454269660276,
+  "time": 1454274546071,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 3,
+    "cost": 6,
     "extras": {
       "creeks": [],
       "biomes": ["OCEAN"]
@@ -859,7 +859,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660276,
+  "time": 1454274546071,
   "meth": "takeDecision"
 },{
   "data": {
@@ -867,7 +867,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1454269660277,
+  "time": 1454274546072,
   "meth": "takeDecision"
 },{
   "data": {
@@ -876,7 +876,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660277,
+  "time": 1454274546072,
   "meth": "takeDecision"
 },{
   "data": {
@@ -884,21 +884,21 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1454269660277,
+  "time": 1454274546072,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 6,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660277,
+  "time": 1454274546073,
   "meth": "takeDecision"
 },{
   "data": {"action": "scan"},
   "part": "Explorer",
-  "time": 1454269660277,
+  "time": 1454274546073,
   "meth": "takeDecision"
 },{
   "data": {
@@ -913,43 +913,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660277,
+  "time": 1454274546073,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660277,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660277,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "scan"},
-  "part": "Explorer",
-  "time": 1454269660277,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {
-      "creeks": [],
-      "biomes": ["BEACH"]
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660277,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660277,
+  "time": 1454274546073,
   "meth": "takeDecision"
 },{
   "data": {
@@ -958,16 +927,47 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660277,
+  "time": 1454274546073,
   "meth": "takeDecision"
 },{
   "data": {"action": "scan"},
   "part": "Explorer",
-  "time": 1454269660277,
+  "time": 1454274546073,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 7,
+    "cost": 6,
+    "extras": {
+      "creeks": [],
+      "biomes": ["BEACH"]
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546073,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546073,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546073,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "scan"},
+  "part": "Explorer",
+  "time": 1454274546073,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
     "extras": {
       "creeks": [],
       "biomes": [
@@ -978,57 +978,26 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660277,
+  "time": 1454274546073,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660277,
+  "time": 1454274546073,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 3,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660277,
+  "time": 1454274546073,
   "meth": "takeDecision"
 },{
   "data": {"action": "scan"},
   "part": "Explorer",
-  "time": 1454269660277,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "creeks": [],
-      "biomes": ["TROPICAL_SEASONAL_FOREST"]
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660277,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1454269660278,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1454269660278,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "scan"},
-  "part": "Explorer",
-  "time": 1454269660278,
+  "time": 1454274546073,
   "meth": "takeDecision"
 },{
   "data": {
@@ -1040,34 +1009,65 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660278,
+  "time": 1454274546074,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1454269660278,
+  "time": 1454274546074,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 3,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660278,
+  "time": 1454274546074,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "scan"},
+  "part": "Explorer",
+  "time": 1454274546074,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "creeks": [],
+      "biomes": ["TROPICAL_SEASONAL_FOREST"]
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546074,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1454274546074,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1454274546074,
   "meth": "takeDecision"
 },{
   "data": {"action": "stop"},
   "part": "Explorer",
-  "time": 1454269660278,
+  "time": 1454274546074,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 14,
+    "cost": 10,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1454269660278,
+  "time": 1454274546074,
   "meth": "takeDecision"
 }]
