@@ -97,4 +97,7 @@ object Islands extends DiSLand {
       AssignPitch, usingBiomes(WhittakerDiagrams.caribbean))  usingSeed s03
   }
 
+  val s04 = s52
+  lazy val week04 = week52
+
 }
