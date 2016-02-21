@@ -2,10 +2,10 @@
 source ./framework.sh
 
 ####
-## Week #06
+## Week #07
 ####
 
-TAG="week06"
+TAG="week07"
 
 function valid_env() # $1 is project's id.
 {
