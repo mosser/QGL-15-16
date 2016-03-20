@@ -16,7 +16,7 @@ object Week10 extends Run with SI3 {
 
   override val crew: Int    = 15
   override val budget: Int  = 20000
-  override val plane: Plane = Plane(159, 159, Directions.NORTH)
+  override val plane: Plane = Plane(158, 158, Directions.NORTH)
   override val objectives   = Set((WOOD, 10000), (QUARTZ, 500), (LEATHER, 300), (RUM, 50))
 
   override def players = all - "qae"

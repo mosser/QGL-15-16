@@ -24,18 +24,18 @@
   - FLOWER     => 802
 
 ## Point of Interests available
-  - (65,141): Set(Creek(139573f7-1451-493d-927b-b9a6558deb36,Some(Point(655.4461373460243,1411.3620684014682))))
-  - (24,28): Set(Creek(c3e1d337-4370-4e29-8a08-59b47bfa2936,Some(Point(249.08923306840825,281.10760166115307))))
-  - (119,132): Set(Creek(582dc100-2b18-4a7d-a0b4-b67862efc9d6,Some(Point(1198.0516743847177,1323.7076462563748))))
-  - (80,135): Set(Creek(8b5e950a-2c8b-4f33-b128-3607df30e3b1,Some(Point(800.2054174563226,1358.008014357135))))
-  - (147,91): Set(Creek(903f424b-d499-4683-b9a7-439c2e3e68ed,Some(Point(1473.1032434777949,911.4661136884058))))
-  - (138,117): Set(Creek(3d5401b9-8bbe-4f1b-ad4e-2830e5007d52,Some(Point(1385.949994970429,1179.4581710192265))))
-  - (79,136): Set(Creek(df8cb6dc-c906-4fe0-98ed-dc5c69f8e2ee,Some(Point(792.5084575915831,1362.431942062973))))
-  - (64,133): Set(Creek(74298c9b-5e9a-4193-b0b9-a86b7bbf335f,Some(Point(648.1146414397701,1336.5089267021244))))
-  - (18,102): Set(Creek(3bdc997c-2852-4252-82de-e2e1d09704a7,Some(Point(181.2211586421007,1026.7198650979574))))
-  - (101,33): Set(Creek(9beb3c86-6df4-4cdc-a6da-183677a0ef63,Some(Point(1019.9832879644891,338.079495792668))))
+  - (65,141): Set(Creek(f5b383a2-7dff-42a4-aa38-93f19dd8213e,Some(Point(655.4461373460243,1411.3620684014682))))
+  - (24,28): Set(Creek(4514d7b3-b1b9-46ca-8f4f-b1a8a1b0c518,Some(Point(249.08923306840825,281.10760166115307))))
+  - (119,132): Set(Creek(8fe3c93c-0b73-47ea-9fa0-fbad08b3644b,Some(Point(1198.0516743847177,1323.7076462563748))))
+  - (80,135): Set(Creek(50416fbf-dafb-41b1-bfb9-599561706491,Some(Point(800.2054174563226,1358.008014357135))))
+  - (147,91): Set(Creek(6c4ab50f-71f5-49d4-ba41-1ba73677cb89,Some(Point(1473.1032434777949,911.4661136884058))))
+  - (138,117): Set(Creek(de65c7b1-61a2-4d03-9d54-b9f2a0b86c1b,Some(Point(1385.949994970429,1179.4581710192265))))
+  - (79,136): Set(Creek(98e20c93-a35f-410a-939d-90fd79fce91b,Some(Point(792.5084575915831,1362.431942062973))))
+  - (64,133): Set(Creek(05da61ba-29a1-4b26-9cb3-e468264ed5bf,Some(Point(648.1146414397701,1336.5089267021244))))
+  - (18,102): Set(Creek(d0b7569d-05aa-415f-b9c0-89774b8a8f42,Some(Point(181.2211586421007,1026.7198650979574))))
+  - (101,33): Set(Creek(c38d5448-4532-4082-95ed-55d21f81c721,Some(Point(1019.9832879644891,338.079495792668))))
 
-  - Starting tile: Some((159,159))
+  - Starting tile: Some((158,158))
 
 ## Objectives
   - WOOD      : 10000
@@ -46,186 +46,189 @@
 ## Running championship with the following players
   - QAA, QAB, QAC, QAD, QAF, QBA, QBB, QBC, QBD, QBE, QBF, QCA, QCB, QCC, QCD, QCE, QDA, QDB, QDC, QDD, QDE, QDF
 
-# Automatic Ranking
-  - QCB: [LEATHER, RUM], 10579 action points left
-  - QDB: [RUM, LEATHER], 4609 action points left
-  - QDD: [RUM, LEATHER], 175 action points left
-  - QBC: [LEATHER], 478 action points left
-  - QDF: [], 19449 action points left
-  - QCC: [], 10883 action points left
-  - QAA: [], 7046 action points left
-  - QBE: [], 950 action points left
-  - QAF: [], 478 action points left
-  - QAB: [], 368 action points left
-  - QBF: [], 224 action points left
-  - QCE: [], 196 action points left
-  - QAD: [], 183 action points left
-  - QCA: [], 175 action points left
-  - QDA: [], 172 action points left
-  - QBD: [], 170 action points left
-  - QBA: [], 89 action points left
-  - QBB: [], 81 action points left
-  - QDC: [], 77 action points left
-  - QCD: [], 53 action points left
+  # Automatic Ranking
+  - QBA: [RUM, QUARTZ, LEATHER], 3740 action points left
+  - QDD: [LEATHER, QUARTZ, RUM], 169 action points left
+  - QCB: [LEATHER, RUM], 10735 action points left
+  - QCC: [LEATHER, RUM], 4050 action points left
+  - QDB: [LEATHER], 156 action points left
+  - QDF: [], 19664 action points left
+  - QAA: [], 7041 action points left
+  - QBC: [], 5282 action points left
+  - QBF: [], 4392 action points left
+  - QBE: [], 972 action points left
+  - QAF: [], 475 action points left
+  - QDA: [], 468 action points left
+  - QAB: [], 371 action points left
+  - QCA: [], 288 action points left
+  - QCE: [], 238 action points left
+  - QAD: [], 187 action points left
+  - QBD: [], 173 action points left
+  - QBB: [], 74 action points left
+  - QDC: [], 69 action points left
+  - QCD: [], 64 action points left
 
 # Successful simulations
 
 ## Playing bot delivered by QAA
-  - Remaining budget: 7046
+  - Remaining budget: 7041
   - Used men: 1
   - Collected resources:
     - QUARTZ: 169
 
 ## Playing bot delivered by QAB
-  - Remaining budget: 368
+  - Remaining budget: 371
   - Used men: 1
   - Collected resources:
     - FUR: 3
-    - QUARTZ: 458
-    - WOOD: 4901
-    - FRUITS: 1
-    - SUGAR_CANE: 22
+    - QUARTZ: 315
+    - SUGAR_CANE: 4
+    - WOOD: 4740
+    - FRUITS: 7
 
 ## Playing bot delivered by QAD
-  - Remaining budget: 183
-  - Used men: 0
+  - Remaining budget: 187
+  - Used men: 1
   - Collected resources:
     - No resources collected
 
 ## Playing bot delivered by QAF
-  - Remaining budget: 478
+  - Remaining budget: 475
   - Used men: 1
-  - Collected resources:
-    - QUARTZ: 5
-
-## Playing bot delivered by QBA
-  - Remaining budget: 89
-  - Used men: 0
   - Collected resources:
     - No resources collected
 
+## Playing bot delivered by QBA
+  - Remaining budget: 3740
+  - Used men: 1
+  - Collected resources:
+    - RUM: 52
+    - QUARTZ: 504
+    - SUGAR_CANE: 17
+    - FRUITS: 8
+    - LEATHER: 300
+    - FUR: 4
+
 ## Playing bot delivered by QBB
-  - Remaining budget: 81
+  - Remaining budget: 74
   - Used men: 1
   - Collected resources:
     - No resources collected
 
 ## Playing bot delivered by QBC
-  - Remaining budget: 478
+  - Remaining budget: 5282
   - Used men: 1
   - Collected resources:
-    - QUARTZ: 322
-    - FUR: 244
-    - WOOD: 3044
-    - LEATHER: 303
+    - FUR: 1175
+    - QUARTZ: 423
+    - WOOD: 2320
 
 ## Playing bot delivered by QBD
-  - Remaining budget: 170
+  - Remaining budget: 173
   - Used men: 1
   - Collected resources:
     - QUARTZ: 228
     - WOOD: 671
 
 ## Playing bot delivered by QBE
-  - Remaining budget: 950
+  - Remaining budget: 972
   - Used men: 2
   - Collected resources:
-    - FUR: 129
-    - WOOD: 413
-    - FLOWER: 8
-    - QUARTZ: 27
-    - SUGAR_CANE: 84
+    - FUR: 30
 
 ## Playing bot delivered by QBF
-  - Remaining budget: 224
+  - Remaining budget: 4392
   - Used men: 2
   - Collected resources:
-    - WOOD: 1638
-    - QUARTZ: 350
+    - WOOD: 1103
+    - QUARTZ: 253
 
 ## Playing bot delivered by QCA
-  - Remaining budget: 175
+  - Remaining budget: 288
   - Used men: 1
   - Collected resources:
-    - QUARTZ: 491
+    - QUARTZ: 367
 
 ## Playing bot delivered by QCB
-  - Remaining budget: 10579
+  - Remaining budget: 10735
   - Used men: 15
   - Collected resources:
+    - LEATHER: 301
+    - RUM: 52
     - SUGAR_CANE: 15
     - FUR: 5
-    - LEATHER: 358
     - FRUITS: 5
-    - RUM: 51
 
 ## Playing bot delivered by QCC
-  - Remaining budget: 10883
+  - Remaining budget: 4050
   - Used men: 1
   - Collected resources:
-    - No resources collected
+    - LEATHER: 337
+    - SUGAR_CANE: 20
+    - RUM: 58
+    - FUR: 1
+    - FRUITS: 5
 
 ## Playing bot delivered by QCD
-  - Remaining budget: 53
+  - Remaining budget: 64
   - Used men: 1
   - Collected resources:
-    - PLANK: 0
-    - WOOD: 5153
+    - WOOD: 3605
     - RUM: 0
-    - GLASS: 0
     - INGOT: 0
+    - PLANK: 0
+    - GLASS: 0
     - LEATHER: 0
 
 ## Playing bot delivered by QCE
-  - Remaining budget: 196
+  - Remaining budget: 238
   - Used men: 5
   - Collected resources:
-    - QUARTZ: 286
+    - QUARTZ: 411
+    - WOOD: 879
 
 ## Playing bot delivered by QDA
-  - Remaining budget: 172
+  - Remaining budget: 468
   - Used men: 1
   - Collected resources:
-    - FUR: 810
-    - FRUITS: 51
-    - WOOD: 8958
-    - QUARTZ: 58
-    - SUGAR_CANE: 500
+    - WOOD: 6081
+    - SUGAR_CANE: 517
+    - FRUITS: 55
+    - QUARTZ: 137
+    - FUR: 903
 
 ## Playing bot delivered by QDB
-  - Remaining budget: 4609
+  - Remaining budget: 156
   - Used men: 1
   - Collected resources:
-    - FUR: 876
-    - WOOD: 2453
-    - RUM: 50
-    - FRUITS: 65
+    - FUR: 894
+    - WOOD: 6639
+    - FRUITS: 61
     - LEATHER: 300
-    - SUGAR_CANE: 460
 
 ## Playing bot delivered by QDC
-  - Remaining budget: 77
+  - Remaining budget: 69
   - Used men: 1
   - Collected resources:
     - WOOD: 6583
 
 ## Playing bot delivered by QDD
-  - Remaining budget: 175
+  - Remaining budget: 169
   - Used men: 1
   - Collected resources:
-    - FRUITS: 10
-    - SUGAR_CANE: 155
-    - RUM: 55
-    - QUARTZ: 473
-    - FUR: 2
     - LEATHER: 330
-    - WOOD: 6685
+    - FRUITS: 2
+    - QUARTZ: 501
+    - FUR: 0
+    - RUM: 58
+    - SUGAR_CANE: 13
+    - WOOD: 6395
 
 ## Playing bot delivered by QDF
-  - Remaining budget: 19449
+  - Remaining budget: 19664
   - Used men: 1
   - Collected resources:
-    - QUARTZ: 1
+    - FUR: 1
 
 # Simulation encountering gameplay issues 
 
