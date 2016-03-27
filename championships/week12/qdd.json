@@ -1,0 +1,58 @@
+[{
+  "data": {
+    "heading": "S",
+    "men": 5,
+    "contracts": [
+      {
+        "amount": 5000,
+        "resource": "WOOD"
+      },
+      {
+        "amount": 400,
+        "resource": "FUR"
+      },
+      {
+        "amount": 3,
+        "resource": "INGOT"
+      },
+      {
+        "amount": 1,
+        "resource": "FLOWER"
+      },
+      {
+        "amount": 1000,
+        "resource": "LEATHER"
+      }
+    ],
+    "budget": 20000
+  },
+  "part": "Engine",
+  "time": 1459101419459,
+  "meth": "initialize"
+},{
+  "data": {
+    "exception": ["IllegalArgumentException"],
+    "stacktrace": [[
+      "java.lang.Enum.valueOf(Enum.java:238)",
+      "fr.unice.polytech.qgl.qdd.enums.Resource.valueOf(Resource.java:6)",
+      "fr.unice.polytech.qgl.qdd.QddExplorer.initializeExplorer(QddExplorer.java:227)",
+      "fr.unice.polytech.qgl.qdd.QddExplorer.<init>(QddExplorer.java:28)",
+      "fr.unice.polytech.qgl.qdd.QddSimulator.<init>(QddSimulator.java:22)",
+      "fr.unice.polytech.qgl.qdd.Explorer.initialize(Explorer.java:17)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply$mcV$sp(Engine.scala:34)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply(Engine.scala:34)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply(Engine.scala:34)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24)",
+      "scala.concurrent.impl.ExecutionContextImpl$AdaptedForkJoinTask.exec(ExecutionContextImpl.scala:121)",
+      "scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)",
+      "scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)",
+      "scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)",
+      "scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)"
+    ]],
+    "message": ["No enum constant fr.unice.polytech.qgl.qdd.enums.Resource.INGOT"]
+  },
+  "part": "Explorer",
+  "time": 1459101419467,
+  "meth": "initialize"
+}]

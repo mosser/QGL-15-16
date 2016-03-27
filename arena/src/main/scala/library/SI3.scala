@@ -32,8 +32,8 @@ trait SI3 extends Teams {
     "qcb" -> new fr.unice.polytech.qgl.qcb.Explorer(),
     "qcc" -> new fr.unice.polytech.qgl.qcc.Explorer(),
     "qcd" -> new fr.unice.polytech.qgl.qcd.Explorer(),
-    "qce" -> new fr.unice.polytech.qgl.qce.Explorer()
-    //"qcf" -> new fr.unice.polytech.qgl.qcf.Explorer()
+    "qce" -> new fr.unice.polytech.qgl.qce.Explorer(),
+    "qcf" -> new fr.unice.polytech.qgl.qcf.Explorer()
   )
 
   private lazy val g4: Map[String, IExplorerRaid]= Map(

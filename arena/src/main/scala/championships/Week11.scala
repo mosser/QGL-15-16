@@ -18,7 +18,7 @@ object Week11 extends Run with SI3 {
   override val plane: Plane = Plane(1, 1, Directions.SOUTH)
   override val objectives   = Set((WOOD, 10000), (QUARTZ, 100), (LEATHER, 300), (ORE, 50))
 
-  override def players = all - "qce"
+  override def players = all - "qcf"
 
   run
 
