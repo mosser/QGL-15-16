@@ -1,0 +1,1534 @@
+    21:05:09.200 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:09.229 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:09.289 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:09.340 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:09.423 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:09.592 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:09.619 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:09.689 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:10.136 Island/Map: [ComputeArea] Computing faces areas
+    21:05:10.280 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:10.297 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:10.335 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:10.362 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:10.370 Island/Map: [AssignElevation] Updating the property sets
+    21:05:10.395 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:10.843 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:10.858 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:11.183 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:11.277 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:11.499 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:11.554 Island/Map: [AssignBiomes] Updating the map
+    21:05:11.595 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:11.713 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:11.830 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:13.529 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:13.538 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:13.573 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:13.602 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:13.650 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:13.852 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:13.861 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:13.878 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:14.036 Island/Map: [ComputeArea] Computing faces areas
+    21:05:14.118 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:14.127 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:14.134 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:14.140 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:14.170 Island/Map: [AssignElevation] Updating the property sets
+    21:05:14.187 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:14.490 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:14.497 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:14.896 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:14.911 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:14.959 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:14.962 Island/Map: [AssignBiomes] Updating the map
+    21:05:14.975 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:14.988 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:14.993 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:17.439 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:17.442 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:17.470 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:17.486 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:17.510 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:17.592 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:17.596 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:17.614 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:17.955 Island/Map: [ComputeArea] Computing faces areas
+    21:05:18.018 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:18.024 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:18.031 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:18.040 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:18.044 Island/Map: [AssignElevation] Updating the property sets
+    21:05:18.057 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:18.351 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:18.356 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:18.687 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:18.704 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:18.773 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:18.776 Island/Map: [AssignBiomes] Updating the map
+    21:05:18.797 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:18.821 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:18.835 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:20.542 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:20.548 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:20.563 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:20.573 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:20.588 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:20.650 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:20.654 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:20.666 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:20.752 Island/Map: [ComputeArea] Computing faces areas
+    21:05:20.804 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:20.810 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:20.814 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:20.818 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:20.821 Island/Map: [AssignElevation] Updating the property sets
+    21:05:20.831 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:20.900 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:20.903 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:20.965 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:20.978 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:21.010 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:21.012 Island/Map: [AssignBiomes] Updating the map
+    21:05:21.022 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:21.030 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:21.037 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:22.823 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:22.827 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:22.841 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:22.853 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:22.872 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:22.926 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:22.930 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:22.944 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:23.289 Island/Map: [ComputeArea] Computing faces areas
+    21:05:23.336 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:23.346 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:23.353 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:23.369 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:23.371 Island/Map: [AssignElevation] Updating the property sets
+    21:05:23.385 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:23.556 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:23.563 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:23.808 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:23.828 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:23.875 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:23.879 Island/Map: [AssignBiomes] Updating the map
+    21:05:23.894 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:23.911 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:23.921 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:25.794 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:25.797 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:25.831 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:25.854 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:25.881 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:25.967 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:25.978 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:26.002 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:26.298 Island/Map: [ComputeArea] Computing faces areas
+    21:05:26.389 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:26.421 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:26.462 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:26.480 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:26.482 Island/Map: [AssignElevation] Updating the property sets
+    21:05:26.499 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:26.867 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:26.880 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:27.289 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:27.321 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:27.392 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:27.397 Island/Map: [AssignBiomes] Updating the map
+    21:05:27.415 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:27.492 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:27.524 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:30.553 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:30.558 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:30.576 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:30.591 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:30.610 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:30.675 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:30.679 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:30.695 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:30.933 Island/Map: [ComputeArea] Computing faces areas
+    21:05:30.965 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:30.973 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:30.977 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:30.981 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:31.220 Island/Map: [AssignElevation] Updating the property sets
+    21:05:31.232 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:31.256 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:31.264 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:33.058 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:33.070 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:33.110 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:33.113 Island/Map: [AssignBiomes] Updating the map
+    21:05:33.124 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:33.137 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:33.144 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:34.916 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:34.919 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:34.937 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:34.981 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:35.002 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:35.075 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:35.079 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:35.095 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:35.352 Island/Map: [ComputeArea] Computing faces areas
+    21:05:35.380 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:35.388 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:35.393 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:35.398 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:35.399 Island/Map: [AssignElevation] Updating the property sets
+    21:05:35.408 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:35.521 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:35.524 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:35.669 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:35.689 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:35.732 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:35.736 Island/Map: [AssignBiomes] Updating the map
+    21:05:35.746 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:35.756 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:35.763 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:37.438 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:37.441 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:37.458 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:37.473 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:37.490 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:37.561 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:37.566 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:37.583 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:37.802 Island/Map: [ComputeArea] Computing faces areas
+    21:05:37.834 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:37.840 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:37.844 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:37.849 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:37.850 Island/Map: [AssignElevation] Updating the property sets
+    21:05:37.861 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:38.154 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:38.158 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:38.473 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:38.485 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:38.524 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:38.528 Island/Map: [AssignBiomes] Updating the map
+    21:05:38.536 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:38.547 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:38.557 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:40.501 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:40.505 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:40.526 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:40.540 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:40.562 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:40.635 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:40.640 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:40.659 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:41.098 Island/Map: [ComputeArea] Computing faces areas
+    21:05:41.142 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:41.149 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:41.156 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:41.163 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:41.167 Island/Map: [AssignElevation] Updating the property sets
+    21:05:41.180 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:41.322 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:41.327 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:41.737 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:41.755 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:41.804 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:41.807 Island/Map: [AssignBiomes] Updating the map
+    21:05:41.819 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:41.837 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:41.848 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:43.780 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:43.783 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:43.799 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:43.814 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:43.838 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:43.900 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:43.906 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:43.924 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:44.317 Island/Map: [ComputeArea] Computing faces areas
+    21:05:44.358 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:44.370 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:44.377 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:44.386 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:44.388 Island/Map: [AssignElevation] Updating the property sets
+    21:05:44.407 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:44.461 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:44.464 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:44.592 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:44.629 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:44.682 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:44.688 Island/Map: [AssignBiomes] Updating the map
+    21:05:44.699 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:44.715 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:44.726 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:46.577 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:46.579 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:46.595 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:46.608 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:46.630 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:46.704 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:46.708 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:46.724 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:47.113 Island/Map: [ComputeArea] Computing faces areas
+    21:05:47.151 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:47.159 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:47.165 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:47.170 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:47.172 Island/Map: [AssignElevation] Updating the property sets
+    21:05:47.181 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:47.268 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:47.270 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:47.396 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:47.410 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:47.443 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:47.445 Island/Map: [AssignBiomes] Updating the map
+    21:05:47.455 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:47.466 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:47.472 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:48.717 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:48.719 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:48.736 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:48.746 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:48.757 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:48.825 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:48.828 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:48.840 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:48.864 Island/Map: [ComputeArea] Computing faces areas
+    21:05:48.887 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:48.889 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:48.890 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:48.891 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:48.892 Island/Map: [AssignElevation] Updating the property sets
+    21:05:48.898 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:48.928 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:48.930 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:48.952 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:48.961 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:49.002 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:49.004 Island/Map: [AssignBiomes] Updating the map
+    21:05:49.016 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:49.032 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:49.035 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:50.234 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:50.236 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:50.248 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:50.258 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:50.287 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:50.326 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:50.329 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:50.339 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:50.503 Island/Map: [ComputeArea] Computing faces areas
+    21:05:50.537 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:50.545 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:50.549 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:50.554 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:50.557 Island/Map: [AssignElevation] Updating the property sets
+    21:05:50.567 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:50.627 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:50.630 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:50.700 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:50.714 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:50.751 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:50.756 Island/Map: [AssignBiomes] Updating the map
+    21:05:50.766 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:50.778 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:50.789 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:52.501 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:52.503 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:52.518 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:52.533 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:52.552 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:52.615 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:52.620 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:52.641 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:53.106 Island/Map: [ComputeArea] Computing faces areas
+    21:05:53.145 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:53.151 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:53.157 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:53.162 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:53.165 Island/Map: [AssignElevation] Updating the property sets
+    21:05:53.178 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:53.235 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:53.238 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:53.480 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:53.493 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:53.533 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:53.536 Island/Map: [AssignBiomes] Updating the map
+    21:05:53.546 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:53.563 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:53.572 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:54.793 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:54.795 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:54.807 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:54.816 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:54.829 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:54.877 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:54.880 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:54.892 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:55.130 Island/Map: [ComputeArea] Computing faces areas
+    21:05:55.163 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:55.168 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:55.172 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:55.175 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:55.176 Island/Map: [AssignElevation] Updating the property sets
+    21:05:55.183 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:55.250 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:55.252 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:55.337 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:55.353 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:55.394 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:55.396 Island/Map: [AssignBiomes] Updating the map
+    21:05:55.409 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:55.423 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:55.453 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:57.185 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:57.188 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:57.202 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:57.214 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:57.234 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:05:57.299 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:05:57.302 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:05:57.314 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:05:57.598 Island/Map: [ComputeArea] Computing faces areas
+    21:05:57.632 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:05:57.638 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:05:57.643 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:05:57.649 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:05:57.650 Island/Map: [AssignElevation] Updating the property sets
+    21:05:57.661 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:05:57.892 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:05:57.896 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:05:58.148 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:05:58.164 Island/Map: [AssignPitch] Computing faces pitches
+    21:05:58.200 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:05:58.205 Island/Map: [AssignBiomes] Updating the map
+    21:05:58.217 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:05:58.234 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:05:58.244 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:05:59.891 Island/Map: [IdentifyWaterArea] Creating the shape
+    21:05:59.893 Island/Map: [IdentifyWaterArea] Annotating faces
+    21:05:59.907 Island/Map: [IdentifyBorders] Annotating faces
+    21:05:59.919 Island/Map: [AlignVertexWaterBasedOnFaces] Annotating land and water vertices based on faces tags
+    21:05:59.936 Island/Map: [IdentifyLakesAndOcean] Annotating faces
+    21:06:00.001 Island/Map: [IdentifyCoastLine] Annotating faces
+    21:06:00.005 Island/Map: [IdentifyCoastLine] Annotating vertices
+    21:06:00.020 Island/Map: [MinimalDistanceToCoast] Computing minimal distance to coast for land vertices
+    21:06:00.296 Island/Map: [ComputeArea] Computing faces areas
+    21:06:00.337 Island/Map: [AssignElevation] Identifying corners for emerged lands area
+    21:06:00.342 Island/Map: [AssignElevation] Assigning initial elevation for emerged vertices
+    21:06:00.347 Island/Map: [AssignElevation] Computing faces' center elevations as the average of the involved vertices' elevation
+    21:06:00.351 Island/Map: [AssignElevation] Adjusting inner lakes to make them flat
+    21:06:00.353 Island/Map: [AssignElevation] Updating the property sets
+    21:06:00.364 Island/Map: [GenerateRivers] Identifying sources for rivers, flowing water from source to coast
+    21:06:00.457 Island/Map: [AssignMoisture] Identifying vertices to be used as sources of fresh water
+    21:06:00.460 Island/Map: [AssignMoisture] Computing moisture for vertices
+    21:06:00.682 Island/Map: [AssignMoisture] Computing moisture for faces
+    21:06:00.696 Island/Map: [AssignPitch] Computing faces pitches
+    21:06:00.731 Island/Map: [AssignBiomes] Assigning biomes to the faces defined in the map
+    21:06:00.733 Island/Map: [AssignBiomes] Updating the map
+    21:06:00.747 Island/Map: [ComputeStatistics] Computing statistics about faces' areas
+    21:06:00.758 Island/Map: [ComputeStatistics] Computing statistics about the elevation of the map (land faces)
+    21:06:00.768 Island/Map: [ComputeStatistics] Computing statistics about lands pitches
+    21:06:00.831 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:06:00.838 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:06:04.061 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:06:04.216 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:06:04.307 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:06:04.399 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:06:04.467 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:06:04.816 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:06:04.825 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:06:04.833 Island/Arena: Processing player [qae] with island [week51]
+    21:06:05.901 Island/Arena:  --> Execution time: 1068ms
+    21:06:05.901 Island/Arena: Processing player [qbd] with island [week51]
+    21:06:33.669 Island/Arena:  --> Execution time: 27768ms
+    21:06:33.669 Island/Arena: Processing player [qcd] with island [week51]
+    21:06:34.130 Island/Arena:  --> Execution time: 461ms
+    21:06:34.131 Island/Arena: Processing player [qde] with island [week51]
+    21:06:34.228 Island/Arena:  --> Execution time: 97ms
+    21:06:34.228 Island/Arena: Processing player [qaf] with island [week51]
+    21:06:35.578 Island/Arena:  --> Execution time: 1350ms
+    21:06:35.578 Island/Arena: Processing player [qbf] with island [week51]
+    21:06:37.557 Island/Arena:  --> Execution time: 1979ms
+    21:06:37.557 Island/Arena: Processing player [qce] with island [week51]
+    21:06:37.904 Island/Arena:  --> Execution time: 347ms
+    21:06:37.904 Island/Arena: Processing player [qac] with island [week51]
+    21:06:38.276 Island/Arena:  --> Execution time: 372ms
+    21:06:38.276 Island/Arena: Processing player [qcf] with island [week51]
+    21:06:38.631 Island/Arena:  --> Execution time: 355ms
+    21:06:38.631 Island/Arena: Processing player [qdf] with island [week51]
+    21:06:38.713 Island/Arena:  --> Execution time: 82ms
+    21:06:38.713 Island/Arena: Processing player [qdd] with island [week51]
+    21:06:41.755 Island/Arena:  --> Execution time: 3042ms
+    21:06:41.755 Island/Arena: Processing player [qad] with island [week51]
+    21:06:41.985 Island/Arena:  --> Execution time: 230ms
+    21:06:41.986 Island/Arena: Processing player [qdc] with island [week51]
+    21:06:42.015 Island/Arena:  --> Execution time: 29ms
+    21:06:42.015 Island/Arena: Processing player [qbb] with island [week51]
+    21:06:42.342 Island/Arena:  --> Execution time: 327ms
+    21:06:42.342 Island/Arena: Processing player [qcc] with island [week51]
+    21:06:42.913 Island/Arena:  --> Execution time: 571ms
+    21:06:42.913 Island/Arena: Processing player [qaa] with island [week51]
+    21:06:43.219 Island/Arena:  --> Execution time: 306ms
+    21:06:43.219 Island/Arena: Processing player [qbc] with island [week51]
+    21:06:43.973 Island/Arena:  --> Execution time: 754ms
+    21:06:43.974 Island/Arena: Processing player [qcb] with island [week51]
+    21:06:44.552 Island/Arena:  --> Execution time: 578ms
+    21:06:44.552 Island/Arena: Processing player [qba] with island [week51]
+    21:06:44.866 Island/Arena:  --> Execution time: 314ms
+    21:06:44.866 Island/Arena: Processing player [qda] with island [week51]
+    21:06:45.106 Island/Arena:  --> Execution time: 240ms
+    21:06:45.107 Island/Arena: Processing player [qca] with island [week51]
+    21:06:45.707 Island/Arena:  --> Execution time: 600ms
+    21:06:45.707 Island/Arena: Processing player [qab] with island [week51]
+    21:06:46.235 Island/Arena:  --> Execution time: 528ms
+    21:06:46.236 Island/Arena: Processing player [qbe] with island [week51]
+    21:06:46.481 Island/Arena:  --> Execution time: 245ms
+    21:06:46.482 Island/Arena: Processing player [qdb] with island [week51]
+    21:06:54.382 Island/Arena:  --> Execution time: 7900ms
+    21:06:54.383 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:06:54.392 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:06:56.545 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:06:56.619 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:06:56.661 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:06:56.719 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:06:56.784 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:06:56.929 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:06:56.932 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:06:56.932 Island/Arena: Processing player [qae] with island [week11]
+    21:06:56.951 Island/Arena:  --> Execution time: 19ms
+    21:06:56.951 Island/Arena: Processing player [qbd] with island [week11]
+    21:08:04.130 Island/Arena:  --> Execution time: 67179ms
+    21:08:04.130 Island/Arena: Processing player [qcd] with island [week11]
+    21:08:04.578 Island/Arena:  --> Execution time: 448ms
+    21:08:04.578 Island/Arena: Processing player [qde] with island [week11]
+    21:08:04.623 Island/Arena:  --> Execution time: 45ms
+    21:08:04.623 Island/Arena: Processing player [qaf] with island [week11]
+    21:08:05.853 Island/Arena:  --> Execution time: 1230ms
+    21:08:05.853 Island/Arena: Processing player [qbf] with island [week11]
+    21:08:07.664 Island/Arena:  --> Execution time: 1810ms
+    21:08:07.664 Island/Arena: Processing player [qce] with island [week11]
+    21:08:07.942 Island/Arena:  --> Execution time: 277ms
+    21:08:07.943 Island/Arena: Processing player [qac] with island [week11]
+    21:08:08.310 Island/Arena:  --> Execution time: 367ms
+    21:08:08.310 Island/Arena: Processing player [qcf] with island [week11]
+    21:08:08.968 Island/Arena:  --> Execution time: 658ms
+    21:08:08.969 Island/Arena: Processing player [qdf] with island [week11]
+    21:08:08.985 Island/Arena:  --> Execution time: 16ms
+    21:08:08.986 Island/Arena: Processing player [qdd] with island [week11]
+    21:08:44.969 Island/Arena:  --> Execution time: 35983ms
+    21:08:44.970 Island/Arena: Processing player [qad] with island [week11]
+    21:08:45.459 Island/Arena:  --> Execution time: 489ms
+    21:08:45.459 Island/Arena: Processing player [qdc] with island [week11]
+    21:08:45.792 Island/Arena:  --> Execution time: 333ms
+    21:08:45.793 Island/Arena: Processing player [qbb] with island [week11]
+    21:08:45.794 Island/Arena:  --> Execution time: 1ms
+    21:08:45.794 Island/Arena: Processing player [qcc] with island [week11]
+    21:08:47.263 Island/Arena:  --> Execution time: 1469ms
+    21:08:47.263 Island/Arena: Processing player [qaa] with island [week11]
+    21:08:47.506 Island/Arena:  --> Execution time: 243ms
+    21:08:47.506 Island/Arena: Processing player [qbc] with island [week11]
+    21:08:49.062 Island/Arena:  --> Execution time: 1556ms
+    21:08:49.062 Island/Arena: Processing player [qcb] with island [week11]
+    21:08:49.967 Island/Arena:  --> Execution time: 905ms
+    21:08:49.967 Island/Arena: Processing player [qba] with island [week11]
+    21:08:50.536 Island/Arena:  --> Execution time: 569ms
+    21:08:50.536 Island/Arena: Processing player [qda] with island [week11]
+    21:08:50.914 Island/Arena:  --> Execution time: 378ms
+    21:08:50.914 Island/Arena: Processing player [qca] with island [week11]
+    21:08:51.548 Island/Arena:  --> Execution time: 634ms
+    21:08:51.548 Island/Arena: Processing player [qab] with island [week11]
+    21:08:52.618 Island/Arena:  --> Execution time: 1070ms
+    21:08:52.618 Island/Arena: Processing player [qbe] with island [week11]
+    21:08:52.794 Island/Arena:  --> Execution time: 176ms
+    21:08:52.794 Island/Arena: Processing player [qdb] with island [week11]
+    21:09:22.784 Island/Arena:  --> Execution time: 29990ms
+    21:09:22.785 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:09:22.789 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:09:24.830 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:09:24.894 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:09:24.934 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:09:24.984 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:09:25.038 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:09:25.197 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:09:25.199 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:09:25.200 Island/Arena: Processing player [qae] with island [week49]
+    21:09:25.211 Island/Arena:  --> Execution time: 11ms
+    21:09:25.211 Island/Arena: Processing player [qbd] with island [week49]
+    21:09:43.069 Island/Arena:  --> Execution time: 17858ms
+    21:09:43.069 Island/Arena: Processing player [qcd] with island [week49]
+    21:09:43.805 Island/Arena:  --> Execution time: 736ms
+    21:09:43.805 Island/Arena: Processing player [qde] with island [week49]
+    21:09:43.838 Island/Arena:  --> Execution time: 33ms
+    21:09:43.838 Island/Arena: Processing player [qaf] with island [week49]
+    21:09:44.303 Island/Arena:  --> Execution time: 465ms
+    21:09:44.303 Island/Arena: Processing player [qbf] with island [week49]
+    21:09:44.497 Island/Arena:  --> Execution time: 194ms
+    21:09:44.497 Island/Arena: Processing player [qce] with island [week49]
+    21:09:44.719 Island/Arena:  --> Execution time: 222ms
+    21:09:44.719 Island/Arena: Processing player [qac] with island [week49]
+    21:09:45.087 Island/Arena:  --> Execution time: 367ms
+    21:09:45.087 Island/Arena: Processing player [qcf] with island [week49]
+    21:09:45.096 Island/Arena:  --> Execution time: 9ms
+    21:09:45.096 Island/Arena: Processing player [qdf] with island [week49]
+    21:09:45.143 Island/Arena:  --> Execution time: 47ms
+    21:09:45.143 Island/Arena: Processing player [qdd] with island [week49]
+    21:09:49.620 Island/Arena:  --> Execution time: 4477ms
+    21:09:49.620 Island/Arena: Processing player [qad] with island [week49]
+    21:09:49.814 Island/Arena:  --> Execution time: 194ms
+    21:09:49.814 Island/Arena: Processing player [qdc] with island [week49]
+    21:09:49.957 Island/Arena:  --> Execution time: 143ms
+    21:09:49.957 Island/Arena: Processing player [qbb] with island [week49]
+    21:09:49.959 Island/Arena:  --> Execution time: 2ms
+    21:09:49.959 Island/Arena: Processing player [qcc] with island [week49]
+    21:09:50.389 Island/Arena:  --> Execution time: 430ms
+    21:09:50.389 Island/Arena: Processing player [qaa] with island [week49]
+    21:09:50.569 Island/Arena:  --> Execution time: 180ms
+    21:09:50.569 Island/Arena: Processing player [qbc] with island [week49]
+    21:09:51.128 Island/Arena:  --> Execution time: 559ms
+    21:09:51.128 Island/Arena: Processing player [qcb] with island [week49]
+    21:09:51.375 Island/Arena:  --> Execution time: 247ms
+    21:09:51.375 Island/Arena: Processing player [qba] with island [week49]
+    21:09:51.575 Island/Arena:  --> Execution time: 200ms
+    21:09:51.576 Island/Arena: Processing player [qda] with island [week49]
+    21:09:51.798 Island/Arena:  --> Execution time: 222ms
+    21:09:51.798 Island/Arena: Processing player [qca] with island [week49]
+    21:09:51.976 Island/Arena:  --> Execution time: 178ms
+    21:09:51.976 Island/Arena: Processing player [qab] with island [week49]
+    21:09:52.395 Island/Arena:  --> Execution time: 419ms
+    21:09:52.395 Island/Arena: Processing player [qbe] with island [week49]
+    21:09:52.865 Island/Arena:  --> Execution time: 470ms
+    21:09:52.865 Island/Arena: Processing player [qdb] with island [week49]
+    21:10:03.548 Island/Arena:  --> Execution time: 10682ms
+    21:10:03.548 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:10:03.552 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:10:05.776 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:10:05.844 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:10:05.889 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:10:05.942 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:10:06.002 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:10:06.163 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:10:06.165 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:10:06.165 Island/Arena: Processing player [qae] with island [week04]
+    21:10:06.245 Island/Arena:  --> Execution time: 80ms
+    21:10:06.245 Island/Arena: Processing player [qbd] with island [week04]
+    21:10:30.839 Island/Arena:  --> Execution time: 24594ms
+    21:10:30.839 Island/Arena: Processing player [qcd] with island [week04]
+    21:10:31.042 Island/Arena:  --> Execution time: 203ms
+    21:10:31.043 Island/Arena: Processing player [qde] with island [week04]
+    21:10:31.140 Island/Arena:  --> Execution time: 97ms
+    21:10:31.140 Island/Arena: Processing player [qaf] with island [week04]
+    21:10:31.835 Island/Arena:  --> Execution time: 694ms
+    21:10:31.836 Island/Arena: Processing player [qbf] with island [week04]
+    21:10:34.187 Island/Arena:  --> Execution time: 2351ms
+    21:10:34.187 Island/Arena: Processing player [qce] with island [week04]
+    21:10:34.345 Island/Arena:  --> Execution time: 158ms
+    21:10:34.345 Island/Arena: Processing player [qac] with island [week04]
+    21:10:34.547 Island/Arena:  --> Execution time: 202ms
+    21:10:34.547 Island/Arena: Processing player [qcf] with island [week04]
+    21:10:34.894 Island/Arena:  --> Execution time: 346ms
+    21:10:34.894 Island/Arena: Processing player [qdf] with island [week04]
+    21:10:35.947 Island/Arena:  --> Execution time: 1053ms
+    21:10:35.947 Island/Arena: Processing player [qdd] with island [week04]
+    21:10:40.416 Island/Arena:  --> Execution time: 4469ms
+    21:10:40.416 Island/Arena: Processing player [qad] with island [week04]
+    21:10:40.739 Island/Arena:  --> Execution time: 323ms
+    21:10:40.739 Island/Arena: Processing player [qdc] with island [week04]
+    21:10:41.245 Island/Arena:  --> Execution time: 506ms
+    21:10:41.245 Island/Arena: Processing player [qbb] with island [week04]
+    21:10:41.247 Island/Arena:  --> Execution time: 2ms
+    21:10:41.247 Island/Arena: Processing player [qcc] with island [week04]
+    21:10:41.829 Island/Arena:  --> Execution time: 582ms
+    21:10:41.829 Island/Arena: Processing player [qaa] with island [week04]
+    21:10:42.093 Island/Arena:  --> Execution time: 264ms
+    21:10:42.093 Island/Arena: Processing player [qbc] with island [week04]
+    21:10:43.061 Island/Arena:  --> Execution time: 968ms
+    21:10:43.061 Island/Arena: Processing player [qcb] with island [week04]
+    21:10:43.414 Island/Arena:  --> Execution time: 353ms
+    21:10:43.414 Island/Arena: Processing player [qba] with island [week04]
+    21:10:43.920 Island/Arena:  --> Execution time: 506ms
+    21:10:43.920 Island/Arena: Processing player [qda] with island [week04]
+    21:10:44.105 Island/Arena:  --> Execution time: 185ms
+    21:10:44.106 Island/Arena: Processing player [qca] with island [week04]
+    21:10:44.354 Island/Arena:  --> Execution time: 248ms
+    21:10:44.355 Island/Arena: Processing player [qab] with island [week04]
+    21:10:44.780 Island/Arena:  --> Execution time: 425ms
+    21:10:44.780 Island/Arena: Processing player [qbe] with island [week04]
+    21:10:44.944 Island/Arena:  --> Execution time: 164ms
+    21:10:44.945 Island/Arena: Processing player [qdb] with island [week04]
+    21:11:00.829 Island/Arena:  --> Execution time: 15884ms
+    21:11:00.829 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:11:00.833 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:11:02.979 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:11:03.061 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:11:03.159 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:11:03.249 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:11:03.333 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:11:03.526 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:11:03.528 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:11:03.528 Island/Arena: Processing player [qae] with island [week02]
+    21:11:03.704 Island/Arena:  --> Execution time: 176ms
+    21:11:03.704 Island/Arena: Processing player [qbd] with island [week02]
+    21:11:47.194 Island/Arena:  --> Execution time: 43490ms
+    21:11:47.194 Island/Arena: Processing player [qcd] with island [week02]
+    21:11:47.531 Island/Arena:  --> Execution time: 337ms
+    21:11:47.531 Island/Arena: Processing player [qde] with island [week02]
+    21:11:47.989 Island/Arena:  --> Execution time: 458ms
+    21:11:47.989 Island/Arena: Processing player [qaf] with island [week02]
+    21:11:48.667 Island/Arena:  --> Execution time: 678ms
+    21:11:48.668 Island/Arena: Processing player [qbf] with island [week02]
+    21:11:49.019 Island/Arena:  --> Execution time: 351ms
+    21:11:49.020 Island/Arena: Processing player [qce] with island [week02]
+    21:11:49.415 Island/Arena:  --> Execution time: 395ms
+    21:11:49.416 Island/Arena: Processing player [qac] with island [week02]
+    21:11:49.708 Island/Arena:  --> Execution time: 292ms
+    21:11:49.708 Island/Arena: Processing player [qcf] with island [week02]
+    21:11:50.177 Island/Arena:  --> Execution time: 469ms
+    21:11:50.177 Island/Arena: Processing player [qdf] with island [week02]
+    21:11:50.284 Island/Arena:  --> Execution time: 107ms
+    21:11:50.284 Island/Arena: Processing player [qdd] with island [week02]
+    21:11:57.458 Island/Arena:  --> Execution time: 7174ms
+    21:11:57.459 Island/Arena: Processing player [qad] with island [week02]
+    21:11:57.839 Island/Arena:  --> Execution time: 380ms
+    21:11:57.839 Island/Arena: Processing player [qdc] with island [week02]
+    21:11:58.349 Island/Arena:  --> Execution time: 510ms
+    21:11:58.349 Island/Arena: Processing player [qbb] with island [week02]
+    21:11:58.351 Island/Arena:  --> Execution time: 2ms
+    21:11:58.351 Island/Arena: Processing player [qcc] with island [week02]
+    21:11:59.444 Island/Arena:  --> Execution time: 1092ms
+    21:11:59.444 Island/Arena: Processing player [qaa] with island [week02]
+    21:11:59.864 Island/Arena:  --> Execution time: 420ms
+    21:11:59.864 Island/Arena: Processing player [qbc] with island [week02]
+    21:12:01.284 Island/Arena:  --> Execution time: 1420ms
+    21:12:01.284 Island/Arena: Processing player [qcb] with island [week02]
+    21:12:01.987 Island/Arena:  --> Execution time: 703ms
+    21:12:01.987 Island/Arena: Processing player [qba] with island [week02]
+    21:12:02.305 Island/Arena:  --> Execution time: 318ms
+    21:12:02.305 Island/Arena: Processing player [qda] with island [week02]
+    21:12:02.631 Island/Arena:  --> Execution time: 326ms
+    21:12:02.631 Island/Arena: Processing player [qca] with island [week02]
+    21:12:02.834 Island/Arena:  --> Execution time: 203ms
+    21:12:02.834 Island/Arena: Processing player [qab] with island [week02]
+    21:12:04.083 Island/Arena:  --> Execution time: 1249ms
+    21:12:04.083 Island/Arena: Processing player [qbe] with island [week02]
+    21:12:04.609 Island/Arena:  --> Execution time: 526ms
+    21:12:04.609 Island/Arena: Processing player [qdb] with island [week02]
+    21:12:23.775 Island/Arena:  --> Execution time: 19166ms
+    21:12:23.775 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:12:23.779 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:12:25.819 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:12:25.886 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:12:25.929 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:12:25.987 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:12:26.081 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:12:26.234 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:12:26.238 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:12:26.238 Island/Arena: Processing player [qae] with island [week01]
+    21:12:27.971 Island/Arena:  --> Execution time: 1733ms
+    21:12:27.971 Island/Arena: Processing player [qbd] with island [week01]
+    21:13:07.219 Island/Arena:  --> Execution time: 39248ms
+    21:13:07.219 Island/Arena: Processing player [qcd] with island [week01]
+    21:13:07.938 Island/Arena:  --> Execution time: 719ms
+    21:13:07.938 Island/Arena: Processing player [qde] with island [week01]
+    21:13:08.287 Island/Arena:  --> Execution time: 349ms
+    21:13:08.287 Island/Arena: Processing player [qaf] with island [week01]
+    21:13:08.933 Island/Arena:  --> Execution time: 646ms
+    21:13:08.934 Island/Arena: Processing player [qbf] with island [week01]
+    21:13:11.605 Island/Arena:  --> Execution time: 2671ms
+    21:13:11.605 Island/Arena: Processing player [qce] with island [week01]
+    21:13:11.890 Island/Arena:  --> Execution time: 285ms
+    21:13:11.891 Island/Arena: Processing player [qac] with island [week01]
+    21:13:12.089 Island/Arena:  --> Execution time: 198ms
+    21:13:12.089 Island/Arena: Processing player [qcf] with island [week01]
+    21:13:12.794 Island/Arena:  --> Execution time: 705ms
+    21:13:12.794 Island/Arena: Processing player [qdf] with island [week01]
+    21:13:12.809 Island/Arena:  --> Execution time: 15ms
+    21:13:12.809 Island/Arena: Processing player [qdd] with island [week01]
+    21:13:26.500 Island/Arena:  --> Execution time: 13691ms
+    21:13:26.500 Island/Arena: Processing player [qad] with island [week01]
+    21:13:26.787 Island/Arena:  --> Execution time: 287ms
+    21:13:26.787 Island/Arena: Processing player [qdc] with island [week01]
+    21:13:27.418 Island/Arena:  --> Execution time: 631ms
+    21:13:27.418 Island/Arena: Processing player [qbb] with island [week01]
+    21:13:27.419 Island/Arena:  --> Execution time: 1ms
+    21:13:27.420 Island/Arena: Processing player [qcc] with island [week01]
+    21:13:28.365 Island/Arena:  --> Execution time: 945ms
+    21:13:28.365 Island/Arena: Processing player [qaa] with island [week01]
+    21:13:28.544 Island/Arena:  --> Execution time: 179ms
+    21:13:28.544 Island/Arena: Processing player [qbc] with island [week01]
+    21:13:30.016 Island/Arena:  --> Execution time: 1472ms
+    21:13:30.016 Island/Arena: Processing player [qcb] with island [week01]
+    21:13:30.417 Island/Arena:  --> Execution time: 401ms
+    21:13:30.417 Island/Arena: Processing player [qba] with island [week01]
+    21:13:30.602 Island/Arena:  --> Execution time: 185ms
+    21:13:30.602 Island/Arena: Processing player [qda] with island [week01]
+    21:13:30.782 Island/Arena:  --> Execution time: 180ms
+    21:13:30.782 Island/Arena: Processing player [qca] with island [week01]
+    21:13:31.202 Island/Arena:  --> Execution time: 420ms
+    21:13:31.202 Island/Arena: Processing player [qab] with island [week01]
+    21:13:31.863 Island/Arena:  --> Execution time: 661ms
+    21:13:31.863 Island/Arena: Processing player [qbe] with island [week01]
+    21:13:32.942 Island/Arena:  --> Execution time: 1079ms
+    21:13:32.942 Island/Arena: Processing player [qdb] with island [week01]
+    21:14:19.708 Island/Arena:  --> Execution time: 46766ms
+    21:14:19.708 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:14:19.713 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:14:21.824 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:14:21.886 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:14:21.930 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:14:21.984 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:14:22.038 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:14:22.177 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:14:22.179 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:14:22.179 Island/Arena: Processing player [qae] with island [week53]
+    21:14:22.191 Island/Arena:  --> Execution time: 12ms
+    21:14:22.191 Island/Arena: Processing player [qbd] with island [week53]
+    21:14:41.683 Island/Arena:  --> Execution time: 19492ms
+    21:14:41.683 Island/Arena: Processing player [qcd] with island [week53]
+    21:14:41.890 Island/Arena:  --> Execution time: 207ms
+    21:14:41.890 Island/Arena: Processing player [qde] with island [week53]
+    21:14:41.920 Island/Arena:  --> Execution time: 30ms
+    21:14:41.921 Island/Arena: Processing player [qaf] with island [week53]
+    21:14:42.407 Island/Arena:  --> Execution time: 486ms
+    21:14:42.407 Island/Arena: Processing player [qbf] with island [week53]
+    21:14:44.057 Island/Arena:  --> Execution time: 1650ms
+    21:14:44.057 Island/Arena: Processing player [qce] with island [week53]
+    21:14:44.222 Island/Arena:  --> Execution time: 165ms
+    21:14:44.222 Island/Arena: Processing player [qac] with island [week53]
+    21:14:44.436 Island/Arena:  --> Execution time: 214ms
+    21:14:44.436 Island/Arena: Processing player [qcf] with island [week53]
+    21:14:44.757 Island/Arena:  --> Execution time: 321ms
+    21:14:44.757 Island/Arena: Processing player [qdf] with island [week53]
+    21:14:44.772 Island/Arena:  --> Execution time: 15ms
+    21:14:44.772 Island/Arena: Processing player [qdd] with island [week53]
+    21:14:44.917 Island/Arena:  --> Execution time: 145ms
+    21:14:44.917 Island/Arena: Processing player [qad] with island [week53]
+    21:14:45.215 Island/Arena:  --> Execution time: 298ms
+    21:14:45.215 Island/Arena: Processing player [qdc] with island [week53]
+    21:14:45.610 Island/Arena:  --> Execution time: 395ms
+    21:14:45.610 Island/Arena: Processing player [qbb] with island [week53]
+    21:14:45.612 Island/Arena:  --> Execution time: 2ms
+    21:14:45.612 Island/Arena: Processing player [qcc] with island [week53]
+    21:14:46.026 Island/Arena:  --> Execution time: 414ms
+    21:14:46.026 Island/Arena: Processing player [qaa] with island [week53]
+    21:14:46.303 Island/Arena:  --> Execution time: 277ms
+    21:14:46.303 Island/Arena: Processing player [qbc] with island [week53]
+    21:14:46.719 Island/Arena:  --> Execution time: 416ms
+    21:14:46.719 Island/Arena: Processing player [qcb] with island [week53]
+    21:14:46.974 Island/Arena:  --> Execution time: 255ms
+    21:14:46.974 Island/Arena: Processing player [qba] with island [week53]
+    21:14:47.154 Island/Arena:  --> Execution time: 180ms
+    21:14:47.154 Island/Arena: Processing player [qda] with island [week53]
+    21:14:47.310 Island/Arena:  --> Execution time: 156ms
+    21:14:47.310 Island/Arena: Processing player [qca] with island [week53]
+    21:14:47.745 Island/Arena:  --> Execution time: 435ms
+    21:14:47.745 Island/Arena: Processing player [qab] with island [week53]
+    21:14:48.078 Island/Arena:  --> Execution time: 333ms
+    21:14:48.078 Island/Arena: Processing player [qbe] with island [week53]
+    21:14:48.221 Island/Arena:  --> Execution time: 143ms
+    21:14:48.221 Island/Arena: Processing player [qdb] with island [week53]
+    21:15:06.877 Island/Arena:  --> Execution time: 18656ms
+    21:15:06.878 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:15:06.884 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:15:08.971 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:15:09.030 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:15:09.075 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:15:09.131 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:15:09.187 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:15:09.337 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:15:09.339 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:15:09.339 Island/Arena: Processing player [qae] with island [week12]
+    21:15:09.351 Island/Arena:  --> Execution time: 12ms
+    21:15:09.351 Island/Arena: Processing player [qbd] with island [week12]
+    21:16:07.799 Island/Arena:  --> Execution time: 58448ms
+    21:16:07.799 Island/Arena: Processing player [qcd] with island [week12]
+    21:16:07.979 Island/Arena:  --> Execution time: 180ms
+    21:16:07.980 Island/Arena: Processing player [qde] with island [week12]
+    21:16:08.012 Island/Arena:  --> Execution time: 32ms
+    21:16:08.012 Island/Arena: Processing player [qaf] with island [week12]
+    21:16:09.029 Island/Arena:  --> Execution time: 1017ms
+    21:16:09.029 Island/Arena: Processing player [qbf] with island [week12]
+    21:16:09.499 Island/Arena:  --> Execution time: 470ms
+    21:16:09.499 Island/Arena: Processing player [qce] with island [week12]
+    21:16:09.764 Island/Arena:  --> Execution time: 265ms
+    21:16:09.764 Island/Arena: Processing player [qac] with island [week12]
+    21:16:10.026 Island/Arena:  --> Execution time: 262ms
+    21:16:10.026 Island/Arena: Processing player [qcf] with island [week12]
+    21:16:10.739 Island/Arena:  --> Execution time: 713ms
+    21:16:10.739 Island/Arena: Processing player [qdf] with island [week12]
+    21:16:10.756 Island/Arena:  --> Execution time: 17ms
+    21:16:10.756 Island/Arena: Processing player [qdd] with island [week12]
+    21:16:10.758 Island/Arena:  --> Execution time: 2ms
+    21:16:10.758 Island/Arena: Processing player [qad] with island [week12]
+    21:16:11.053 Island/Arena:  --> Execution time: 295ms
+    21:16:11.053 Island/Arena: Processing player [qdc] with island [week12]
+    21:16:11.377 Island/Arena:  --> Execution time: 324ms
+    21:16:11.378 Island/Arena: Processing player [qbb] with island [week12]
+    21:16:11.379 Island/Arena:  --> Execution time: 1ms
+    21:16:11.379 Island/Arena: Processing player [qcc] with island [week12]
+    21:16:13.028 Island/Arena:  --> Execution time: 1649ms
+    21:16:13.028 Island/Arena: Processing player [qaa] with island [week12]
+    21:16:13.344 Island/Arena:  --> Execution time: 316ms
+    21:16:13.344 Island/Arena: Processing player [qbc] with island [week12]
+    21:16:14.210 Island/Arena:  --> Execution time: 866ms
+    21:16:14.210 Island/Arena: Processing player [qcb] with island [week12]
+    21:16:15.409 Island/Arena:  --> Execution time: 1199ms
+    21:16:15.409 Island/Arena: Processing player [qba] with island [week12]
+    21:16:15.692 Island/Arena:  --> Execution time: 283ms
+    21:16:15.692 Island/Arena: Processing player [qda] with island [week12]
+    21:16:15.768 Island/Arena:  --> Execution time: 76ms
+    21:16:15.769 Island/Arena: Processing player [qca] with island [week12]
+    21:16:16.320 Island/Arena:  --> Execution time: 551ms
+    21:16:16.320 Island/Arena: Processing player [qab] with island [week12]
+    21:16:16.708 Island/Arena:  --> Execution time: 388ms
+    21:16:16.708 Island/Arena: Processing player [qbe] with island [week12]
+    21:16:16.757 Island/Arena:  --> Execution time: 49ms
+    21:16:16.757 Island/Arena: Processing player [qdb] with island [week12]
+    21:16:40.735 Island/Arena:  --> Execution time: 23978ms
+    21:16:40.735 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:16:40.742 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:16:42.803 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:16:42.884 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:16:42.928 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:16:42.983 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:16:43.038 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:16:43.176 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:16:43.179 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:16:43.179 Island/Arena: Processing player [qae] with island [week52]
+    21:16:43.234 Island/Arena:  --> Execution time: 55ms
+    21:16:43.234 Island/Arena: Processing player [qbd] with island [week52]
+    21:17:06.170 Island/Arena:  --> Execution time: 22936ms
+    21:17:06.170 Island/Arena: Processing player [qcd] with island [week52]
+    21:17:06.417 Island/Arena:  --> Execution time: 247ms
+    21:17:06.418 Island/Arena: Processing player [qde] with island [week52]
+    21:17:06.511 Island/Arena:  --> Execution time: 93ms
+    21:17:06.511 Island/Arena: Processing player [qaf] with island [week52]
+    21:17:07.030 Island/Arena:  --> Execution time: 519ms
+    21:17:07.030 Island/Arena: Processing player [qbf] with island [week52]
+    21:17:08.937 Island/Arena:  --> Execution time: 1907ms
+    21:17:08.937 Island/Arena: Processing player [qce] with island [week52]
+    21:17:09.091 Island/Arena:  --> Execution time: 154ms
+    21:17:09.091 Island/Arena: Processing player [qac] with island [week52]
+    21:17:09.277 Island/Arena:  --> Execution time: 186ms
+    21:17:09.277 Island/Arena: Processing player [qcf] with island [week52]
+    21:17:09.446 Island/Arena:  --> Execution time: 169ms
+    21:17:09.446 Island/Arena: Processing player [qdf] with island [week52]
+    21:17:10.371 Island/Arena:  --> Execution time: 925ms
+    21:17:10.371 Island/Arena: Processing player [qdd] with island [week52]
+    21:17:10.917 Island/Arena:  --> Execution time: 546ms
+    21:17:10.917 Island/Arena: Processing player [qad] with island [week52]
+    21:17:11.155 Island/Arena:  --> Execution time: 238ms
+    21:17:11.155 Island/Arena: Processing player [qdc] with island [week52]
+    21:17:11.526 Island/Arena:  --> Execution time: 371ms
+    21:17:11.527 Island/Arena: Processing player [qbb] with island [week52]
+    21:17:11.528 Island/Arena:  --> Execution time: 1ms
+    21:17:11.528 Island/Arena: Processing player [qcc] with island [week52]
+    21:17:11.914 Island/Arena:  --> Execution time: 386ms
+    21:17:11.914 Island/Arena: Processing player [qaa] with island [week52]
+    21:17:12.061 Island/Arena:  --> Execution time: 147ms
+    21:17:12.061 Island/Arena: Processing player [qbc] with island [week52]
+    21:17:12.663 Island/Arena:  --> Execution time: 602ms
+    21:17:12.663 Island/Arena: Processing player [qcb] with island [week52]
+    21:17:12.991 Island/Arena:  --> Execution time: 328ms
+    21:17:12.991 Island/Arena: Processing player [qba] with island [week52]
+    21:17:13.372 Island/Arena:  --> Execution time: 381ms
+    21:17:13.372 Island/Arena: Processing player [qda] with island [week52]
+    21:17:13.517 Island/Arena:  --> Execution time: 145ms
+    21:17:13.517 Island/Arena: Processing player [qca] with island [week52]
+    21:17:14.289 Island/Arena:  --> Execution time: 772ms
+    21:17:14.289 Island/Arena: Processing player [qab] with island [week52]
+    21:17:14.528 Island/Arena:  --> Execution time: 239ms
+    21:17:14.528 Island/Arena: Processing player [qbe] with island [week52]
+    21:17:15.352 Island/Arena:  --> Execution time: 824ms
+    21:17:15.352 Island/Arena: Processing player [qdb] with island [week52]
+    21:17:29.759 Island/Arena:  --> Execution time: 14407ms
+    21:17:29.759 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:17:29.763 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:17:32.301 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:17:32.373 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:17:32.421 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:17:32.486 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:17:32.557 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:17:32.737 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:17:32.740 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:17:32.740 Island/Arena: Processing player [qae] with island [week07]
+    21:17:32.748 Island/Arena:  --> Execution time: 8ms
+    21:17:32.748 Island/Arena: Processing player [qbd] with island [week07]
+    21:18:23.943 Island/Arena:  --> Execution time: 51195ms
+    21:18:23.943 Island/Arena: Processing player [qcd] with island [week07]
+    21:18:24.318 Island/Arena:  --> Execution time: 375ms
+    21:18:24.318 Island/Arena: Processing player [qde] with island [week07]
+    21:18:24.348 Island/Arena:  --> Execution time: 30ms
+    21:18:24.348 Island/Arena: Processing player [qaf] with island [week07]
+    21:18:25.012 Island/Arena:  --> Execution time: 664ms
+    21:18:25.012 Island/Arena: Processing player [qbf] with island [week07]
+    21:18:27.873 Island/Arena:  --> Execution time: 2861ms
+    21:18:27.873 Island/Arena: Processing player [qce] with island [week07]
+    21:18:28.331 Island/Arena:  --> Execution time: 458ms
+    21:18:28.332 Island/Arena: Processing player [qac] with island [week07]
+    21:18:28.510 Island/Arena:  --> Execution time: 178ms
+    21:18:28.510 Island/Arena: Processing player [qcf] with island [week07]
+    21:18:29.713 Island/Arena:  --> Execution time: 1203ms
+    21:18:29.713 Island/Arena: Processing player [qdf] with island [week07]
+    21:18:30.555 Island/Arena:  --> Execution time: 842ms
+    21:18:30.556 Island/Arena: Processing player [qdd] with island [week07]
+    21:19:01.567 Island/Arena:  --> Execution time: 31011ms
+    21:19:01.567 Island/Arena: Processing player [qad] with island [week07]
+    21:19:01.868 Island/Arena:  --> Execution time: 301ms
+    21:19:01.868 Island/Arena: Processing player [qdc] with island [week07]
+    21:19:02.125 Island/Arena:  --> Execution time: 257ms
+    21:19:02.125 Island/Arena: Processing player [qbb] with island [week07]
+    21:19:02.126 Island/Arena:  --> Execution time: 1ms
+    21:19:02.126 Island/Arena: Processing player [qcc] with island [week07]
+    21:19:03.198 Island/Arena:  --> Execution time: 1072ms
+    21:19:03.198 Island/Arena: Processing player [qaa] with island [week07]
+    21:19:03.444 Island/Arena:  --> Execution time: 245ms
+    21:19:03.444 Island/Arena: Processing player [qbc] with island [week07]
+    21:19:04.774 Island/Arena:  --> Execution time: 1330ms
+    21:19:04.774 Island/Arena: Processing player [qcb] with island [week07]
+    21:19:05.351 Island/Arena:  --> Execution time: 576ms
+    21:19:05.351 Island/Arena: Processing player [qba] with island [week07]
+    21:19:05.542 Island/Arena:  --> Execution time: 191ms
+    21:19:05.542 Island/Arena: Processing player [qda] with island [week07]
+    21:19:05.787 Island/Arena:  --> Execution time: 245ms
+    21:19:05.787 Island/Arena: Processing player [qca] with island [week07]
+    21:19:07.347 Island/Arena:  --> Execution time: 1560ms
+    21:19:07.347 Island/Arena: Processing player [qab] with island [week07]
+    21:19:07.864 Island/Arena:  --> Execution time: 517ms
+    21:19:07.864 Island/Arena: Processing player [qbe] with island [week07]
+    21:19:08.025 Island/Arena:  --> Execution time: 161ms
+    21:19:08.025 Island/Arena: Processing player [qdb] with island [week07]
+    21:19:42.661 Island/Arena:  --> Execution time: 34636ms
+    21:19:42.661 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:19:42.665 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:19:44.827 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:19:44.896 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:19:44.937 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:19:44.994 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:19:45.050 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:19:45.180 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:19:45.182 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:19:45.182 Island/Arena: Processing player [qae] with island [week09]
+    21:19:45.286 Island/Arena:  --> Execution time: 104ms
+    21:19:45.286 Island/Arena: Processing player [qbd] with island [week09]
+    21:20:36.246 Island/Arena:  --> Execution time: 50960ms
+    21:20:36.246 Island/Arena: Processing player [qcd] with island [week09]
+    21:20:36.527 Island/Arena:  --> Execution time: 281ms
+    21:20:36.527 Island/Arena: Processing player [qde] with island [week09]
+    21:20:36.623 Island/Arena:  --> Execution time: 96ms
+    21:20:36.623 Island/Arena: Processing player [qaf] with island [week09]
+    21:20:37.443 Island/Arena:  --> Execution time: 820ms
+    21:20:37.443 Island/Arena: Processing player [qbf] with island [week09]
+    21:20:40.714 Island/Arena:  --> Execution time: 3271ms
+    21:20:40.714 Island/Arena: Processing player [qce] with island [week09]
+    21:20:40.931 Island/Arena:  --> Execution time: 217ms
+    21:20:40.931 Island/Arena: Processing player [qac] with island [week09]
+    21:20:40.957 Island/Arena:  --> Execution time: 26ms
+    21:20:40.957 Island/Arena: Processing player [qcf] with island [week09]
+    21:20:41.262 Island/Arena:  --> Execution time: 305ms
+    21:20:41.262 Island/Arena: Processing player [qdf] with island [week09]
+    21:20:41.268 Island/Arena:  --> Execution time: 6ms
+    21:20:41.269 Island/Arena: Processing player [qdd] with island [week09]
+    21:21:13.601 Island/Arena:  --> Execution time: 32332ms
+    21:21:13.601 Island/Arena: Processing player [qad] with island [week09]
+    21:21:13.888 Island/Arena:  --> Execution time: 287ms
+    21:21:13.888 Island/Arena: Processing player [qdc] with island [week09]
+    21:21:14.458 Island/Arena:  --> Execution time: 570ms
+    21:21:14.459 Island/Arena: Processing player [qbb] with island [week09]
+    21:21:14.460 Island/Arena:  --> Execution time: 1ms
+    21:21:14.460 Island/Arena: Processing player [qcc] with island [week09]
+    21:21:15.542 Island/Arena:  --> Execution time: 1082ms
+    21:21:15.542 Island/Arena: Processing player [qaa] with island [week09]
+    21:21:15.968 Island/Arena:  --> Execution time: 426ms
+    21:21:15.969 Island/Arena: Processing player [qbc] with island [week09]
+    21:21:18.130 Island/Arena:  --> Execution time: 2161ms
+    21:21:18.130 Island/Arena: Processing player [qcb] with island [week09]
+    21:21:19.230 Island/Arena:  --> Execution time: 1100ms
+    21:21:19.231 Island/Arena: Processing player [qba] with island [week09]
+    21:21:20.748 Island/Arena:  --> Execution time: 1517ms
+    21:21:20.748 Island/Arena: Processing player [qda] with island [week09]
+    21:21:21.048 Island/Arena:  --> Execution time: 300ms
+    21:21:21.048 Island/Arena: Processing player [qca] with island [week09]
+    21:21:21.371 Island/Arena:  --> Execution time: 323ms
+    21:21:21.371 Island/Arena: Processing player [qab] with island [week09]
+    21:21:21.925 Island/Arena:  --> Execution time: 554ms
+    21:21:21.925 Island/Arena: Processing player [qbe] with island [week09]
+    21:21:23.061 Island/Arena:  --> Execution time: 1136ms
+    21:21:23.061 Island/Arena: Processing player [qdb] with island [week09]
+    21:22:02.798 Island/Arena:  --> Execution time: 39737ms
+    21:22:02.798 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:22:02.801 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:22:04.752 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:22:04.816 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:22:04.863 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:22:04.918 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:22:04.976 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:22:05.116 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:22:05.118 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:22:05.118 Island/Arena: Processing player [qae] with island [week48]
+    21:22:05.131 Island/Arena:  --> Execution time: 13ms
+    21:22:05.131 Island/Arena: Processing player [qbd] with island [week48]
+    21:22:35.303 Island/Arena:  --> Execution time: 30172ms
+    21:22:35.303 Island/Arena: Processing player [qcd] with island [week48]
+    21:22:35.463 Island/Arena:  --> Execution time: 160ms
+    21:22:35.463 Island/Arena: Processing player [qde] with island [week48]
+    21:22:35.496 Island/Arena:  --> Execution time: 33ms
+    21:22:35.496 Island/Arena: Processing player [qaf] with island [week48]
+    21:22:35.976 Island/Arena:  --> Execution time: 480ms
+    21:22:35.977 Island/Arena: Processing player [qbf] with island [week48]
+    21:22:38.378 Island/Arena:  --> Execution time: 2401ms
+    21:22:38.378 Island/Arena: Processing player [qce] with island [week48]
+    21:22:38.596 Island/Arena:  --> Execution time: 218ms
+    21:22:38.597 Island/Arena: Processing player [qac] with island [week48]
+    21:22:38.661 Island/Arena:  --> Execution time: 64ms
+    21:22:38.661 Island/Arena: Processing player [qcf] with island [week48]
+    21:22:38.667 Island/Arena:  --> Execution time: 6ms
+    21:22:38.667 Island/Arena: Processing player [qdf] with island [week48]
+    21:22:38.682 Island/Arena:  --> Execution time: 15ms
+    21:22:38.682 Island/Arena: Processing player [qdd] with island [week48]
+    21:22:40.607 Island/Arena:  --> Execution time: 1925ms
+    21:22:40.607 Island/Arena: Processing player [qad] with island [week48]
+    21:22:40.802 Island/Arena:  --> Execution time: 195ms
+    21:22:40.802 Island/Arena: Processing player [qdc] with island [week48]
+    21:22:40.956 Island/Arena:  --> Execution time: 154ms
+    21:22:40.956 Island/Arena: Processing player [qbb] with island [week48]
+    21:22:40.958 Island/Arena:  --> Execution time: 2ms
+    21:22:40.958 Island/Arena: Processing player [qcc] with island [week48]
+    21:22:41.232 Island/Arena:  --> Execution time: 274ms
+    21:22:41.232 Island/Arena: Processing player [qaa] with island [week48]
+    21:22:41.424 Island/Arena:  --> Execution time: 192ms
+    21:22:41.424 Island/Arena: Processing player [qbc] with island [week48]
+    21:22:41.815 Island/Arena:  --> Execution time: 391ms
+    21:22:41.815 Island/Arena: Processing player [qcb] with island [week48]
+    21:22:42.782 Island/Arena:  --> Execution time: 967ms
+    21:22:42.782 Island/Arena: Processing player [qba] with island [week48]
+    21:22:42.945 Island/Arena:  --> Execution time: 163ms
+    21:22:42.945 Island/Arena: Processing player [qda] with island [week48]
+    21:22:43.100 Island/Arena:  --> Execution time: 155ms
+    21:22:43.100 Island/Arena: Processing player [qca] with island [week48]
+    21:22:43.153 Island/Arena:  --> Execution time: 53ms
+    21:22:43.153 Island/Arena: Processing player [qab] with island [week48]
+    21:22:43.292 Island/Arena:  --> Execution time: 139ms
+    21:22:43.292 Island/Arena: Processing player [qbe] with island [week48]
+    21:22:43.359 Island/Arena:  --> Execution time: 67ms
+    21:22:43.359 Island/Arena: Processing player [qdb] with island [week48]
+    21:23:02.496 Island/Arena:  --> Execution time: 19137ms
+    21:23:02.497 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:23:02.501 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:23:04.600 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:23:04.665 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:23:04.711 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:23:04.765 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:23:04.819 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:23:04.966 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:23:04.968 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:23:04.968 Island/Arena: Processing player [qae] with island [week05]
+    21:23:04.978 Island/Arena:  --> Execution time: 10ms
+    21:23:04.978 Island/Arena: Processing player [qbd] with island [week05]
+    21:24:00.993 Island/Arena:  --> Execution time: 56015ms
+    21:24:00.993 Island/Arena: Processing player [qcd] with island [week05]
+    21:24:01.580 Island/Arena:  --> Execution time: 587ms
+    21:24:01.580 Island/Arena: Processing player [qde] with island [week05]
+    21:24:01.608 Island/Arena:  --> Execution time: 28ms
+    21:24:01.608 Island/Arena: Processing player [qaf] with island [week05]
+    21:24:02.514 Island/Arena:  --> Execution time: 906ms
+    21:24:02.514 Island/Arena: Processing player [qbf] with island [week05]
+    21:24:08.373 Island/Arena:  --> Execution time: 5859ms
+    21:24:08.373 Island/Arena: Processing player [qce] with island [week05]
+    21:24:08.572 Island/Arena:  --> Execution time: 199ms
+    21:24:08.572 Island/Arena: Processing player [qac] with island [week05]
+    21:24:08.922 Island/Arena:  --> Execution time: 350ms
+    21:24:08.922 Island/Arena: Processing player [qcf] with island [week05]
+    21:24:09.225 Island/Arena:  --> Execution time: 303ms
+    21:24:09.225 Island/Arena: Processing player [qdf] with island [week05]
+    21:24:09.253 Island/Arena:  --> Execution time: 28ms
+    21:24:09.253 Island/Arena: Processing player [qdd] with island [week05]
+    21:24:13.446 Island/Arena:  --> Execution time: 4193ms
+    21:24:13.446 Island/Arena: Processing player [qad] with island [week05]
+    21:24:13.714 Island/Arena:  --> Execution time: 268ms
+    21:24:13.714 Island/Arena: Processing player [qdc] with island [week05]
+    21:24:13.855 Island/Arena:  --> Execution time: 141ms
+    21:24:13.855 Island/Arena: Processing player [qbb] with island [week05]
+    21:24:13.856 Island/Arena:  --> Execution time: 1ms
+    21:24:13.856 Island/Arena: Processing player [qcc] with island [week05]
+    21:24:14.850 Island/Arena:  --> Execution time: 994ms
+    21:24:14.850 Island/Arena: Processing player [qaa] with island [week05]
+    21:24:15.124 Island/Arena:  --> Execution time: 274ms
+    21:24:15.125 Island/Arena: Processing player [qbc] with island [week05]
+    21:24:17.380 Island/Arena:  --> Execution time: 2255ms
+    21:24:17.380 Island/Arena: Processing player [qcb] with island [week05]
+    21:24:18.622 Island/Arena:  --> Execution time: 1242ms
+    21:24:18.623 Island/Arena: Processing player [qba] with island [week05]
+    21:24:20.177 Island/Arena:  --> Execution time: 1554ms
+    21:24:20.177 Island/Arena: Processing player [qda] with island [week05]
+    21:24:20.491 Island/Arena:  --> Execution time: 314ms
+    21:24:20.491 Island/Arena: Processing player [qca] with island [week05]
+    21:24:20.767 Island/Arena:  --> Execution time: 276ms
+    21:24:20.767 Island/Arena: Processing player [qab] with island [week05]
+    21:24:21.170 Island/Arena:  --> Execution time: 402ms
+    21:24:21.170 Island/Arena: Processing player [qbe] with island [week05]
+    21:24:21.472 Island/Arena:  --> Execution time: 302ms
+    21:24:21.472 Island/Arena: Processing player [qdb] with island [week05]
+    21:24:45.631 Island/Arena:  --> Execution time: 24159ms
+    21:24:45.631 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:24:45.634 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:24:47.598 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:24:47.660 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:24:47.701 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:24:47.753 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:24:47.810 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:24:47.949 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:24:47.950 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:24:47.950 Island/Arena: Processing player [qae] with island [week50]
+    21:24:48.358 Island/Arena:  --> Execution time: 408ms
+    21:24:48.358 Island/Arena: Processing player [qbd] with island [week50]
+    21:25:07.719 Island/Arena:  --> Execution time: 19361ms
+    21:25:07.719 Island/Arena: Processing player [qcd] with island [week50]
+    21:25:07.912 Island/Arena:  --> Execution time: 193ms
+    21:25:07.912 Island/Arena: Processing player [qde] with island [week50]
+    21:25:07.959 Island/Arena:  --> Execution time: 47ms
+    21:25:07.959 Island/Arena: Processing player [qaf] with island [week50]
+    21:25:08.319 Island/Arena:  --> Execution time: 360ms
+    21:25:08.319 Island/Arena: Processing player [qbf] with island [week50]
+    21:25:09.635 Island/Arena:  --> Execution time: 1316ms
+    21:25:09.635 Island/Arena: Processing player [qce] with island [week50]
+    21:25:09.756 Island/Arena:  --> Execution time: 121ms
+    21:25:09.756 Island/Arena: Processing player [qac] with island [week50]
+    21:25:09.893 Island/Arena:  --> Execution time: 137ms
+    21:25:09.893 Island/Arena: Processing player [qcf] with island [week50]
+    21:25:09.980 Island/Arena:  --> Execution time: 87ms
+    21:25:09.980 Island/Arena: Processing player [qdf] with island [week50]
+    21:25:09.995 Island/Arena:  --> Execution time: 15ms
+    21:25:09.995 Island/Arena: Processing player [qdd] with island [week50]
+    21:25:12.359 Island/Arena:  --> Execution time: 2364ms
+    21:25:12.359 Island/Arena: Processing player [qad] with island [week50]
+    21:25:12.491 Island/Arena:  --> Execution time: 132ms
+    21:25:12.491 Island/Arena: Processing player [qdc] with island [week50]
+    21:25:12.616 Island/Arena:  --> Execution time: 124ms
+    21:25:12.616 Island/Arena: Processing player [qbb] with island [week50]
+    21:25:12.617 Island/Arena:  --> Execution time: 1ms
+    21:25:12.617 Island/Arena: Processing player [qcc] with island [week50]
+    21:25:12.986 Island/Arena:  --> Execution time: 369ms
+    21:25:12.986 Island/Arena: Processing player [qaa] with island [week50]
+    21:25:13.186 Island/Arena:  --> Execution time: 200ms
+    21:25:13.187 Island/Arena: Processing player [qbc] with island [week50]
+    21:25:13.448 Island/Arena:  --> Execution time: 261ms
+    21:25:13.448 Island/Arena: Processing player [qcb] with island [week50]
+    21:25:13.680 Island/Arena:  --> Execution time: 232ms
+    21:25:13.680 Island/Arena: Processing player [qba] with island [week50]
+    21:25:13.780 Island/Arena:  --> Execution time: 100ms
+    21:25:13.780 Island/Arena: Processing player [qda] with island [week50]
+    21:25:13.919 Island/Arena:  --> Execution time: 139ms
+    21:25:13.919 Island/Arena: Processing player [qca] with island [week50]
+    21:25:14.055 Island/Arena:  --> Execution time: 136ms
+    21:25:14.055 Island/Arena: Processing player [qab] with island [week50]
+    21:25:14.370 Island/Arena:  --> Execution time: 315ms
+    21:25:14.370 Island/Arena: Processing player [qbe] with island [week50]
+    21:25:14.437 Island/Arena:  --> Execution time: 67ms
+    21:25:14.437 Island/Arena: Processing player [qdb] with island [week50]
+    21:25:19.640 Island/Arena:  --> Execution time: 5203ms
+    21:25:19.640 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:25:19.644 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:25:21.748 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:25:21.818 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:25:21.862 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:25:21.918 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:25:21.976 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:25:22.114 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:25:22.116 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:25:22.116 Island/Arena: Processing player [qae] with island [week06]
+    21:25:22.122 Island/Arena:  --> Execution time: 6ms
+    21:25:22.122 Island/Arena: Processing player [qbd] with island [week06]
+    21:26:31.638 Island/Arena:  --> Execution time: 69516ms
+    21:26:31.638 Island/Arena: Processing player [qcd] with island [week06]
+    21:26:31.811 Island/Arena:  --> Execution time: 173ms
+    21:26:31.811 Island/Arena: Processing player [qde] with island [week06]
+    21:26:31.836 Island/Arena:  --> Execution time: 25ms
+    21:26:31.836 Island/Arena: Processing player [qaf] with island [week06]
+    21:26:32.497 Island/Arena:  --> Execution time: 661ms
+    21:26:32.498 Island/Arena: Processing player [qbf] with island [week06]
+    21:26:34.778 Island/Arena:  --> Execution time: 2280ms
+    21:26:34.778 Island/Arena: Processing player [qce] with island [week06]
+    21:26:34.987 Island/Arena:  --> Execution time: 209ms
+    21:26:34.987 Island/Arena: Processing player [qac] with island [week06]
+    21:26:35.070 Island/Arena:  --> Execution time: 83ms
+    21:26:35.070 Island/Arena: Processing player [qcf] with island [week06]
+    21:26:36.566 Island/Arena:  --> Execution time: 1496ms
+    21:26:36.566 Island/Arena: Processing player [qdf] with island [week06]
+    21:26:36.622 Island/Arena:  --> Execution time: 56ms
+    21:26:36.622 Island/Arena: Processing player [qdd] with island [week06]
+    21:26:48.099 Island/Arena:  --> Execution time: 11477ms
+    21:26:48.099 Island/Arena: Processing player [qad] with island [week06]
+    21:26:48.353 Island/Arena:  --> Execution time: 254ms
+    21:26:48.353 Island/Arena: Processing player [qdc] with island [week06]
+    21:26:48.360 Island/Arena:  --> Execution time: 7ms
+    21:26:48.360 Island/Arena: Processing player [qbb] with island [week06]
+    21:26:48.361 Island/Arena:  --> Execution time: 1ms
+    21:26:48.361 Island/Arena: Processing player [qcc] with island [week06]
+    21:26:49.483 Island/Arena:  --> Execution time: 1122ms
+    21:26:49.484 Island/Arena: Processing player [qaa] with island [week06]
+    21:26:49.878 Island/Arena:  --> Execution time: 394ms
+    21:26:49.878 Island/Arena: Processing player [qbc] with island [week06]
+    21:26:50.833 Island/Arena:  --> Execution time: 955ms
+    21:26:50.833 Island/Arena: Processing player [qcb] with island [week06]
+    21:26:52.731 Island/Arena:  --> Execution time: 1898ms
+    21:26:52.731 Island/Arena: Processing player [qba] with island [week06]
+    21:26:53.600 Island/Arena:  --> Execution time: 869ms
+    21:26:53.600 Island/Arena: Processing player [qda] with island [week06]
+    21:26:53.903 Island/Arena:  --> Execution time: 303ms
+    21:26:53.903 Island/Arena: Processing player [qca] with island [week06]
+    21:26:54.210 Island/Arena:  --> Execution time: 307ms
+    21:26:54.210 Island/Arena: Processing player [qab] with island [week06]
+    21:26:54.686 Island/Arena:  --> Execution time: 476ms
+    21:26:54.687 Island/Arena: Processing player [qbe] with island [week06]
+    21:26:56.433 Island/Arena:  --> Execution time: 1746ms
+    21:26:56.433 Island/Arena: Processing player [qdb] with island [week06]
+    21:27:33.209 Island/Arena:  --> Execution time: 36776ms
+    21:27:33.209 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:27:33.216 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:27:35.280 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:27:35.344 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:27:35.389 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:27:35.442 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:27:35.499 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:27:35.636 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:27:35.638 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:27:35.638 Island/Arena: Processing player [qae] with island [week03]
+    21:27:35.647 Island/Arena:  --> Execution time: 9ms
+    21:27:35.647 Island/Arena: Processing player [qbd] with island [week03]
+    21:28:25.780 Island/Arena:  --> Execution time: 50133ms
+    21:28:25.780 Island/Arena: Processing player [qcd] with island [week03]
+    21:28:26.173 Island/Arena:  --> Execution time: 393ms
+    21:28:26.173 Island/Arena: Processing player [qde] with island [week03]
+    21:28:26.203 Island/Arena:  --> Execution time: 30ms
+    21:28:26.203 Island/Arena: Processing player [qaf] with island [week03]
+    21:28:26.811 Island/Arena:  --> Execution time: 608ms
+    21:28:26.811 Island/Arena: Processing player [qbf] with island [week03]
+    21:28:27.748 Island/Arena:  --> Execution time: 937ms
+    21:28:27.749 Island/Arena: Processing player [qce] with island [week03]
+    21:28:28.034 Island/Arena:  --> Execution time: 285ms
+    21:28:28.034 Island/Arena: Processing player [qac] with island [week03]
+    21:28:28.192 Island/Arena:  --> Execution time: 158ms
+    21:28:28.192 Island/Arena: Processing player [qcf] with island [week03]
+    21:28:28.296 Island/Arena:  --> Execution time: 104ms
+    21:28:28.296 Island/Arena: Processing player [qdf] with island [week03]
+    21:28:28.304 Island/Arena:  --> Execution time: 8ms
+    21:28:28.304 Island/Arena: Processing player [qdd] with island [week03]
+    21:28:58.886 Island/Arena:  --> Execution time: 30582ms
+    21:28:58.886 Island/Arena: Processing player [qad] with island [week03]
+    21:28:59.138 Island/Arena:  --> Execution time: 252ms
+    21:28:59.138 Island/Arena: Processing player [qdc] with island [week03]
+    21:28:59.416 Island/Arena:  --> Execution time: 278ms
+    21:28:59.416 Island/Arena: Processing player [qbb] with island [week03]
+    21:28:59.417 Island/Arena:  --> Execution time: 1ms
+    21:28:59.418 Island/Arena: Processing player [qcc] with island [week03]
+    21:29:00.676 Island/Arena:  --> Execution time: 1258ms
+    21:29:00.676 Island/Arena: Processing player [qaa] with island [week03]
+    21:29:00.841 Island/Arena:  --> Execution time: 165ms
+    21:29:00.841 Island/Arena: Processing player [qbc] with island [week03]
+    21:29:02.203 Island/Arena:  --> Execution time: 1361ms
+    21:29:02.203 Island/Arena: Processing player [qcb] with island [week03]
+    21:29:05.340 Island/Arena:  --> Execution time: 3137ms
+    21:29:05.340 Island/Arena: Processing player [qba] with island [week03]
+    21:29:05.700 Island/Arena:  --> Execution time: 360ms
+    21:29:05.700 Island/Arena: Processing player [qda] with island [week03]
+    21:29:05.877 Island/Arena:  --> Execution time: 177ms
+    21:29:05.877 Island/Arena: Processing player [qca] with island [week03]
+    21:29:06.065 Island/Arena:  --> Execution time: 188ms
+    21:29:06.065 Island/Arena: Processing player [qab] with island [week03]
+    21:29:06.269 Island/Arena:  --> Execution time: 204ms
+    21:29:06.269 Island/Arena: Processing player [qbe] with island [week03]
+    21:29:06.407 Island/Arena:  --> Execution time: 138ms
+    21:29:06.408 Island/Arena: Processing player [qdb] with island [week03]
+    21:30:45.046 Island/Arena:  --> Execution time: 98638ms
+    21:30:45.047 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:30:45.050 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:30:47.033 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:30:47.097 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:30:47.138 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:30:47.193 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:30:47.249 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:30:47.390 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:30:47.392 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:30:47.392 Island/Arena: Processing player [qae] with island [week47]
+    21:30:47.545 Island/Arena:  --> Execution time: 153ms
+    21:30:47.545 Island/Arena: Processing player [qbd] with island [week47]
+    21:30:58.036 Island/Arena:  --> Execution time: 10491ms
+    21:30:58.036 Island/Arena: Processing player [qcd] with island [week47]
+    21:30:58.178 Island/Arena:  --> Execution time: 142ms
+    21:30:58.178 Island/Arena: Processing player [qde] with island [week47]
+    21:30:58.395 Island/Arena:  --> Execution time: 217ms
+    21:30:58.395 Island/Arena: Processing player [qaf] with island [week47]
+    21:30:58.637 Island/Arena:  --> Execution time: 242ms
+    21:30:58.637 Island/Arena: Processing player [qbf] with island [week47]
+    21:30:59.452 Island/Arena:  --> Execution time: 815ms
+    21:30:59.452 Island/Arena: Processing player [qce] with island [week47]
+    21:30:59.543 Island/Arena:  --> Execution time: 91ms
+    21:30:59.543 Island/Arena: Processing player [qac] with island [week47]
+    21:30:59.642 Island/Arena:  --> Execution time: 99ms
+    21:30:59.642 Island/Arena: Processing player [qcf] with island [week47]
+    21:30:59.741 Island/Arena:  --> Execution time: 99ms
+    21:30:59.741 Island/Arena: Processing player [qdf] with island [week47]
+    21:30:59.866 Island/Arena:  --> Execution time: 125ms
+    21:30:59.866 Island/Arena: Processing player [qdd] with island [week47]
+    21:31:02.712 Island/Arena:  --> Execution time: 2846ms
+    21:31:02.712 Island/Arena: Processing player [qad] with island [week47]
+    21:31:02.797 Island/Arena:  --> Execution time: 85ms
+    21:31:02.797 Island/Arena: Processing player [qdc] with island [week47]
+    21:31:03.046 Island/Arena:  --> Execution time: 249ms
+    21:31:03.046 Island/Arena: Processing player [qbb] with island [week47]
+    21:31:03.047 Island/Arena:  --> Execution time: 1ms
+    21:31:03.047 Island/Arena: Processing player [qcc] with island [week47]
+    21:31:03.196 Island/Arena:  --> Execution time: 149ms
+    21:31:03.196 Island/Arena: Processing player [qaa] with island [week47]
+    21:31:03.347 Island/Arena:  --> Execution time: 151ms
+    21:31:03.347 Island/Arena: Processing player [qbc] with island [week47]
+    21:31:03.792 Island/Arena:  --> Execution time: 445ms
+    21:31:03.792 Island/Arena: Processing player [qcb] with island [week47]
+    21:31:04.202 Island/Arena:  --> Execution time: 410ms
+    21:31:04.202 Island/Arena: Processing player [qba] with island [week47]
+    21:31:04.424 Island/Arena:  --> Execution time: 222ms
+    21:31:04.424 Island/Arena: Processing player [qda] with island [week47]
+    21:31:04.548 Island/Arena:  --> Execution time: 124ms
+    21:31:04.548 Island/Arena: Processing player [qca] with island [week47]
+    21:31:04.762 Island/Arena:  --> Execution time: 214ms
+    21:31:04.763 Island/Arena: Processing player [qab] with island [week47]
+    21:31:05.007 Island/Arena:  --> Execution time: 244ms
+    21:31:05.007 Island/Arena: Processing player [qbe] with island [week47]
+    21:31:05.524 Island/Arena:  --> Execution time: 517ms
+    21:31:05.524 Island/Arena: Processing player [qdb] with island [week47]
+    21:31:16.583 Island/Arena:  --> Execution time: 11059ms
+    21:31:16.583 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:31:16.588 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:31:18.715 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:31:18.777 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:31:18.817 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:31:18.876 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:31:18.941 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:31:19.080 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:31:19.082 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:31:19.082 Island/Arena: Processing player [qae] with island [week10]
+    21:31:19.094 Island/Arena:  --> Execution time: 12ms
+    21:31:19.094 Island/Arena: Processing player [qbd] with island [week10]
+    21:32:07.592 Island/Arena:  --> Execution time: 48498ms
+    21:32:07.592 Island/Arena: Processing player [qcd] with island [week10]
+    21:32:07.924 Island/Arena:  --> Execution time: 332ms
+    21:32:07.925 Island/Arena: Processing player [qde] with island [week10]
+    21:32:07.958 Island/Arena:  --> Execution time: 33ms
+    21:32:07.958 Island/Arena: Processing player [qaf] with island [week10]
+    21:32:08.657 Island/Arena:  --> Execution time: 699ms
+    21:32:08.657 Island/Arena: Processing player [qbf] with island [week10]
+    21:32:09.199 Island/Arena:  --> Execution time: 542ms
+    21:32:09.199 Island/Arena: Processing player [qce] with island [week10]
+    21:32:09.470 Island/Arena:  --> Execution time: 271ms
+    21:32:09.470 Island/Arena: Processing player [qac] with island [week10]
+    21:32:09.659 Island/Arena:  --> Execution time: 189ms
+    21:32:09.659 Island/Arena: Processing player [qcf] with island [week10]
+    21:32:10.003 Island/Arena:  --> Execution time: 344ms
+    21:32:10.003 Island/Arena: Processing player [qdf] with island [week10]
+    21:32:10.011 Island/Arena:  --> Execution time: 8ms
+    21:32:10.011 Island/Arena: Processing player [qdd] with island [week10]
+    21:32:24.809 Island/Arena:  --> Execution time: 14798ms
+    21:32:24.809 Island/Arena: Processing player [qad] with island [week10]
+    21:32:25.053 Island/Arena:  --> Execution time: 244ms
+    21:32:25.053 Island/Arena: Processing player [qdc] with island [week10]
+    21:32:25.289 Island/Arena:  --> Execution time: 236ms
+    21:32:25.289 Island/Arena: Processing player [qbb] with island [week10]
+    21:32:25.291 Island/Arena:  --> Execution time: 2ms
+    21:32:25.291 Island/Arena: Processing player [qcc] with island [week10]
+    21:32:26.378 Island/Arena:  --> Execution time: 1087ms
+    21:32:26.378 Island/Arena: Processing player [qaa] with island [week10]
+    21:32:26.647 Island/Arena:  --> Execution time: 269ms
+    21:32:26.647 Island/Arena: Processing player [qbc] with island [week10]
+    21:32:28.419 Island/Arena:  --> Execution time: 1772ms
+    21:32:28.419 Island/Arena: Processing player [qcb] with island [week10]
+    21:32:32.124 Island/Arena:  --> Execution time: 3705ms
+    21:32:32.125 Island/Arena: Processing player [qba] with island [week10]
+    21:32:32.406 Island/Arena:  --> Execution time: 281ms
+    21:32:32.406 Island/Arena: Processing player [qda] with island [week10]
+    21:32:32.746 Island/Arena:  --> Execution time: 340ms
+    21:32:32.746 Island/Arena: Processing player [qca] with island [week10]
+    21:32:32.850 Island/Arena:  --> Execution time: 104ms
+    21:32:32.850 Island/Arena: Processing player [qab] with island [week10]
+    21:32:33.336 Island/Arena:  --> Execution time: 486ms
+    21:32:33.336 Island/Arena: Processing player [qbe] with island [week10]
+    21:32:33.348 Island/Arena:  --> Execution time: 12ms
+    21:32:33.348 Island/Arena: Processing player [qdb] with island [week10]
+    21:33:18.966 Island/Arena:  --> Execution time: 45618ms
+    21:33:18.966 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+    21:33:18.969 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+    21:33:20.050 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+    21:33:20.074 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+    21:33:20.089 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:33:20.114 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+    21:33:20.136 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+    21:33:20.189 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+    21:33:20.191 Island/Board: [GameBoardBuilder] GameBoard building process ended
+
+    21:33:20.191 Island/Arena: Processing player [qae] with island [week46]
+    21:33:20.324 Island/Arena:  --> Execution time: 133ms
+    21:33:20.324 Island/Arena: Processing player [qbd] with island [week46]
+    21:33:31.484 Island/Arena:  --> Execution time: 11160ms
+    21:33:31.484 Island/Arena: Processing player [qcd] with island [week46]
+    21:33:31.589 Island/Arena:  --> Execution time: 105ms
+    21:33:31.589 Island/Arena: Processing player [qde] with island [week46]
+    21:33:31.617 Island/Arena:  --> Execution time: 28ms
+    21:33:31.617 Island/Arena: Processing player [qaf] with island [week46]
+    21:33:31.856 Island/Arena:  --> Execution time: 239ms
+    21:33:31.856 Island/Arena: Processing player [qbf] with island [week46]
+    21:33:32.346 Island/Arena:  --> Execution time: 490ms
+    21:33:32.346 Island/Arena: Processing player [qce] with island [week46]
+    21:33:32.432 Island/Arena:  --> Execution time: 86ms
+    21:33:32.432 Island/Arena: Processing player [qac] with island [week46]
+    21:33:32.486 Island/Arena:  --> Execution time: 54ms
+    21:33:32.486 Island/Arena: Processing player [qcf] with island [week46]
+    21:33:32.600 Island/Arena:  --> Execution time: 114ms
+    21:33:32.600 Island/Arena: Processing player [qdf] with island [week46]
+    21:33:32.658 Island/Arena:  --> Execution time: 58ms
+    21:33:32.658 Island/Arena: Processing player [qdd] with island [week46]
+    21:33:33.247 Island/Arena:  --> Execution time: 589ms
+    21:33:33.247 Island/Arena: Processing player [qad] with island [week46]
+    21:33:33.330 Island/Arena:  --> Execution time: 83ms
+    21:33:33.330 Island/Arena: Processing player [qdc] with island [week46]
+    21:33:33.436 Island/Arena:  --> Execution time: 106ms
+    21:33:33.436 Island/Arena: Processing player [qbb] with island [week46]
+    21:33:33.437 Island/Arena:  --> Execution time: 1ms
+    21:33:33.437 Island/Arena: Processing player [qcc] with island [week46]
+    21:33:33.544 Island/Arena:  --> Execution time: 107ms
+    21:33:33.545 Island/Arena: Processing player [qaa] with island [week46]
+    21:33:33.622 Island/Arena:  --> Execution time: 77ms
+    21:33:33.622 Island/Arena: Processing player [qbc] with island [week46]
+    21:33:33.913 Island/Arena:  --> Execution time: 291ms
+    21:33:33.913 Island/Arena: Processing player [qcb] with island [week46]
+    21:33:34.052 Island/Arena:  --> Execution time: 139ms
+    21:33:34.052 Island/Arena: Processing player [qba] with island [week46]
+    21:33:34.190 Island/Arena:  --> Execution time: 138ms
+    21:33:34.190 Island/Arena: Processing player [qda] with island [week46]
+    21:33:34.220 Island/Arena:  --> Execution time: 30ms
+    21:33:34.220 Island/Arena: Processing player [qca] with island [week46]
+    21:33:34.274 Island/Arena:  --> Execution time: 54ms
+    21:33:34.274 Island/Arena: Processing player [qab] with island [week46]
+    21:33:34.302 Island/Arena:  --> Execution time: 28ms
+    21:33:34.303 Island/Arena: Processing player [qbe] with island [week46]
+    21:33:34.379 Island/Arena:  --> Execution time: 76ms
+    21:33:34.379 Island/Arena: Processing player [qdb] with island [week46]
+    21:33:41.569 Island/Arena:  --> Execution time: 7190ms
