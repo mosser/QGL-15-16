@@ -19,1300 +19,1338 @@
   - week51: Action points: 10000, loc: (1,1), crew: 25, contracts: [(FUR,3000),(WOOD,3000),(GLASS,100)]
   - week52: Action points: 10000, loc: (1,1), crew: 25, contracts: [(FUR,1000),(WOOD,4000),(GLASS,100)]
   - week53: Action points: 10000, loc: (1,1), crew: 25, contracts: [(FLOWER,80),(WOOD,5000),(GLASS,100)]
-
-  
-# Exporting to JSON
-  - JSON dataset available in `championships/_retrospective/_results.json`
    
+## Exporting to JSON
+  - JSON dataset available in `championships/_retrospective/_results.json`
+  
 # Retrospective Results
 
-  - Execution time: 28,60 minutes (1716007ms)
+  - Execution time: 31,15 minutes (1869134ms)
+  - Available contracts: 64
 
-## Player QAA: 
-  - week01: completed contracts: none / 11145 action points left
-  - week02: completed contracts: WOOD / 178 action points left
-    - QUARTZ: 127
-    - WOOD: 5285
-  - week03: completed contracts: none / 15724 action points left
-  - week04: completed contracts: WOOD / 181 action points left
-    - QUARTZ: 69
-    - WOOD: 4565
-    - FUR: 99
-  - week05: completed contracts: FUR,PLANK / 177 action points left
-    - FUR: 2004
-    - WOOD: 3511
-    - QUARTZ: 342
-    - PLANK: 5884
-  - week06: completed contracts: WOOD / 170 action points left
-    - QUARTZ: 539
-    - WOOD: 15551
-  - week07: completed contracts: WOOD,LEATHER / 2495 action points left
-    - FUR: 4
-    - QUARTZ: 475
-    - WOOD: 15208
-    - LEATHER: 31
-  - week09: completed contracts: GLASS / 172 action points left
-    - WOOD: 5509
-    - FUR: 332
-    - GLASS: 59
-  - week10: completed contracts: QUARTZ,LEATHER / 169 action points left
-    - QUARTZ: 504
-    - WOOD: 5751
-    - FUR: 1
-    - LEATHER: 323
-  - week11: completed contracts: WOOD,QUARTZ / 9981 action points left
-    - QUARTZ: 102
-    - WOOD: 10029
-  - week12: completed contracts: LEATHER / 169 action points left
-    - FUR: 315
-    - LEATHER: 1109
-  - week46: completed contracts: WOOD,FLOWER / 1314 action points left
-    - QUARTZ: 187
-    - WOOD: 1024
-    - FLOWER: 10
-  - week47: completed contracts: WOOD,FLOWER / 175 action points left
-    - QUARTZ: 118
-    - WOOD: 1022
-    - FLOWER: 10
-  - week48: completed contracts: WOOD / 174 action points left
-    - QUARTZ: 256
-    - FUR: 773
-    - WOOD: 2183
-  - week49: completed contracts: none / 5978 action points left
-  - week50: completed contracts: WOOD / 185 action points left
-    - FUR: 979
-    - WOOD: 1422
-    - QUARTZ: 280
-  - week51: completed contracts: none / 6152 action points left
-  - week52: completed contracts: WOOD / 178 action points left
-    - QUARTZ: 91
-    - WOOD: 4565
-    - FUR: 99
-  - week53: completed contracts: none / 171 action points left
-    - WOOD: 1418
-    - FLOWER: 39
-    - QUARTZ: 313
+## Player QAA
+  - Collected contracts: 20 (31,25%)
+  - Detailed results:
+    - Using island week01, completed : none / 11178 action points left
+    - Using island week02, completed : WOOD / 179 action points left
+      - QUARTZ: 127
+      - WOOD: 5285
+    - Using island week03, completed : none / 15780 action points left
+    - Using island week04, completed : WOOD / 187 action points left
+      - QUARTZ: 86
+      - WOOD: 4565
+      - FUR: 99
+    - Using island week05, completed : FUR,PLANK / 176 action points left
+      - FUR: 2004
+      - WOOD: 3449
+      - QUARTZ: 342
+      - PLANK: 5910
+    - Using island week06, completed : WOOD / 165 action points left
+      - QUARTZ: 533
+      - WOOD: 15551
+    - Using island week07, completed : WOOD,LEATHER / 2332 action points left
+      - FUR: 4
+      - QUARTZ: 475
+      - WOOD: 15208
+      - LEATHER: 35
+    - Using island week09, completed : GLASS / 170 action points left
+      - WOOD: 5509
+      - FUR: 319
+      - GLASS: 58
+    - Using island week10, completed : QUARTZ,LEATHER / 176 action points left
+      - QUARTZ: 504
+      - WOOD: 5789
+      - FUR: 1
+      - LEATHER: 342
+    - Using island week11, completed : WOOD,QUARTZ / 9978 action points left
+      - QUARTZ: 102
+      - WOOD: 10029
+    - Using island week12, completed : LEATHER / 169 action points left
+      - FUR: 349
+      - LEATHER: 1132
+    - Using island week46, completed : WOOD,FLOWER / 1308 action points left
+      - QUARTZ: 187
+      - WOOD: 1024
+      - FLOWER: 10
+    - Using island week47, completed : WOOD,FLOWER / 171 action points left
+      - QUARTZ: 118
+      - WOOD: 1022
+      - FLOWER: 10
+    - Using island week48, completed : WOOD / 169 action points left
+      - QUARTZ: 256
+      - FUR: 770
+      - WOOD: 2183
+    - Using island week49, completed : none / 6028 action points left
+    - Using island week50, completed : WOOD / 176 action points left
+      - FUR: 979
+      - WOOD: 1422
+      - QUARTZ: 280
+    - Using island week51, completed : none / 6145 action points left
+    - Using island week52, completed : WOOD / 182 action points left
+      - QUARTZ: 74
+      - WOOD: 4565
+      - FUR: 99
+    - Using island week53, completed : none / 171 action points left
+      - WOOD: 1418
+      - FLOWER: 39
+      - QUARTZ: 316
 
-    
-## Player QAB: 
-  - week01: completed contracts: none / 9728 action points left
-  - week02: completed contracts: WOOD / 73 action points left
-    - QUARTZ: 139
-    - WOOD: 5281
-    - FLOWER: 26
-  - week03: completed contracts: none / 14832 action points left
-  - week04: completed contracts: none / 4231 action points left
-  - week05: completed contracts: WOOD,PLANK / 61 action points left
-    - FUR: 118
-    - WOOD: 7595
-    - QUARTZ: 90
-    - PLANK: 5834
-  - week06: completed contracts: WOOD / 68 action points left
-    - WOOD: 15592
-    - QUARTZ: 89
-  - week07: completed contracts: LEATHER / 64 action points left
-    - FUR: 4
-    - WOOD: 14741
-    - QUARTZ: 104
-    - LEATHER: 34
-  - week09: completed contracts: GLASS / 48 action points left
-    - QUARTZ: 2
-    - WOOD: 3259
-    - FUR: 12
-    - GLASS: 61
-  - week10: completed contracts: QUARTZ / 71 action points left
-    - QUARTZ: 503
-    - WOOD: 3612
-    - SUGAR_CANE: 256
-    - FRUITS: 63
-    - FUR: 389
-  - week11: completed contracts: WOOD,QUARTZ / 69 action points left
-    - QUARTZ: 103
-    - WOOD: 10024
-    - FUR: 748
-  - week12: completed contracts: WOOD,FLOWER / 3961 action points left
-    - FUR: 109
-    - WOOD: 5034
-    - FLOWER: 1
-  - week46: completed contracts: none / 5488 action points left
-  - week47: completed contracts: WOOD / 73 action points left
-    - WOOD: 1033
-    - FLOWER: 9
-    - QUARTZ: 35
-  - week48: completed contracts: WOOD,GLASS / 78 action points left
-    - WOOD: 2021
-    - FUR: 273
-    - QUARTZ: 4
-    - GLASS: 32
-  - week49: completed contracts: none / 47 action points left
-    - WOOD: 3186
-    - SUGAR_CANE: 189
-    - QUARTZ: 35
-  - week50: completed contracts: WOOD / 65 action points left
-    - QUARTZ: 148
-    - FUR: 228
-    - WOOD: 1567
-  - week51: completed contracts: WOOD / 60 action points left
-    - QUARTZ: 75
-    - WOOD: 3200
-    - FUR: 28
-  - week52: completed contracts: none / 4193 action points left
-  - week53: completed contracts: none / 70 action points left
-    - WOOD: 2097
-    - FLOWER: 72
-    - QUARTZ: 71
+## Player QAB
+  - Collected contracts: 12 (18,75%)
+  - Detailed results:
+    - Using island week01, completed : none / 9646 action points left
+    - Using island week02, completed : WOOD / 78 action points left
+      - QUARTZ: 46
+      - WOOD: 5297
+      - FLOWER: 14
+    - Using island week03, completed : none / 14696 action points left
+    - Using island week04, completed : none / 4271 action points left
+    - Using island week05, completed : PLANK / 69 action points left
+      - FUR: 398
+      - WOOD: 6554
+      - QUARTZ: 148
+      - PLANK: 5662
+    - Using island week06, completed : WOOD / 69 action points left
+      - WOOD: 15576
+      - QUARTZ: 51
+    - Using island week07, completed : LEATHER / 75 action points left
+      - QUARTZ: 136
+      - FUR: 3
+      - WOOD: 14653
+      - LEATHER: 34
+    - Using island week09, completed : GLASS / 71 action points left
+      - QUARTZ: 4
+      - FUR: 31
+      - WOOD: 1702
+      - GLASS: 53
+    - Using island week10, completed : RUM / 70 action points left
+      - QUARTZ: 390
+      - FRUITS: 4
+      - SUGAR_CANE: 14
+      - WOOD: 4561
+      - RUM: 51
+      - FUR: 284
+    - Using island week11, completed : WOOD,QUARTZ / 51 action points left
+      - QUARTZ: 103
+      - WOOD: 10035
+      - FUR: 386
+    - Using island week12, completed : WOOD,FLOWER / 3902 action points left
+      - FUR: 109
+      - WOOD: 5021
+      - FLOWER: 1
+    - Using island week46, completed : none / 5555 action points left
+    - Using island week47, completed : none / 77 action points left
+      - QUARTZ: 101
+      - WOOD: 790
+      - FLOWER: 8
+    - Using island week48, completed : GLASS / 79 action points left
+      - FUR: 351
+      - QUARTZ: 4
+      - WOOD: 1929
+      - GLASS: 31
+    - Using island week49, completed : none / 70 action points left
+      - WOOD: 4045
+      - SUGAR_CANE: 352
+    - Using island week50, completed : WOOD / 72 action points left
+      - QUARTZ: 150
+      - FUR: 240
+      - WOOD: 1842
+    - Using island week51, completed : none / 51 action points left
+      - QUARTZ: 208
+      - WOOD: 1616
+      - FUR: 112
+    - Using island week52, completed : none / 4143 action points left
+    - Using island week53, completed : none / 79 action points left
+      - QUARTZ: 158
+      - WOOD: 772
 
-## Player QAC: 
-  - week01: KO - game error
-  - week02: completed contracts: WOOD,QUARTZ / 153 action points left
-    - WOOD: 5000
-    - QUARTZ: 202
-    - FLOWER: 4
-  - week03: completed contracts: FLOWER,WOOD,QUARTZ / 7664 action points left
-    - WOOD: 5013
-    - QUARTZ: 203
-    - FLOWER: 40
-  - week04: completed contracts: WOOD / 160 action points left
-    - WOOD: 4037
-    - FUR: 643
-  - week05: completed contracts: none / 146 action points left
-    - WOOD: 776
-  - week06: completed contracts: WOOD / 10925 action points left
-    - WOOD: 15024
-  - week07: completed contracts: none / 12974 action points left
-  - week09: completed contracts: none / 18611 action points left
-  - week10: KO - game error
-  - week11: completed contracts: WOOD,QUARTZ / 166 action points left
-    - WOOD: 10029
-    - QUARTZ: 100
-  - week12: completed contracts: FUR,WOOD / 5488 action points left
-    - WOOD: 5006
-    - FUR: 405
-  - week46: completed contracts: WOOD / 3694 action points left
-    - WOOD: 1036
-    - QUARTZ: 63
-  - week47: completed contracts: none / 1330 action points left
-  - week48: completed contracts: none / 7908 action points left
-  - week49: completed contracts: none / 156 action points left
-    - WOOD: 3714
-  - week50: completed contracts: WOOD / 166 action points left
-    - WOOD: 1001
-    - FUR: 1361
-  - week51: completed contracts: WOOD / 173 action points left
-    - WOOD: 3014
-    - FUR: 67
-  - week52: completed contracts: WOOD / 151 action points left
-    - WOOD: 4037
-    - FUR: 664
-  - week53: completed contracts: WOOD / 150 action points left
-    - WOOD: 5001
-    - FLOWER: 32
+## Player QAC
+  - Collected contracts: 16 (25,00%)
+  - Detailed results:
+    - Using island week01, KO - game error
+    - Using island week02, completed : WOOD,QUARTZ / 166 action points left
+      - WOOD: 5000
+      - QUARTZ: 202
+      - FLOWER: 2
+    - Using island week03, completed : FLOWER,WOOD,QUARTZ / 7630 action points left
+      - WOOD: 5013
+      - QUARTZ: 203
+      - FLOWER: 40
+    - Using island week04, completed : WOOD / 150 action points left
+      - WOOD: 4037
+      - FUR: 664
+    - Using island week05, completed : none / 159 action points left
+      - WOOD: 776
+    - Using island week06, completed : WOOD / 10903 action points left
+      - WOOD: 15024
+    - Using island week07, completed : none / 12996 action points left
+    - Using island week09, completed : none / 18609 action points left
+    - Using island week10, KO - game error
+    - Using island week11, completed : WOOD,QUARTZ / 150 action points left
+      - WOOD: 10029
+      - QUARTZ: 100
+    - Using island week12, completed : FUR,WOOD / 5605 action points left
+      - WOOD: 5006
+      - FUR: 405
+    - Using island week46, completed : WOOD / 3676 action points left
+      - WOOD: 1036
+      - QUARTZ: 63
+    - Using island week47, completed : none / 1354 action points left
+    - Using island week48, completed : none / 7950 action points left
+    - Using island week49, completed : none / 162 action points left
+      - WOOD: 3631
+    - Using island week50, completed : WOOD / 159 action points left
+      - WOOD: 1001
+      - FUR: 1352
+    - Using island week51, completed : WOOD / 170 action points left
+      - WOOD: 3014
+      - FUR: 67
+    - Using island week52, completed : WOOD / 151 action points left
+      - WOOD: 4037
+      - FUR: 643
+    - Using island week53, completed : WOOD / 148 action points left
+      - WOOD: 5001
+      - FLOWER: 32
 
-## Player QAD: 
-  - week01: completed contracts: none / 12 action points left
-    - QUARTZ: 132
-  - week02: completed contracts: none / 11 action points left
-    - QUARTZ: 8
-    - WOOD: 744
-  - week03: completed contracts: none / 17 action points left
-    - QUARTZ: 58
-  - week04: completed contracts: none / 16 action points left
-    - QUARTZ: 87
-  - week05: completed contracts: none / 13 action points left
-    - FUR: 293
-  - week06: completed contracts: none / 14 action points left
-  - week07: completed contracts: none / 8 action points left
-    - FUR: 279
-    - QUARTZ: 53
-  - week09: completed contracts: none / 15 action points left
-    - QUARTZ: 109
-  - week10: completed contracts: none / 1 action points left
-    - FUR: 448
-  - week11: completed contracts: none / 17 action points left
-  - week12: completed contracts: none / 20 action points left
-  - week46: completed contracts: none / 13 action points left
-  - week47: completed contracts: none / 10 action points left
-    - WOOD: 370
-    - QUARTZ: 32
-  - week48: completed contracts: none / 9 action points left
-    - FUR: 21
-  - week49: completed contracts: none / 7 action points left
-    - WOOD: 1035
-    - QUARTZ: 89
-    - SUGAR_CANE: 106
-  - week50: completed contracts: none / 18 action points left
-    - FUR: 239
-    - QUARTZ: 24
-  - week51: completed contracts: none / 5 action points left
-    - QUARTZ: 28
-  - week52: completed contracts: none / 14 action points left
-    - QUARTZ: 87
-  - week53: completed contracts: none / 17 action points left
+## Player QAD
+  - Collected contracts: 0 (0,00%)
+  - Detailed results:
+    - Using island week01, completed : none / 10 action points left
+      - QUARTZ: 132
+    - Using island week02, completed : none / 5 action points left
+      - QUARTZ: 8
+      - WOOD: 744
+    - Using island week03, completed : none / 14 action points left
+      - QUARTZ: 58
+    - Using island week04, completed : none / 13 action points left
+      - QUARTZ: 87
+    - Using island week05, completed : none / 8 action points left
+      - FUR: 293
+    - Using island week06, completed : none / 15 action points left
+    - Using island week07, completed : none / 3 action points left
+      - FUR: 279
+      - QUARTZ: 53
+    - Using island week09, completed : none / 16 action points left
+      - QUARTZ: 109
+    - Using island week10, KO - game error
+    - Using island week11, completed : none / 17 action points left
+    - Using island week12, completed : none / 16 action points left
+    - Using island week46, completed : none / 14 action points left
+    - Using island week47, completed : none / 9 action points left
+      - WOOD: 370
+      - QUARTZ: 32
+    - Using island week48, completed : none / 9 action points left
+      - FUR: 21
+    - Using island week49, completed : none / 11 action points left
+      - WOOD: 1035
+      - QUARTZ: 89
+      - SUGAR_CANE: 106
+    - Using island week50, completed : none / 10 action points left
+      - FUR: 239
+      - QUARTZ: 24
+    - Using island week51, completed : none / 6 action points left
+      - QUARTZ: 28
+    - Using island week52, completed : none / 14 action points left
+      - QUARTZ: 87
+    - Using island week53, completed : none / 18 action points left
 
-## Player QAE: 
-  - week01: KO - game error
-  - week02: KO - game error
-  - week03: KO - game error
-  - week04: KO - game error
-  - week05: KO - game error
-  - week06: completed contracts: none / 19883 action points left
-  - week07: completed contracts: none / 19880 action points left
-  - week09: KO - game error
-  - week10: KO - game error
-  - week11: KO - game error
-  - week12: KO - game error
-  - week46: KO - game error
-  - week47: completed contracts: none / 43 action points left
-    - WOOD: 617
-    - QUARTZ: 49
-  - week48: completed contracts: none / 9710 action points left
-  - week49: completed contracts: none / 9876 action points left
-  - week50: KO - game error
-  - week51: KO - game error
-  - week52: KO - game error
-  - week53: KO - game error
+## Player QAE
+  - Collected contracts: 2 (3,13%)
+  - Detailed results:
+    - Using island week01, KO - game error
+    - Using island week02, KO - game error
+    - Using island week03, KO - game error
+    - Using island week04, KO - game error
+    - Using island week05, KO - game error
+    - Using island week06, completed : none / 19875 action points left
+    - Using island week07, completed : none / 19874 action points left
+    - Using island week09, KO - game error
+    - Using island week10, KO - game error
+    - Using island week11, KO - game error
+    - Using island week12, KO - game error
+    - Using island week46, completed : WOOD,FLOWER / 19 action points left
+      - QUARTZ: 57
+      - WOOD: 1002
+      - FLOWER: 10
+    - Using island week47, completed : none / 49 action points left
+      - WOOD: 617
+      - QUARTZ: 49
+    - Using island week48, completed : none / 9713 action points left
+    - Using island week49, completed : none / 9868 action points left
+    - Using island week50, KO - game error
+    - Using island week51, KO - game error
+    - Using island week52, KO - game error
+    - Using island week53, KO - game error
 
-## Player QAF: 
-  - week01: completed contracts: none / 42 action points left
-    - QUARTZ: 398
-  - week02: completed contracts: QUARTZ / 38 action points left
-    - QUARTZ: 404
-  - week03: completed contracts: QUARTZ / 44 action points left
-    - QUARTZ: 789
-  - week04: completed contracts: WOOD / 42 action points left
-    - WOOD: 8093
-  - week05: completed contracts: WOOD / 28 action points left
-    - WOOD: 8818
-  - week06: completed contracts: WOOD / 49 action points left
-    - WOOD: 24822
-  - week07: completed contracts: WOOD / 46 action points left
-    - WOOD: 22926
-  - week09: completed contracts: none / 41 action points left
-    - WOOD: 1916
-  - week10: completed contracts: QUARTZ / 27 action points left
-    - QUARTZ: 1022
-  - week11: completed contracts: QUARTZ / 39 action points left
-    - QUARTZ: 861
-  - week12: completed contracts: none / 40 action points left
-    - WOOD: 1692
-  - week46: completed contracts: none / 51 action points left
-    - QUARTZ: 277
-  - week47: completed contracts: QUARTZ / 30 action points left
-    - QUARTZ: 399
-  - week48: completed contracts: none / 38 action points left
-    - WOOD: 1134
-  - week49: completed contracts: none / 43 action points left
-    - WOOD: 3686
-  - week50: completed contracts: WOOD / 26 action points left
-    - WOOD: 2085
-  - week51: completed contracts: none / 36 action points left
-    - WOOD: 2103
-  - week52: completed contracts: WOOD / 48 action points left
-    - WOOD: 8161
-  - week53: completed contracts: none / 55 action points left
-    - WOOD: 3548
+## Player QAF
+  - Collected contracts: 13 (20,31%)
+  - Detailed results:
+    - Using island week01, completed : none / 31 action points left
+      - QUARTZ: 421
+    - Using island week02, completed : QUARTZ / 39 action points left
+      - QUARTZ: 444
+    - Using island week03, completed : QUARTZ / 30 action points left
+      - QUARTZ: 748
+    - Using island week04, completed : WOOD / 43 action points left
+      - WOOD: 8025
+    - Using island week05, completed : none / 29 action points left
+      - WOOD: 4608
+    - Using island week06, completed : WOOD / 49 action points left
+      - WOOD: 24325
+    - Using island week07, completed : WOOD / 34 action points left
+      - WOOD: 24995
+    - Using island week09, completed : none / 26 action points left
+    - Using island week10, completed : QUARTZ / 20 action points left
+      - QUARTZ: 1042
+    - Using island week11, completed : QUARTZ / 53 action points left
+      - QUARTZ: 721
+    - Using island week12, completed : none / 36 action points left
+      - WOOD: 2315
+    - Using island week46, completed : QUARTZ / 40 action points left
+      - QUARTZ: 454
+    - Using island week47, completed : QUARTZ / 31 action points left
+      - QUARTZ: 325
+    - Using island week48, completed : none / 42 action points left
+      - WOOD: 1066
+    - Using island week49, completed : WOOD / 38 action points left
+      - WOOD: 5271
+    - Using island week50, completed : WOOD / 34 action points left
+      - WOOD: 2145
+    - Using island week51, completed : WOOD / 43 action points left
+      - WOOD: 4928
+    - Using island week52, completed : WOOD / 48 action points left
+      - WOOD: 8136
+    - Using island week53, completed : none / 47 action points left
+      - WOOD: 3363
 
-## Player QBA: 
-  - week01: completed contracts: FLOWER,PLANK / 6550 action points left
-    - FLOWER: 80
-    - WOOD: 2748
-    - QUARTZ: 83
-    - PLANK: 1002
-  - week02: completed contracts: FLOWER,QUARTZ,GLASS / 1510 action points left
-    - FLOWER: 40
-    - QUARTZ: 200
-    - WOOD: 20
-    - GLASS: 53
-  - week03: completed contracts: FLOWER,WOOD,QUARTZ,GLASS / 3028 action points left
-    - FLOWER: 40
-    - QUARTZ: 204
-    - WOOD: 5034
-    - GLASS: 50
-  - week04: completed contracts: WOOD / 346 action points left
-    - WOOD: 4010
-  - week05: completed contracts: PLANK / 73 action points left
-    - WOOD: 24
-    - QUARTZ: 576
-    - PLANK: 5327
-  - week06: completed contracts: GLASS / 3788 action points left
-    - QUARTZ: 4
-    - WOOD: 16
-    - GLASS: 100
-  - week07: completed contracts: LEATHER,GLASS / 7682 action points left
-    - QUARTZ: 3
-    - WOOD: 14
-    - GLASS: 100
-    - LEATHER: 31
-  - week09: completed contracts: LEATHER,GLASS / 73 action points left
-    - QUARTZ: 1
-    - WOOD: 7748
-    - LEATHER: 300
-    - GLASS: 51
-  - week10: completed contracts: QUARTZ,LEATHER,RUM / 6223 action points left
-    - QUARTZ: 503
-    - LEATHER: 319
-    - FRUITS: 2
-    - SUGAR_CANE: 14
-    - FUR: 1
-    - RUM: 50
-  - week11: completed contracts: WOOD,QUARTZ,LEATHER / 3593 action points left
-    - QUARTZ: 105
-    - WOOD: 10017
-    - FUR: 2
-    - LEATHER: 300
-  - week12: completed contracts: FUR,WOOD,FLOWER / 7672 action points left
-    - FLOWER: 1
-    - FUR: 404
-    - WOOD: 5006
-  - week46: completed contracts: FLOWER / 66 action points left
-    - FLOWER: 10
-    - QUARTZ: 179
-  - week47: completed contracts: WOOD,QUARTZ,FLOWER / 63 action points left
-    - FLOWER: 10
-    - QUARTZ: 301
-    - WOOD: 1002
-  - week48: completed contracts: WOOD,GLASS / 2973 action points left
-    - QUARTZ: 5
-    - WOOD: 2018
-    - GLASS: 31
-  - week49: completed contracts: WOOD,SUGAR_CANE / 440 action points left
-    - SUGAR_CANE: 1002
-    - WOOD: 5001
-  - week50: completed contracts: WOOD / 6234 action points left
-    - WOOD: 1014
-  - week51: completed contracts: none / 73 action points left
-    - QUARTZ: 1003
-    - WOOD: 344
-  - week52: completed contracts: WOOD / 381 action points left
-    - WOOD: 4010
-  - week53: completed contracts: FLOWER / 68 action points left
-    - FLOWER: 80
-    - WOOD: 4688
+## Player QBA
+  - Collected contracts: 35 (54,69%)
+  - Detailed results:
+    - Using island week01, completed : FLOWER,PLANK / 6414 action points left
+      - FLOWER: 80
+      - WOOD: 2736
+      - QUARTZ: 83
+      - PLANK: 1001
+    - Using island week02, completed : FLOWER,QUARTZ,GLASS / 1556 action points left
+      - FLOWER: 40
+      - QUARTZ: 200
+      - WOOD: 20
+      - GLASS: 53
+    - Using island week03, completed : FLOWER,WOOD,QUARTZ,GLASS / 3704 action points left
+      - FLOWER: 40
+      - QUARTZ: 200
+      - WOOD: 5013
+      - GLASS: 53
+    - Using island week04, completed : WOOD / 313 action points left
+      - WOOD: 4010
+    - Using island week05, completed : PLANK / 71 action points left
+      - WOOD: 13
+      - QUARTZ: 586
+      - PLANK: 5003
+    - Using island week06, completed : GLASS / 4140 action points left
+      - QUARTZ: 4
+      - WOOD: 36
+      - GLASS: 108
+    - Using island week07, completed : LEATHER,GLASS / 6786 action points left
+      - GLASS: 100
+      - LEATHER: 30
+      - FUR: 1
+      - WOOD: 29
+    - Using island week09, completed : LEATHER,GLASS / 5466 action points left
+      - GLASS: 50
+      - LEATHER: 300
+      - WOOD: 25
+    - Using island week10, completed : QUARTZ,LEATHER,RUM / 5534 action points left
+      - FUR: 3
+      - QUARTZ: 503
+      - SUGAR_CANE: 10
+      - LEATHER: 300
+      - FRUITS: 3
+      - RUM: 50
+    - Using island week11, completed : WOOD,QUARTZ,LEATHER / 3577 action points left
+      - QUARTZ: 105
+      - WOOD: 10017
+      - LEATHER: 300
+    - Using island week12, completed : FUR,WOOD,FLOWER / 7663 action points left
+      - FLOWER: 1
+      - FUR: 404
+      - WOOD: 5006
+    - Using island week46, completed : FLOWER / 75 action points left
+      - FLOWER: 10
+      - QUARTZ: 179
+    - Using island week47, completed : QUARTZ,FLOWER / 75 action points left
+      - FLOWER: 10
+      - QUARTZ: 301
+      - WOOD: 803
+    - Using island week48, completed : WOOD,GLASS / 2737 action points left
+      - QUARTZ: 1
+      - WOOD: 2003
+      - GLASS: 30
+    - Using island week49, completed : WOOD,SUGAR_CANE / 446 action points left
+      - SUGAR_CANE: 1002
+      - WOOD: 5001
+    - Using island week50, completed : WOOD / 6273 action points left
+      - WOOD: 1014
+    - Using island week51, completed : none / 82 action points left
+      - QUARTZ: 1003
+      - WOOD: 203
+    - Using island week52, completed : WOOD / 348 action points left
+      - WOOD: 4010
+    - Using island week53, completed : FLOWER / 75 action points left
+      - FLOWER: 80
+      - WOOD: 4615
 
-## Player QBB: 
-  - week01: KO - game error
-  - week02: KO - game error
-  - week03: KO - game error
-  - week04: KO - game error
-  - week05: KO - game error
-  - week06: KO - game error
-  - week07: KO - game error
-  - week09: KO - game error
-  - week10: KO - game error
-  - week11: KO - game error
-  - week12: KO - game error
-  - week46: KO - game error
-  - week47: KO - game error
-  - week48: KO - game error
-  - week49: KO - game error
-  - week50: KO - game error
-  - week51: completed contracts: none / 81 action points left
-    - WOOD: 1553
-  - week52: KO - game error
-  - week53: KO - game error
+## Player QBB
+  - Collected contracts: 0 (0,00%)
+  - Detailed results:
+    - Using island week01, completed : none / 56 action points left
+      - WOOD: 718
+      - FLOWER: 35
+    - Using island week02, KO - game error
+    - Using island week03, KO - game error
+    - Using island week04, KO - game error
+    - Using island week05, KO - game error
+    - Using island week06, KO - game error
+    - Using island week07, KO - game error
+    - Using island week09, KO - game error
+    - Using island week10, KO - game error
+    - Using island week11, KO - game error
+    - Using island week12, KO - game error
+    - Using island week46, KO - game error
+    - Using island week47, KO - game error
+    - Using island week48, KO - game error
+    - Using island week49, KO - game error
+    - Using island week50, KO - game error
+    - Using island week51, KO - game error
+    - Using island week52, KO - game error
+    - Using island week53, KO - game error
 
+## Player QBC
+  - Collected contracts: 23 (35,94%)
+  - Detailed results:
+    - Using island week01, completed : FLOWER,WOOD,PLANK / 380 action points left
+      - WOOD: 3001
+      - QUARTZ: 237
+      - FLOWER: 80
+      - PLANK: 3287
+    - Using island week02, completed : none / 371 action points left
+      - FLOWER: 18
+      - QUARTZ: 115
+      - WOOD: 2284
+    - Using island week03, completed : FLOWER,WOOD,QUARTZ / 366 action points left
+      - WOOD: 5001
+      - FLOWER: 40
+      - QUARTZ: 234
+      - GLASS: 19
+    - Using island week04, completed : none / 382 action points left
+      - QUARTZ: 78
+      - WOOD: 2080
+      - FUR: 27
+    - Using island week05, completed : FUR / 373 action points left
+      - FUR: 2002
+      - WOOD: 1677
+      - QUARTZ: 69
+    - Using island week06, completed : WOOD / 369 action points left
+      - WOOD: 15167
+      - QUARTZ: 4
+      - GLASS: 51
+    - Using island week07, completed : WOOD,LEATHER / 368 action points left
+      - QUARTZ: 2
+      - GLASS: 34
+      - LEATHER: 30
+      - FUR: 18
+      - WOOD: 15919
+    - Using island week09, completed : WOOD / 371 action points left
+      - GLASS: 27
+      - QUARTZ: 102
+      - FUR: 2
+      - WOOD: 10001
+      - LEATHER: 29
+    - Using island week10, completed : QUARTZ,LEATHER,RUM / 371 action points left
+      - QUARTZ: 501
+      - FRUITS: 7
+      - FUR: 50
+      - SUGAR_CANE: 88
+      - WOOD: 4471
+      - RUM: 50
+      - LEATHER: 315
+    - Using island week11, completed : WOOD,QUARTZ,LEATHER / 365 action points left
+      - QUARTZ: 101
+      - WOOD: 10019
+      - FUR: 184
+      - LEATHER: 316
+    - Using island week12, completed : FUR / 146 action points left
+      - FUR: 401
+      - WOOD: 1696
+      - LEATHER: 976
+    - Using island week46, completed : WOOD,FLOWER / 382 action points left
+      - WOOD: 1033
+      - FLOWER: 10
+      - QUARTZ: 132
+    - Using island week47, completed : WOOD / 383 action points left
+      - WOOD: 1009
+      - QUARTZ: 53
+    - Using island week48, completed : none / 378 action points left
+      - WOOD: 1879
+      - FUR: 637
+      - QUARTZ: 180
+    - Using island week49, completed : WOOD / 379 action points left
+      - WOOD: 5451
+      - QUARTZ: 2
+      - SUGAR_CANE: 793
+      - GLASS: 9
+    - Using island week50, completed : none / 382 action points left
+      - FUR: 1519
+      - QUARTZ: 212
+      - WOOD: 885
+    - Using island week51, completed : WOOD / 376 action points left
+      - WOOD: 3450
+      - FUR: 275
+    - Using island week52, completed : none / 385 action points left
+      - QUARTZ: 78
+      - WOOD: 2080
+      - FUR: 27
+    - Using island week53, completed : none / 379 action points left
+      - WOOD: 3437
+      - QUARTZ: 180
 
-## Player QBC: 
-  - week01: completed contracts: FLOWER,WOOD,PLANK / 369 action points left
-    - WOOD: 3001
-    - QUARTZ: 237
-    - FLOWER: 80
-    - PLANK: 3768
-  - week02: completed contracts: none / 362 action points left
-    - FLOWER: 18
-    - QUARTZ: 115
-    - WOOD: 2284
-  - week03: completed contracts: FLOWER,WOOD,QUARTZ / 373 action points left
-    - WOOD: 5449
-    - FLOWER: 40
-    - QUARTZ: 201
-    - GLASS: 18
-  - week04: completed contracts: none / 384 action points left
-    - QUARTZ: 78
-    - WOOD: 2080
-    - FUR: 27
-  - week05: completed contracts: FUR / 382 action points left
-    - FUR: 2002
-    - WOOD: 1677
-    - QUARTZ: 69
-  - week06: completed contracts: WOOD / 377 action points left
-    - WOOD: 15199
-    - QUARTZ: 4
-    - GLASS: 48
-  - week07: completed contracts: WOOD,LEATHER / 362 action points left
-    - QUARTZ: 2
-    - GLASS: 30
-    - LEATHER: 30
-    - FUR: 18
-    - WOOD: 15919
-  - week09: completed contracts: WOOD / 379 action points left
-    - GLASS: 27
-    - QUARTZ: 114
-    - FUR: 2
-    - WOOD: 10001
-    - LEATHER: 30
-  - week10: completed contracts: QUARTZ,LEATHER,RUM / 371 action points left
-    - QUARTZ: 501
-    - LEATHER: 313
-    - SUGAR_CANE: 86
-    - FUR: 55
-    - WOOD: 4471
-    - FRUITS: 9
-    - RUM: 50
-  - week11: completed contracts: WOOD,QUARTZ,LEATHER / 378 action points left
-    - QUARTZ: 101
-    - WOOD: 10019
-    - FUR: 67
-    - LEATHER: 312
-  - week12: completed contracts: FUR,LEATHER / 181 action points left
-    - FUR: 401
-    - WOOD: 1696
-    - LEATHER: 1118
-  - week46: completed contracts: WOOD,FLOWER / 377 action points left
-    - WOOD: 1033
-    - FLOWER: 10
-    - QUARTZ: 132
-  - week47: completed contracts: WOOD / 380 action points left
-    - WOOD: 1009
-    - QUARTZ: 40
-  - week48: completed contracts: none / 374 action points left
-    - WOOD: 1879
-    - FUR: 659
-    - QUARTZ: 180
-  - week49: completed contracts: WOOD / 370 action points left
-    - WOOD: 5410
-    - QUARTZ: 2
-    - SUGAR_CANE: 793
-    - GLASS: 9
-  - week50: completed contracts: none / 381 action points left
-    - FUR: 1519
-    - QUARTZ: 212
-    - WOOD: 885
-  - week51: completed contracts: WOOD / 378 action points left
-    - WOOD: 3395
-    - FUR: 275
-  - week52: completed contracts: none / 382 action points left
-    - QUARTZ: 78
-    - WOOD: 2080
-    - FUR: 27
-  - week53: completed contracts: none / 381 action points left
-    - WOOD: 3423
-    - QUARTZ: 180
+## Player QBD
+  - Collected contracts: 39 (60,94%)
+  - Detailed results:
+    - Using island week01, completed : FLOWER,WOOD,PLANK / 170 action points left
+      - QUARTZ: 704
+      - WOOD: 3008
+      - FLOWER: 80
+      - PLANK: 1150
+    - Using island week02, completed : FLOWER,QUARTZ,GLASS / 165 action points left
+      - WOOD: 1789
+      - FLOWER: 40
+      - QUARTZ: 202
+      - GLASS: 52
+    - Using island week03, completed : FLOWER,WOOD,QUARTZ,GLASS / 2627 action points left
+      - WOOD: 5008
+      - QUARTZ: 201
+      - FLOWER: 41
+      - GLASS: 57
+    - Using island week04, completed : WOOD / 180 action points left
+      - FUR: 605
+      - WOOD: 4032
+    - Using island week05, completed : WOOD,PLANK / 165 action points left
+      - FUR: 627
+      - WOOD: 7580
+      - QUARTZ: 77
+      - PLANK: 5911
+    - Using island week06, completed : GLASS / 171 action points left
+      - QUARTZ: 2
+      - WOOD: 9157
+      - GLASS: 119
+    - Using island week07, completed : LEATHER,GLASS / 176 action points left
+      - QUARTZ: 2
+      - LEATHER: 33
+      - GLASS: 103
+      - FUR: 1
+      - WOOD: 8692
+    - Using island week09, completed : WOOD,GLASS / 169 action points left
+      - WOOD: 10024
+      - QUARTZ: 2
+      - FUR: 684
+      - GLASS: 54
+    - Using island week10, completed : QUARTZ,RUM / 178 action points left
+      - FUR: 68
+      - WOOD: 9726
+      - SUGAR_CANE: 13
+      - RUM: 57
+      - FRUITS: 9
+      - QUARTZ: 500
+    - Using island week11, completed : WOOD,QUARTZ,LEATHER / 166 action points left
+      - WOOD: 10039
+      - QUARTZ: 102
+      - FUR: 2
+      - LEATHER: 318
+    - Using island week12, completed : FUR,FLOWER / 161 action points left
+      - FUR: 1379
+      - WOOD: 3201
+      - FLOWER: 2
+    - Using island week46, completed : WOOD,FLOWER / 177 action points left
+      - WOOD: 1033
+      - FLOWER: 10
+      - QUARTZ: 251
+    - Using island week47, completed : WOOD,QUARTZ,FLOWER / 2115 action points left
+      - WOOD: 1004
+      - FLOWER: 10
+      - QUARTZ: 302
+    - Using island week48, completed : WOOD,GLASS,FUR / 477 action points left
+      - QUARTZ: 5
+      - FUR: 1004
+      - WOOD: 2033
+      - GLASS: 32
+    - Using island week49, completed : SUGAR_CANE / 163 action points left
+      - WOOD: 4987
+      - SUGAR_CANE: 1008
+      - QUARTZ: 75
+    - Using island week50, completed : WOOD / 167 action points left
+      - FUR: 339
+      - QUARTZ: 598
+      - WOOD: 1034
+    - Using island week51, completed : WOOD / 181 action points left
+      - FUR: 24
+      - WOOD: 3090
+      - QUARTZ: 326
+    - Using island week52, completed : WOOD / 178 action points left
+      - FUR: 589
+      - WOOD: 4032
+    - Using island week53, completed : FLOWER,WOOD / 170 action points left
+      - QUARTZ: 105
+      - FLOWER: 80
+      - WOOD: 5023
 
-## Player QBD: 
-  - week01: completed contracts: FLOWER,WOOD,PLANK / 169 action points left
-    - QUARTZ: 704
-    - WOOD: 3008
-    - FLOWER: 80
-    - PLANK: 1034
-  - week02: completed contracts: FLOWER,QUARTZ,GLASS / 173 action points left
-    - WOOD: 2005
-    - FLOWER: 40
-    - QUARTZ: 202
-    - GLASS: 50
-  - week03: completed contracts: FLOWER,WOOD,QUARTZ,GLASS / 2465 action points left
-    - WOOD: 5008
-    - QUARTZ: 201
-    - FLOWER: 41
-    - GLASS: 52
-  - week04: completed contracts: WOOD / 180 action points left
-    - FUR: 595
-    - WOOD: 4032
-  - week05: completed contracts: WOOD,PLANK / 171 action points left
-    - FUR: 838
-    - WOOD: 7597
-    - QUARTZ: 77
-    - PLANK: 5393
-  - week06: completed contracts: GLASS / 174 action points left
-    - QUARTZ: 2
-    - WOOD: 9314
-    - GLASS: 112
-  - week07: completed contracts: LEATHER,GLASS / 173 action points left
-    - GLASS: 101
-    - QUARTZ: 2
-    - LEATHER: 34
-    - WOOD: 8809
-    - FUR: 1
-  - week09: completed contracts: WOOD,GLASS / 162 action points left
-    - WOOD: 10024
-    - QUARTZ: 2
-    - FUR: 664
-    - GLASS: 52
-  - week10: completed contracts: QUARTZ,RUM / 178 action points left
-    - FUR: 68
-    - WOOD: 9955
-    - RUM: 52
-    - SUGAR_CANE: 13
-    - FRUITS: 9
-    - QUARTZ: 500
-  - week11: completed contracts: WOOD,QUARTZ,LEATHER / 169 action points left
-    - WOOD: 10039
-    - QUARTZ: 102
-    - FUR: 2
-    - LEATHER: 327
-  - week12: completed contracts: FUR,FLOWER / 168 action points left
-    - FUR: 1000
-    - WOOD: 1214
-    - FLOWER: 2
-  - week46: completed contracts: WOOD,FLOWER / 179 action points left
-    - WOOD: 1033
-    - FLOWER: 10
-    - QUARTZ: 201
-  - week47: completed contracts: WOOD,QUARTZ,FLOWER / 2143 action points left
-    - WOOD: 1004
-    - FLOWER: 10
-    - QUARTZ: 302
-  - week48: completed contracts: WOOD,GLASS,FUR / 499 action points left
-    - QUARTZ: 5
-    - FUR: 1004
-    - WOOD: 2033
-    - GLASS: 32
-  - week49: completed contracts: SUGAR_CANE / 167 action points left
-    - WOOD: 4908
-    - SUGAR_CANE: 1008
-    - QUARTZ: 75
-  - week50: completed contracts: WOOD / 173 action points left
-    - FUR: 329
-    - QUARTZ: 598
-    - WOOD: 1034
-  - week51: completed contracts: WOOD / 174 action points left
-    - FUR: 30
-    - WOOD: 3090
-    - QUARTZ: 343
-  - week52: completed contracts: WOOD / 181 action points left
-    - FUR: 605
-    - WOOD: 4032
-  - week53: completed contracts: FLOWER,WOOD / 182 action points left
-    - QUARTZ: 102
-    - FLOWER: 80
-    - WOOD: 5023
+## Player QBE
+  - Collected contracts: 5 (7,81%)
+  - Detailed results:
+    - Using island week01, KO - game error
+    - Using island week02, completed : none / 8975 action points left
+      - QUARTZ: 184
+      - WOOD: 785
+      - FLOWER: 15
+    - Using island week03, completed : FLOWER / 158 action points left
+      - WOOD: 4220
+      - FLOWER: 41
+      - QUARTZ: 66
+    - Using island week04, completed : none / 1982 action points left
+    - Using island week05, KO - game error
+    - Using island week06, KO - game error
+    - Using island week07, completed : none / 14411 action points left
+      - WOOD: 3476
+    - Using island week09, completed : none / 169 action points left
+      - WOOD: 4935
+    - Using island week10, completed : none / 19664 action points left
+    - Using island week11, KO - game error
+    - Using island week12, KO - game error
+    - Using island week46, completed : WOOD,FLOWER / 185 action points left
+      - FLOWER: 11
+      - WOOD: 1021
+      - QUARTZ: 47
+    - Using island week47, completed : WOOD,FLOWER / 163 action points left
+      - FLOWER: 11
+      - QUARTZ: 130
+      - WOOD: 1008
+    - Using island week48, completed : none / 7068 action points left
+      - FUR: 334
+      - WOOD: 102
+    - Using island week49, completed : none / 163 action points left
+      - WOOD: 1242
+      - SUGAR_CANE: 371
+    - Using island week50, completed : none / 2584 action points left
+      - FUR: 809
+      - WOOD: 902
+    - Using island week51, completed : none / 1985 action points left
+    - Using island week52, completed : none / 163 action points left
+      - FUR: 440
+      - WOOD: 2308
+    - Using island week53, KO - game error
 
-## Player QBE: 
-  - week01: KO - game error
-  - week02: completed contracts: QUARTZ / 172 action points left
-    - WOOD: 2689
-    - QUARTZ: 204
-    - FLOWER: 9
-  - week03: KO - game error
-  - week04: completed contracts: none / 159 action points left
-    - FUR: 440
-    - WOOD: 2308
-  - week05: completed contracts: none / 167 action points left
-    - FUR: 642
-    - WOOD: 5111
-  - week06: KO - game error
-  - week07: KO - game error
-  - week09: completed contracts: none / 160 action points left
-    - WOOD: 3995
-  - week10: completed contracts: none / 19651 action points left
-  - week11: completed contracts: QUARTZ / 10750 action points left
-    - QUARTZ: 103
-    - WOOD: 4946
-  - week12: completed contracts: FUR / 16386 action points left
-    - FUR: 401
-  - week46: KO - game error
-  - week47: completed contracts: none / 1981 action points left
-  - week48: completed contracts: none / 4432 action points left
-    - FUR: 236
-    - WOOD: 369
-  - week49: completed contracts: none / 160 action points left
-    - WOOD: 2970
-    - SUGAR_CANE: 91
-  - week50: completed contracts: none / 2469 action points left
-    - FUR: 809
-    - WOOD: 902
-  - week51: completed contracts: none / 174 action points left
-    - WOOD: 2087
-  - week52: completed contracts: none / 1981 action points left
-  - week53: KO - game error
+## Player QBF
+  - Collected contracts: 12 (18,75%)
+  - Detailed results:
+    - Using island week01, completed : none / 199 action points left
+      - QUARTZ: 340
+      - WOOD: 164
+      - FLOWER: 29
+    - Using island week02, completed : none / 12089 action points left
+      - WOOD: 101
+      - QUARTZ: 53
+    - Using island week03, completed : QUARTZ / 12099 action points left
+      - WOOD: 290
+      - QUARTZ: 204
+      - FLOWER: 5
+    - Using island week04, completed : WOOD / 2831 action points left
+      - WOOD: 4012
+    - Using island week05, completed : WOOD / 4411 action points left
+      - FUR: 118
+      - WOOD: 7026
+    - Using island week06, completed : WOOD / 4682 action points left
+      - WOOD: 15038
+    - Using island week07, completed : WOOD / 4079 action points left
+      - WOOD: 15032
+    - Using island week09, completed : WOOD / 1411 action points left
+      - WOOD: 10003
+    - Using island week10, completed : none / 15335 action points left
+      - WOOD: 139
+      - QUARTZ: 72
+    - Using island week11, completed : QUARTZ / 13189 action points left
+      - QUARTZ: 104
+      - WOOD: 66
+    - Using island week12, completed : FLOWER / 16103 action points left
+      - FUR: 4
+      - WOOD: 1230
+      - FLOWER: 1
+    - Using island week46, completed : FLOWER / 268 action points left
+      - FLOWER: 10
+      - WOOD: 752
+      - QUARTZ: 234
+    - Using island week47, completed : none / 201 action points left
+      - QUARTZ: 71
+      - WOOD: 661
+    - Using island week48, completed : FUR / 222 action points left
+      - FUR: 1000
+      - WOOD: 369
+    - Using island week49, completed : none / 5409 action points left
+      - WOOD: 1889
+      - SUGAR_CANE: 450
+    - Using island week50, completed : none / 227 action points left
+      - FUR: 1803
+    - Using island week51, completed : WOOD / 232 action points left
+      - WOOD: 3014
+      - FUR: 143
+    - Using island week52, completed : WOOD / 2767 action points left
+      - WOOD: 4012
+    - Using island week53, completed : none / 213 action points left
+      - WOOD: 3005
+      - FLOWER: 23
 
-## Player QBF: 
-  - week01: completed contracts: none / 197 action points left
-    - QUARTZ: 340
-    - WOOD: 164
-    - FLOWER: 30
-  - week02: completed contracts: none / 12128 action points left
-    - WOOD: 101
-    - QUARTZ: 53
-  - week03: completed contracts: QUARTZ / 12280 action points left
-    - WOOD: 290
-    - QUARTZ: 204
-    - FLOWER: 5
-  - week04: completed contracts: WOOD / 2893 action points left
-    - WOOD: 4012
-  - week05: completed contracts: WOOD / 4488 action points left
-    - FUR: 118
-    - WOOD: 7026
-  - week06: completed contracts: WOOD / 4735 action points left
-    - WOOD: 15038
-  - week07: completed contracts: WOOD / 4049 action points left
-    - WOOD: 15032
-  - week09: completed contracts: none / 213 action points left
-    - WOOD: 9679
-  - week10: completed contracts: none / 15325 action points left
-    - WOOD: 139
-    - QUARTZ: 72
-  - week11: completed contracts: QUARTZ / 13250 action points left
-    - QUARTZ: 104
-    - WOOD: 66
-  - week12: completed contracts: FLOWER / 16110 action points left
-    - FUR: 4
-    - WOOD: 1230
-    - FLOWER: 1
-  - week46: completed contracts: FLOWER / 218 action points left
-    - FLOWER: 10
-    - WOOD: 752
-    - QUARTZ: 234
-  - week47: completed contracts: none / 212 action points left
-    - QUARTZ: 71
-    - WOOD: 661
-  - week48: completed contracts: FUR / 223 action points left
-    - FUR: 1000
-    - WOOD: 369
-  - week49: completed contracts: none / 5407 action points left
-    - WOOD: 1889
-    - SUGAR_CANE: 450
-  - week50: completed contracts: none / 231 action points left
-    - FUR: 1788
-  - week51: completed contracts: WOOD / 225 action points left
-    - WOOD: 3014
-    - FUR: 143
-  - week52: completed contracts: WOOD / 2794 action points left
-    - WOOD: 4012
-  - week53: completed contracts: none / 681 action points left
-    - WOOD: 2889
-    - FLOWER: 15
+## Player QCA
+  - Collected contracts: 14 (21,88%)
+  - Detailed results:
+    - Using island week01, completed : none / 2370 action points left
+      - WOOD: 1362
+      - QUARTZ: 186
+    - Using island week02, completed : none / 8258 action points left
+      - WOOD: 3152
+      - QUARTZ: 79
+    - Using island week03, completed : FLOWER / 11548 action points left
+      - WOOD: 2005
+      - FLOWER: 43
+    - Using island week04, completed : WOOD / 2442 action points left
+      - WOOD: 4246
+    - Using island week05, completed : WOOD / 7340 action points left
+      - WOOD: 7133
+    - Using island week06, completed : WOOD / 6486 action points left
+      - WOOD: 15114
+    - Using island week07, completed : none / 477 action points left
+      - WOOD: 12851
+    - Using island week09, completed : none / 8544 action points left
+      - WOOD: 5755
+    - Using island week10, KO - game error
+    - Using island week11, completed : WOOD / 3243 action points left
+      - WOOD: 10383
+      - QUARTZ: 74
+    - Using island week12, completed : FUR,FLOWER / 8758 action points left
+      - FLOWER: 4
+      - WOOD: 183
+      - FUR: 416
+    - Using island week46, completed : WOOD,FLOWER / 4312 action points left
+      - FLOWER: 11
+      - WOOD: 1000
+    - Using island week47, completed : WOOD,FLOWER / 1546 action points left
+      - FLOWER: 15
+      - WOOD: 1024
+    - Using island week48, completed : none / 7540 action points left
+      - WOOD: 763
+    - Using island week49, completed : none / 4262 action points left
+      - WOOD: 3789
+    - Using island week50, completed : WOOD / 5648 action points left
+      - WOOD: 1271
+    - Using island week51, completed : WOOD / 2299 action points left
+      - WOOD: 3263
+    - Using island week52, completed : WOOD / 2399 action points left
+      - WOOD: 4246
+    - Using island week53, completed : none / 191 action points left
+      - WOOD: 3256
 
-## Player QCA: 
-  - week01: completed contracts: none / 2293 action points left
-    - WOOD: 1362
-    - QUARTZ: 186
-  - week02: completed contracts: none / 8251 action points left
-    - WOOD: 3152
-    - QUARTZ: 79
-  - week03: completed contracts: FLOWER / 11678 action points left
-    - WOOD: 2005
-    - FLOWER: 43
-  - week04: completed contracts: WOOD / 2373 action points left
-    - WOOD: 4246
-  - week05: completed contracts: WOOD / 7329 action points left
-    - WOOD: 7133
-  - week06: completed contracts: WOOD / 6490 action points left
-    - WOOD: 15114
-  - week07: completed contracts: none / 479 action points left
-    - WOOD: 12810
-  - week09: completed contracts: none / 8501 action points left
-    - WOOD: 5755
-  - week10: KO - game error
-  - week11: completed contracts: WOOD / 3074 action points left
-    - WOOD: 10383
-    - QUARTZ: 74
-  - week12: completed contracts: FUR,FLOWER / 8709 action points left
-    - FLOWER: 4
-    - WOOD: 183
-    - FUR: 416
-  - week46: completed contracts: WOOD,FLOWER / 4228 action points left
-    - FLOWER: 11
-    - WOOD: 1000
-  - week47: completed contracts: WOOD,FLOWER / 1525 action points left
-    - FLOWER: 15
-    - WOOD: 1024
-  - week48: completed contracts: none / 7510 action points left
-    - WOOD: 763
-  - week49: completed contracts: none / 4242 action points left
-    - WOOD: 3789
-  - week50: completed contracts: WOOD / 5531 action points left
-    - WOOD: 1271
-  - week51: completed contracts: WOOD / 2192 action points left
-    - WOOD: 3263
-  - week52: completed contracts: WOOD / 2445 action points left
-    - WOOD: 4246
-  - week53: completed contracts: none / 187 action points left
-    - WOOD: 3256
+## Player QCB
+  - Collected contracts: 34 (53,13%)
+  - Detailed results:
+    - Using island week01, completed : FLOWER,WOOD,PLANK / 5888 action points left
+      - FLOWER: 80
+      - WOOD: 3037
+      - PLANK: 1118
+    - Using island week02, completed : FLOWER,QUARTZ / 4145 action points left
+      - QUARTZ: 204
+      - FLOWER: 40
+    - Using island week03, completed : FLOWER,WOOD,QUARTZ / 5920 action points left
+      - WOOD: 5015
+      - FLOWER: 40
+      - QUARTZ: 204
+    - Using island week04, completed : FUR / 3147 action points left
+      - FUR: 1005
+    - Using island week05, completed : FUR,PLANK / 3337 action points left
+      - FUR: 2002
+      - WOOD: 2
+      - PLANK: 5135
+    - Using island week06, completed : WOOD / 7057 action points left
+      - WOOD: 15038
+    - Using island week07, completed : WOOD,LEATHER / 6960 action points left
+      - FUR: 1
+      - WOOD: 15019
+      - LEATHER: 32
+    - Using island week09, completed : LEATHER,GLASS / 5505 action points left
+      - LEATHER: 322
+      - QUARTZ: 4
+      - FUR: 4
+      - GLASS: 54
+      - WOOD: 8
+    - Using island week10, completed : QUARTZ,LEATHER,RUM / 745 action points left
+      - RUM: 55
+      - FUR: 3
+      - FRUITS: 5
+      - LEATHER: 326
+      - SUGAR_CANE: 10
+      - QUARTZ: 500
+    - Using island week11, completed : WOOD,QUARTZ,LEATHER / 3174 action points left
+      - WOOD: 10013
+      - FUR: 3
+      - QUARTZ: 105
+      - LEATHER: 337
+    - Using island week12, completed : FUR,WOOD,FLOWER / 7179 action points left
+      - FUR: 401
+      - WOOD: 5052
+      - FLOWER: 1
+    - Using island week46, completed : none / 5348 action points left
+    - Using island week47, completed : WOOD,FLOWER / 2469 action points left
+      - WOOD: 1001
+      - FLOWER: 10
+    - Using island week48, completed : WOOD,GLASS / 2400 action points left
+      - WOOD: 2041
+      - QUARTZ: 3
+      - GLASS: 30
+    - Using island week49, completed : SUGAR_CANE / 3636 action points left
+      - SUGAR_CANE: 1011
+    - Using island week50, completed : WOOD / 6875 action points left
+      - WOOD: 1017
+    - Using island week51, completed : WOOD / 3752 action points left
+      - WOOD: 3028
+    - Using island week52, completed : FUR / 3133 action points left
+      - FUR: 1005
+    - Using island week53, completed : FLOWER / 4737 action points left
+      - FLOWER: 80
 
+## Player QCC
+  - Collected contracts: 22 (34,38%)
+  - Detailed results:
+    - Using island week01, completed : PLANK / 258 action points left
+      - FLOWER: 37
+      - WOOD: 657
+      - QUARTZ: 184
+      - PLANK: 1192
+    - Using island week02, completed : FLOWER,WOOD / 476 action points left
+      - FLOWER: 41
+      - WOOD: 5283
+    - Using island week03, completed : FLOWER,WOOD / 2555 action points left
+      - FLOWER: 41
+      - WOOD: 5292
+    - Using island week04, completed : none / 264 action points left
+      - FUR: 863
+      - WOOD: 979
+    - Using island week05, completed : FUR / 5496 action points left
+      - FUR: 2006
+    - Using island week06, completed : WOOD / 4839 action points left
+      - WOOD: 15583
+    - Using island week07, completed : WOOD,LEATHER / 3675 action points left
+      - FUR: 1
+      - WOOD: 15552
+      - LEATHER: 33
+    - Using island week09, completed : LEATHER / 279 action points left
+      - FUR: 4
+      - WOOD: 9117
+      - LEATHER: 333
+    - Using island week10, completed : LEATHER,RUM / 5876 action points left
+      - FRUITS: 5
+      - FUR: 4
+      - SUGAR_CANE: 15
+      - LEATHER: 355
+      - RUM: 54
+    - Using island week11, completed : QUARTZ,LEATHER / 4415 action points left
+      - QUARTZ: 103
+      - FUR: 2
+      - LEATHER: 388
+    - Using island week12, completed : WOOD,FLOWER / 1147 action points left
+      - FLOWER: 2
+      - WOOD: 5044
+    - Using island week46, completed : WOOD,FLOWER / 3466 action points left
+      - FLOWER: 11
+      - WOOD: 1029
+    - Using island week47, completed : none / 4176 action points left
+    - Using island week48, completed : WOOD / 278 action points left
+      - WOOD: 2170
+      - FUR: 862
+    - Using island week49, completed : none / 275 action points left
+      - SUGAR_CANE: 853
+      - WOOD: 2362
+    - Using island week50, completed : WOOD / 3326 action points left
+      - WOOD: 2684
+    - Using island week51, completed : WOOD / 1682 action points left
+      - WOOD: 3557
+    - Using island week52, completed : none / 268 action points left
+      - FUR: 863
+      - WOOD: 977
+    - Using island week53, completed : FLOWER / 3125 action points left
+      - FLOWER: 81
 
-## Player QCB: 
-  - week01: completed contracts: FLOWER,WOOD,PLANK / 5963 action points left
-    - FLOWER: 80
-    - WOOD: 3037
-    - PLANK: 1008
-  - week02: completed contracts: FLOWER,QUARTZ / 4164 action points left
-    - QUARTZ: 204
-    - FLOWER: 40
-  - week03: KO - game error
-  - week04: completed contracts: FUR / 3163 action points left
-    - FUR: 1005
-  - week05: completed contracts: FUR,PLANK / 3457 action points left
-    - FUR: 2002
-    - WOOD: 2
-    - PLANK: 5241
-  - week06: completed contracts: WOOD / 6957 action points left
-    - WOOD: 15038
-  - week07: completed contracts: WOOD,LEATHER / 7040 action points left
-    - FUR: 1
-    - WOOD: 15019
-    - LEATHER: 32
-  - week09: completed contracts: LEATHER,GLASS / 5529 action points left
-    - QUARTZ: 4
-    - FUR: 4
-    - WOOD: 8
-    - LEATHER: 341
-    - GLASS: 50
-  - week10: completed contracts: QUARTZ,LEATHER,RUM / 840 action points left
-    - RUM: 61
-    - FUR: 3
-    - SUGAR_CANE: 10
-    - LEATHER: 350
-    - QUARTZ: 500
-    - FRUITS: 5
-  - week11: completed contracts: WOOD,QUARTZ,LEATHER / 3211 action points left
-    - WOOD: 10013
-    - FUR: 3
-    - QUARTZ: 105
-    - LEATHER: 344
-  - week12: completed contracts: FUR,WOOD,FLOWER / 7217 action points left
-    - FUR: 401
-    - WOOD: 5052
-    - FLOWER: 1
-  - week46: completed contracts: none / 5338 action points left
-  - week47: completed contracts: WOOD,FLOWER / 2448 action points left
-    - WOOD: 1001
-    - FLOWER: 10
-  - week48: completed contracts: WOOD,GLASS / 2409 action points left
-    - WOOD: 2041
-    - QUARTZ: 3
-    - GLASS: 35
-  - week49: completed contracts: SUGAR_CANE / 3713 action points left
-    - SUGAR_CANE: 1011
-  - week50: completed contracts: WOOD / 6865 action points left
-    - WOOD: 1017
-  - week51: completed contracts: WOOD / 3777 action points left
-    - WOOD: 3028
-  - week52: completed contracts: FUR / 3145 action points left
-    - FUR: 1005
-  - week53: completed contracts: FLOWER / 4770 action points left
-    - FLOWER: 80
+## Player QCD
+  - Collected contracts: 17 (26,56%)
+  - Detailed results:
+    - Using island week01, completed : FLOWER,PLANK / 278 action points left
+      - WOOD: 1432
+      - FLOWER: 80
+      - PLANK: 1050
+    - Using island week02, completed : QUARTZ / 275 action points left
+      - QUARTZ: 200
+      - WOOD: 1138
+    - Using island week03, completed : FLOWER,QUARTZ / 271 action points left
+      - FLOWER: 41
+      - QUARTZ: 201
+      - WOOD: 3930
+    - Using island week04, completed : WOOD / 265 action points left
+      - WOOD: 4004
+      - FUR: 501
+    - Using island week05, completed : none / 278 action points left
+      - WOOD: 132
+    - Using island week06, completed : WOOD / 7797 action points left
+      - WOOD: 15009
+    - Using island week07, completed : WOOD,LEATHER / 274 action points left
+      - FUR: 2
+      - WOOD: 15043
+      - QUARTZ: 180
+      - LEATHER: 30
+    - Using island week09, completed : none / 275 action points left
+      - FUR: 456
+    - Using island week10, completed : LEATHER / 268 action points left
+      - FUR: 5
+      - QUARTZ: 27
+      - LEATHER: 347
+    - Using island week11, completed : QUARTZ / 267 action points left
+      - QUARTZ: 100
+      - FUR: 553
+    - Using island week12, completed : none / 16000 action points left
+    - Using island week46, completed : WOOD,FLOWER / 282 action points left
+      - FLOWER: 10
+      - WOOD: 1014
+      - QUARTZ: 161
+    - Using island week47, completed : FLOWER / 271 action points left
+      - FLOWER: 10
+      - WOOD: 186
+    - Using island week48, completed : FUR / 268 action points left
+      - FUR: 1005
+      - QUARTZ: 28
+    - Using island week49, completed : none / 280 action points left
+      - WOOD: 625
+    - Using island week50, completed : none / 288 action points left
+      - WOOD: 211
+    - Using island week51, completed : WOOD / 272 action points left
+      - WOOD: 3007
+      - FUR: 560
+    - Using island week52, completed : WOOD / 262 action points left
+      - WOOD: 4004
+      - FUR: 496
+    - Using island week53, completed : none / 277 action points left
+      - WOOD: 1534
 
-## Player QCC: 
-  - week01: completed contracts: PLANK / 257 action points left
-    - FLOWER: 37
-    - WOOD: 657
-    - QUARTZ: 184
-    - PLANK: 1261
-  - week02: completed contracts: FLOWER,WOOD / 270 action points left
-    - FLOWER: 41
-    - WOOD: 5002
-  - week03: completed contracts: FLOWER,WOOD / 2597 action points left
-    - FLOWER: 41
-    - WOOD: 5292
-  - week04: completed contracts: none / 260 action points left
-    - FUR: 863
-    - WOOD: 934
-  - week05: completed contracts: FUR / 5720 action points left
-    - FUR: 2006
-  - week06: completed contracts: WOOD / 4611 action points left
-    - WOOD: 15583
-  - week07: completed contracts: WOOD,LEATHER / 3524 action points left
-    - FUR: 1
-    - WOOD: 15556
-    - LEATHER: 38
-  - week09: completed contracts: LEATHER / 277 action points left
-    - FUR: 4
-    - WOOD: 9000
-    - LEATHER: 388
-  - week10: completed contracts: LEATHER,RUM / 5744 action points left
-    - FUR: 4
-    - SUGAR_CANE: 16
-    - RUM: 58
-    - FRUITS: 5
-    - LEATHER: 376
-  - week11: completed contracts: QUARTZ,LEATHER / 4420 action points left
-    - QUARTZ: 103
-    - FUR: 1
-    - LEATHER: 382
-  - week12: completed contracts: WOOD,FLOWER / 1100 action points left
-    - FLOWER: 2
-    - WOOD: 5044
-  - week46: completed contracts: WOOD,FLOWER / 3462 action points left
-    - FLOWER: 11
-    - WOOD: 1029
-  - week47: completed contracts: none / 4178 action points left
-  - week48: completed contracts: WOOD / 264 action points left
-    - WOOD: 2170
-    - FUR: 879
-  - week49: completed contracts: none / 255 action points left
-    - SUGAR_CANE: 553
-    - WOOD: 2651
-  - week50: completed contracts: WOOD / 3276 action points left
-    - WOOD: 2684
-  - week51: completed contracts: WOOD / 1709 action points left
-    - WOOD: 3557
-  - week52: completed contracts: none / 263 action points left
-    - FUR: 863
-    - WOOD: 934
-  - week53: completed contracts: FLOWER / 3090 action points left
-    - FLOWER: 81
+## Player QCE
+  - Collected contracts: 11 (17,19%)
+  - Detailed results:
+    - Using island week01, completed : none / 254 action points left
+      - QUARTZ: 153
+      - FLOWER: 48
+      - WOOD: 2105
+    - Using island week02, completed : none / 256 action points left
+      - QUARTZ: 192
+      - WOOD: 599
+      - FLOWER: 4
+    - Using island week03, completed : none / 190 action points left
+      - WOOD: 139
+      - QUARTZ: 56
+    - Using island week04, completed : none / 270 action points left
+      - FUR: 556
+      - WOOD: 252
+    - Using island week05, completed : none / 314 action points left
+      - FUR: 1816
+      - WOOD: 4185
+    - Using island week06, completed : WOOD / 283 action points left
+      - WOOD: 17956
+    - Using island week07, completed : none / 307 action points left
+      - WOOD: 11514
+    - Using island week09, completed : WOOD / 232 action points left
+      - WOOD: 12453
+    - Using island week10, completed : QUARTZ / 276 action points left
+      - QUARTZ: 531
+      - WOOD: 1632
+    - Using island week11, completed : WOOD,QUARTZ / 271 action points left
+      - WOOD: 12672
+      - QUARTZ: 298
+    - Using island week12, completed : FUR / 316 action points left
+      - FUR: 2228
+      - WOOD: 4084
+    - Using island week46, completed : WOOD,FLOWER / 247 action points left
+      - WOOD: 3764
+      - FLOWER: 36
+      - QUARTZ: 55
+    - Using island week47, completed : FLOWER / 239 action points left
+      - QUARTZ: 35
+      - FLOWER: 13
+      - WOOD: 837
+    - Using island week48, completed : FUR / 229 action points left
+      - FUR: 1012
+      - WOOD: 908
+    - Using island week49, completed : none / 276 action points left
+      - WOOD: 4275
+      - SUGAR_CANE: 545
+    - Using island week50, completed : none / 226 action points left
+      - FUR: 1592
+    - Using island week51, completed : none / 205 action points left
+      - FUR: 677
+    - Using island week52, completed : none / 257 action points left
+      - FUR: 548
+      - WOOD: 252
+    - Using island week53, completed : FLOWER / 241 action points left
+      - FLOWER: 109
+      - WOOD: 2259
 
-## Player QCD: 
-  - week01: completed contracts: FLOWER,PLANK / 279 action points left
-    - WOOD: 1432
-    - FLOWER: 80
-    - PLANK: 1137
-  - week02: completed contracts: QUARTZ / 276 action points left
-    - QUARTZ: 200
-    - WOOD: 1138
-  - week03: completed contracts: FLOWER,QUARTZ / 271 action points left
-    - FLOWER: 41
-    - QUARTZ: 201
-    - WOOD: 3969
-  - week04: completed contracts: WOOD / 265 action points left
-    - WOOD: 4004
-    - FUR: 514
-  - week05: completed contracts: none / 279 action points left
-    - WOOD: 132
-  - week06: completed contracts: WOOD / 7818 action points left
-    - WOOD: 15009
-  - week07: completed contracts: WOOD,LEATHER / 286 action points left
-    - FUR: 2
-    - WOOD: 15043
-    - QUARTZ: 180
-    - LEATHER: 31
-  - week09: completed contracts: none / 279 action points left
-    - FUR: 456
-  - week10: completed contracts: LEATHER / 277 action points left
-    - FUR: 5
-    - QUARTZ: 27
-    - LEATHER: 358
-  - week11: completed contracts: QUARTZ / 262 action points left
-    - QUARTZ: 100
-    - FUR: 550
-  - week12: completed contracts: none / 16042 action points left
-  - week46: completed contracts: WOOD,FLOWER / 281 action points left
-    - FLOWER: 10
-    - WOOD: 1014
-    - QUARTZ: 164
-  - week47: completed contracts: FLOWER / 272 action points left
-    - FLOWER: 10
-    - WOOD: 186
-  - week48: completed contracts: FUR / 272 action points left
-    - FUR: 1005
-    - QUARTZ: 28
-  - week49: completed contracts: none / 274 action points left
-    - WOOD: 625
-  - week50: completed contracts: none / 281 action points left
-    - WOOD: 211
-  - week51: completed contracts: WOOD / 278 action points left
-    - WOOD: 3007
-    - FUR: 542
-  - week52: completed contracts: WOOD / 251 action points left
-    - WOOD: 4004
-    - FUR: 496
-  - week53: completed contracts: none / 282 action points left
-    - WOOD: 1534
+## Player QCF
+  - Collected contracts: 2 (3,13%)
+  - Detailed results:
+    - Using island week01, completed : FLOWER / 1169 action points left
+      - QUARTZ: 548
+      - FLOWER: 80
+      - WOOD: 1001
+    - Using island week02, completed : none / 1099 action points left
+    - Using island week03, KO - game error
+    - Using island week04, completed : none / 1051 action points left
+    - Using island week05, completed : none / 1018 action points left
+      - FUR: 1604
+      - WOOD: 561
+    - Using island week06, completed : none / 839 action points left
+    - Using island week07, completed : none / 1063 action points left
+    - Using island week09, completed : none / 1077 action points left
+    - Using island week10, completed : none / 970 action points left
+    - Using island week11, completed : none / 1036 action points left
+      - WOOD: 5002
+    - Using island week12, completed : FUR / 1143 action points left
+      - FUR: 400
+      - WOOD: 2597
+    - Using island week46, completed : none / 1092 action points left
+    - Using island week47, completed : none / 6989 action points left
+    - Using island week48, completed : none / 9987 action points left
+    - Using island week49, KO - game error
+    - Using island week50, KO - game error
+    - Using island week51, completed : none / 1015 action points left
+      - FUR: 756
+    - Using island week52, completed : none / 1157 action points left
+      - QUARTZ: 253
+      - WOOD: 429
+    - Using island week53, completed : none / 8207 action points left
+      - WOOD: 440
 
-## Player QCE: 
-  - week01: completed contracts: none / 256 action points left
-    - QUARTZ: 153
-    - FLOWER: 48
-    - WOOD: 2063
-  - week02: completed contracts: none / 261 action points left
-    - QUARTZ: 195
-    - WOOD: 613
-    - FLOWER: 4
-  - week03: completed contracts: none / 225 action points left
-    - WOOD: 139
-    - QUARTZ: 56
-  - week04: completed contracts: none / 271 action points left
-    - FUR: 566
-    - WOOD: 252
-  - week05: completed contracts: none / 311 action points left
-    - FUR: 1813
-    - WOOD: 4185
-  - week06: completed contracts: WOOD / 290 action points left
-    - WOOD: 17700
-  - week07: completed contracts: none / 300 action points left
-    - WOOD: 11564
-  - week09: completed contracts: WOOD / 274 action points left
-    - WOOD: 12453
-  - week10: completed contracts: QUARTZ / 271 action points left
-    - QUARTZ: 531
-    - WOOD: 1632
-  - week11: completed contracts: WOOD,QUARTZ / 242 action points left
-    - WOOD: 12686
-    - QUARTZ: 299
-  - week12: completed contracts: FUR / 277 action points left
-    - FUR: 2232
-    - WOOD: 4084
-  - week46: completed contracts: WOOD,FLOWER / 243 action points left
-    - WOOD: 3764
-    - FLOWER: 36
-    - QUARTZ: 55
-  - week47: completed contracts: FLOWER / 270 action points left
-    - QUARTZ: 35
-    - FLOWER: 13
-    - WOOD: 837
-  - week48: completed contracts: FUR / 230 action points left
-    - FUR: 1018
-    - WOOD: 908
-  - week49: completed contracts: none / 270 action points left
-    - WOOD: 4275
-    - SUGAR_CANE: 545
-  - week50: completed contracts: none / 274 action points left
-    - FUR: 1586
-  - week51: completed contracts: none / 217 action points left
-    - FUR: 677
-  - week52: completed contracts: none / 294 action points left
-    - FUR: 561
-    - WOOD: 252
-  - week53: completed contracts: FLOWER / 262 action points left
-    - FLOWER: 109
-    - WOOD: 2298
+## Player QDA
+  - Collected contracts: 24 (37,50%)
+  - Detailed results:
+    - Using island week01, completed : FLOWER,PLANK / 5803 action points left
+      - QUARTZ: 10
+      - FLOWER: 80
+      - WOOD: 2177
+      - PLANK: 1258
+    - Using island week02, completed : WOOD,QUARTZ / 161 action points left
+      - WOOD: 5311
+      - QUARTZ: 309
+    - Using island week03, completed : FLOWER,WOOD,QUARTZ / 9042 action points left
+      - FLOWER: 40
+      - WOOD: 5325
+      - QUARTZ: 389
+    - Using island week04, completed : WOOD / 183 action points left
+      - WOOD: 4605
+      - QUARTZ: 447
+    - Using island week05, completed : WOOD,PLANK / 179 action points left
+      - WOOD: 7623
+      - FUR: 1428
+      - PLANK: 5911
+    - Using island week06, completed : WOOD / 4142 action points left
+      - WOOD: 15607
+      - QUARTZ: 22
+    - Using island week07, completed : WOOD / 168 action points left
+      - WOOD: 15603
+      - QUARTZ: 313
+    - Using island week09, completed : WOOD,GLASS / 1859 action points left
+      - WOOD: 10029
+      - QUARTZ: 4
+      - GLASS: 56
+    - Using island week10, completed : none / 178 action points left
+      - WOOD: 9439
+      - QUARTZ: 33
+      - FUR: 967
+    - Using island week11, completed : WOOD,QUARTZ / 172 action points left
+      - WOOD: 10008
+      - QUARTZ: 100
+    - Using island week12, KO - game error
+    - Using island week46, completed : WOOD,FLOWER / 4890 action points left
+      - FLOWER: 10
+      - WOOD: 1022
+    - Using island week47, completed : WOOD / 1768 action points left
+      - WOOD: 1004
+      - QUARTZ: 92
+    - Using island week48, completed : FUR / 179 action points left
+      - FUR: 1003
+      - WOOD: 1424
+      - QUARTZ: 47
+    - Using island week49, completed : WOOD / 166 action points left
+      - WOOD: 6820
+    - Using island week50, completed : none / 174 action points left
+      - FUR: 1668
+    - Using island week51, completed : WOOD / 178 action points left
+      - WOOD: 3619
+      - FUR: 699
+      - QUARTZ: 4
+    - Using island week52, completed : WOOD / 171 action points left
+      - WOOD: 4605
+      - QUARTZ: 453
+    - Using island week53, completed : WOOD / 174 action points left
+      - WOOD: 5625
+      - QUARTZ: 95
 
-## Player QCF: 
-  - week01: completed contracts: none / 1154 action points left
-    - QUARTZ: 362
-    - FLOWER: 32
-  - week02: completed contracts: none / 1153 action points left
-    - FUR: 943
-    - QUARTZ: 100
-  - week03: KO - game error
-  - week04: completed contracts: none / 1129 action points left
-    - QUARTZ: 20
-    - SUGAR_CANE: 1011
-  - week05: completed contracts: none / 898 action points left
-    - FUR: 999
-  - week06: completed contracts: none / 813 action points left
-  - week07: completed contracts: none / 1045 action points left
-  - week09: completed contracts: none / 1091 action points left
-  - week10: completed contracts: none / 1073 action points left
-    - FUR: 1904
-  - week11: completed contracts: none / 1153 action points left
-    - WOOD: 6990
-    - QUARTZ: 81
-  - week12: completed contracts: none / 1136 action points left
-    - QUARTZ: 118
-  - week46: completed contracts: none / 1128 action points left
-    - FUR: 438
-  - week47: completed contracts: none / 1125 action points left
-    - FUR: 614
-  - week48: KO - game error
-  - week49: KO - game error
-  - week50: KO - game error
-  - week51: completed contracts: WOOD / 1126 action points left
-    - WOOD: 3035
-    - FUR: 61
-  - week52: completed contracts: none / 1044 action points left
-  - week53: completed contracts: none / 1122 action points left
-    - QUARTZ: 120
+## Player QDB
+  - Collected contracts: 32 (50,00%)
+  - Detailed results:
+    - Using island week01, completed : FLOWER,WOOD,PLANK / 4332 action points left
+      - QUARTZ: 45
+      - WOOD: 3006
+      - FLOWER: 80
+      - PLANK: 1084
+    - Using island week02, completed : WOOD,QUARTZ / 151 action points left
+      - WOOD: 5018
+      - QUARTZ: 201
+    - Using island week03, completed : FLOWER,WOOD,QUARTZ / 1793 action points left
+      - FLOWER: 40
+      - WOOD: 5030
+      - QUARTZ: 203
+    - Using island week04, completed : WOOD / 2655 action points left
+      - FUR: 111
+      - WOOD: 4024
+    - Using island week05, completed : WOOD,PLANK / 2933 action points left
+      - FUR: 188
+      - WOOD: 7006
+      - PLANK: 5044
+    - Using island week06, completed : WOOD / 3758 action points left
+      - WOOD: 15003
+    - Using island week07, completed : WOOD,LEATHER / 1865 action points left
+      - FUR: 82
+      - WOOD: 15006
+      - LEATHER: 30
+    - Using island week09, completed : WOOD / 155 action points left
+      - WOOD: 10003
+      - FUR: 169
+    - Using island week10, completed : LEATHER / 154 action points left
+      - FUR: 898
+      - WOOD: 790
+      - QUARTZ: 331
+      - LEATHER: 300
+    - Using island week11, completed : WOOD,QUARTZ / 166 action points left
+      - QUARTZ: 104
+      - WOOD: 10000
+    - Using island week12, completed : FUR,WOOD / 139 action points left
+      - FUR: 1302
+      - WOOD: 5026
+    - Using island week46, completed : WOOD,FLOWER / 159 action points left
+      - WOOD: 1021
+      - FLOWER: 10
+      - QUARTZ: 178
+    - Using island week47, completed : WOOD,FLOWER / 419 action points left
+      - WOOD: 1028
+      - QUARTZ: 166
+      - FLOWER: 10
+    - Using island week48, completed : WOOD,FUR / 720 action points left
+      - FUR: 1004
+      - WOOD: 2035
+    - Using island week49, completed : WOOD,SUGAR_CANE / 989 action points left
+      - WOOD: 5021
+      - SUGAR_CANE: 1017
+    - Using island week50, completed : WOOD / 4582 action points left
+      - FUR: 133
+      - WOOD: 1004
+    - Using island week51, completed : WOOD / 4420 action points left
+      - WOOD: 3012
+      - FUR: 8
+    - Using island week52, completed : WOOD / 2751 action points left
+      - WOOD: 4018
+    - Using island week53, completed : FLOWER / 154 action points left
+      - WOOD: 4176
+      - FLOWER: 80
 
-## Player QDA: 
-  - week01: completed contracts: FLOWER,PLANK / 5797 action points left
-    - QUARTZ: 10
-    - FLOWER: 80
-    - WOOD: 2177
-    - PLANK: 1141
-  - week02: completed contracts: WOOD,QUARTZ / 167 action points left
-    - WOOD: 5311
-    - QUARTZ: 301
-  - week03: completed contracts: FLOWER,WOOD,QUARTZ / 9028 action points left
-    - FLOWER: 40
-    - WOOD: 5325
-    - QUARTZ: 389
-  - week04: completed contracts: WOOD / 180 action points left
-    - WOOD: 4605
-    - QUARTZ: 475
-  - week05: completed contracts: WOOD,PLANK / 184 action points left
-    - WOOD: 7623
-    - FUR: 1494
-    - PLANK: 6015
-  - week06: completed contracts: WOOD / 4141 action points left
-    - WOOD: 15607
-    - QUARTZ: 22
-  - week07: completed contracts: WOOD / 176 action points left
-    - WOOD: 15603
-    - QUARTZ: 313
-  - week09: completed contracts: WOOD,GLASS / 1657 action points left
-    - WOOD: 10029
-    - QUARTZ: 4
-    - GLASS: 58
-  - week10: completed contracts: none / 170 action points left
-    - WOOD: 9439
-    - QUARTZ: 33
-    - FUR: 968
-  - week11: completed contracts: WOOD,QUARTZ / 175 action points left
-    - WOOD: 10008
-    - QUARTZ: 100
-  - week12: KO - game error
-  - week46: completed contracts: WOOD,FLOWER / 4860 action points left
-    - FLOWER: 10
-    - WOOD: 1022
-  - week47: completed contracts: WOOD / 1677 action points left
-    - WOOD: 1004
-    - QUARTZ: 92
-  - week48: completed contracts: FUR / 174 action points left
-    - FUR: 1003
-    - WOOD: 1424
-    - QUARTZ: 23
-  - week49: completed contracts: WOOD / 167 action points left
-    - WOOD: 6820
-  - week50: completed contracts: none / 176 action points left
-    - FUR: 1676
-  - week51: completed contracts: WOOD / 181 action points left
-    - WOOD: 3619
-    - FUR: 747
-    - QUARTZ: 4
-  - week52: completed contracts: WOOD / 181 action points left
-    - WOOD: 4605
-    - QUARTZ: 447
-  - week53: completed contracts: WOOD / 172 action points left
-    - WOOD: 5625
-    - QUARTZ: 95
+## Player QDC
+  - Collected contracts: 15 (23,44%)
+  - Detailed results:
+    - Using island week01, completed : none / 3019 action points left
+      - WOOD: 608
+      - FLOWER: 42
+      - QUARTZ: 228
+    - Using island week02, completed : WOOD / 73 action points left
+      - WOOD: 5642
+      - QUARTZ: 55
+    - Using island week03, completed : FLOWER,QUARTZ / 5805 action points left
+      - QUARTZ: 330
+      - WOOD: 2593
+      - FLOWER: 43
+    - Using island week04, completed : none / 79 action points left
+      - FUR: 421
+      - WOOD: 1484
+    - Using island week05, completed : none / 10280 action points left
+      - FUR: 327
+      - WOOD: 3904
+    - Using island week06, completed : none / 19755 action points left
+    - Using island week07, completed : WOOD / 1467 action points left
+      - WOOD: 15692
+    - Using island week09, completed : none / 73 action points left
+      - WOOD: 1390
+    - Using island week10, completed : QUARTZ / 67 action points left
+      - WOOD: 6351
+      - QUARTZ: 550
+    - Using island week11, completed : WOOD,QUARTZ / 79 action points left
+      - QUARTZ: 490
+      - WOOD: 25796
+    - Using island week12, completed : FUR / 78 action points left
+      - FUR: 4206
+      - WOOD: 1920
+    - Using island week46, completed : WOOD,FLOWER / 70 action points left
+      - WOOD: 2833
+      - FLOWER: 60
+      - QUARTZ: 200
+    - Using island week47, completed : WOOD,FLOWER / 69 action points left
+      - QUARTZ: 15
+      - WOOD: 2570
+      - FLOWER: 45
+    - Using island week48, completed : WOOD,FUR / 80 action points left
+      - FUR: 1780
+      - WOOD: 2004
+    - Using island week49, completed : none / 7886 action points left
+    - Using island week50, completed : WOOD / 69 action points left
+      - FUR: 1330
+      - WOOD: 2211
+    - Using island week51, completed : none / 9724 action points left
+    - Using island week52, completed : none / 82 action points left
+      - FUR: 421
+      - WOOD: 1484
+    - Using island week53, completed : none / 73 action points left
+      - WOOD: 1699
 
+## Player QDD
+  - Collected contracts: 26 (40,63%)
+  - Detailed results:
+    - Using island week01, completed : PLANK / 6056 action points left
+      - QUARTZ: 384
+      - WOOD: 1482
+      - FLOWER: 22
+      - PLANK: 1076
+    - Using island week02, completed : WOOD,QUARTZ / 6320 action points left
+      - QUARTZ: 257
+      - WOOD: 5258
+    - Using island week03, completed : FLOWER,WOOD,QUARTZ,GLASS / 4828 action points left
+      - QUARTZ: 200
+      - WOOD: 5019
+      - FLOWER: 40
+      - GLASS: 50
+    - Using island week04, completed : WOOD / 160 action points left
+      - WOOD: 4033
+      - FUR: 873
+    - Using island week05, completed : FUR,PLANK / 157 action points left
+      - FUR: 2001
+      - WOOD: 6190
+      - QUARTZ: 5
+      - PLANK: 5395
+    - Using island week06, completed : WOOD,GLASS / 1618 action points left
+      - QUARTZ: 2
+      - WOOD: 15024
+      - GLASS: 105
+    - Using island week07, completed : LEATHER / 10692 action points left
+      - FUR: 2
+      - WOOD: 509
+      - QUARTZ: 675
+      - LEATHER: 32
+    - Using island week09, completed : LEATHER,GLASS / 5092 action points left
+      - WOOD: 37
+      - QUARTZ: 3
+      - GLASS: 50
+      - LEATHER: 300
+    - Using island week10, completed : QUARTZ,LEATHER / 168 action points left
+      - SUGAR_CANE: 365
+      - WOOD: 9840
+      - FUR: 2
+      - QUARTZ: 504
+      - LEATHER: 300
+    - Using island week11, completed : WOOD,QUARTZ,LEATHER / 2545 action points left
+      - WOOD: 10014
+      - QUARTZ: 101
+      - FUR: 5
+      - LEATHER: 300
+    - Using island week12, KO - game error
+    - Using island week46, completed : WOOD,FLOWER / 3115 action points left
+      - WOOD: 1017
+      - QUARTZ: 194
+      - FLOWER: 10
+    - Using island week47, completed : none / 3896 action points left
+      - QUARTZ: 94
+    - Using island week48, completed : WOOD,FUR / 2565 action points left
+      - FUR: 1004
+      - WOOD: 2025
+    - Using island week49, completed : WOOD / 3414 action points left
+      - WOOD: 5009
+      - SUGAR_CANE: 878
+    - Using island week50, completed : none / 166 action points left
+      - FUR: 1800
+    - Using island week51, completed : none / 180 action points left
+      - FUR: 1602
+    - Using island week52, completed : WOOD / 180 action points left
+      - WOOD: 4013
+      - FUR: 915
+    - Using island week53, completed : none / 8534 action points left
 
-## Player QDB: 
-  - week01: completed contracts: FLOWER,WOOD,PLANK / 4445 action points left
-    - WOOD: 3038
-    - QUARTZ: 33
-    - FLOWER: 80
-    - PLANK: 1090
-  - week02: completed contracts: FLOWER,WOOD,QUARTZ / 2538 action points left
-    - WOOD: 5028
-    - FLOWER: 40
-    - QUARTZ: 201
-  - week03: completed contracts: FLOWER,WOOD,QUARTZ / 2656 action points left
-    - QUARTZ: 203
-    - WOOD: 5010
-    - FLOWER: 40
-  - week04: completed contracts: WOOD / 2663 action points left
-    - FUR: 111
-    - WOOD: 4024
-  - week05: completed contracts: WOOD,PLANK / 2778 action points left
-    - FUR: 300
-    - WOOD: 7007
-    - PLANK: 5434
-  - week06: completed contracts: WOOD / 3751 action points left
-    - WOOD: 15003
-  - week07: completed contracts: WOOD,LEATHER / 1837 action points left
-    - FUR: 82
-    - WOOD: 15031
-    - LEATHER: 30
-  - week09: completed contracts: WOOD / 150 action points left
-    - WOOD: 10003
-    - FUR: 169
-  - week10: completed contracts: LEATHER / 159 action points left
-    - FUR: 860
-    - QUARTZ: 354
-    - WOOD: 918
-    - LEATHER: 301
-  - week11: completed contracts: QUARTZ,LEATHER / 1678 action points left
-    - FUR: 901
-    - QUARTZ: 100
-    - WOOD: 1940
-    - LEATHER: 300
-  - week12: completed contracts: FUR,WOOD / 155 action points left
-    - FUR: 1672
-    - WOOD: 5030
-  - week46: completed contracts: WOOD,FLOWER / 161 action points left
-    - FLOWER: 10
-    - WOOD: 1013
-    - QUARTZ: 257
-  - week47: completed contracts: WOOD,FLOWER / 389 action points left
-    - WOOD: 1028
-    - QUARTZ: 166
-    - FLOWER: 10
-  - week48: completed contracts: WOOD,FUR / 280 action points left
-    - FUR: 1003
-    - WOOD: 2015
-  - week49: completed contracts: WOOD,SUGAR_CANE / 646 action points left
-    - WOOD: 5011
-    - SUGAR_CANE: 1012
-  - week50: completed contracts: WOOD / 5312 action points left
-    - FUR: 77
-    - WOOD: 1040
-  - week51: completed contracts: WOOD / 3932 action points left
-    - WOOD: 3014
-    - FUR: 8
-  - week52: completed contracts: WOOD / 2755 action points left
-    - WOOD: 4018
-  - week53: completed contracts: FLOWER / 151 action points left
-    - FLOWER: 80
-    - WOOD: 4735
+## Player QDE
+  - Collected contracts: 0 (0,00%)
+  - Detailed results:
+    - Using island week01, completed : none / 28 action points left
+    - Using island week02, completed : none / 31 action points left
+    - Using island week03, completed : none / 19981 action points left
+    - Using island week04, KO - game error
+    - Using island week05, completed : none / 19985 action points left
+    - Using island week06, completed : none / 19981 action points left
+    - Using island week07, completed : none / 19982 action points left
+    - Using island week09, KO - game error
+    - Using island week10, completed : none / 19981 action points left
+    - Using island week11, completed : none / 19984 action points left
+    - Using island week12, completed : none / 19978 action points left
+    - Using island week46, completed : none / 6597 action points left
+    - Using island week47, completed : none / 25 action points left
+    - Using island week48, completed : none / 9983 action points left
+    - Using island week49, completed : none / 9979 action points left
+    - Using island week50, completed : none / 9400 action points left
+    - Using island week51, completed : none / 9976 action points left
+    - Using island week52, KO - game error
+    - Using island week53, completed : none / 9987 action points left
 
-## Player QDC: 
-  - week01: completed contracts: none / 3004 action points left
-    - WOOD: 608
-    - FLOWER: 42
-    - QUARTZ: 228
-  - week02: completed contracts: WOOD / 68 action points left
-    - WOOD: 5642
-    - QUARTZ: 55
-  - week03: completed contracts: FLOWER,QUARTZ / 5775 action points left
-    - QUARTZ: 330
-    - WOOD: 2593
-    - FLOWER: 43
-  - week04: completed contracts: none / 75 action points left
-    - FUR: 421
-    - WOOD: 1322
-  - week05: completed contracts: none / 10174 action points left
-    - FUR: 327
-    - WOOD: 3904
-  - week06: completed contracts: none / 19764 action points left
-  - week07: completed contracts: WOOD / 1388 action points left
-    - WOOD: 15692
-  - week09: completed contracts: none / 74 action points left
-    - WOOD: 1390
-  - week10: completed contracts: QUARTZ / 72 action points left
-    - WOOD: 6379
-    - QUARTZ: 550
-  - week11: completed contracts: WOOD,QUARTZ / 71 action points left
-    - QUARTZ: 490
-    - WOOD: 25430
-  - week12: completed contracts: FUR / 74 action points left
-    - FUR: 4211
-    - WOOD: 1920
-  - week46: completed contracts: WOOD,FLOWER / 70 action points left
-    - WOOD: 2874
-    - FLOWER: 60
-    - QUARTZ: 201
-  - week47: completed contracts: WOOD,FLOWER / 79 action points left
-    - QUARTZ: 15
-    - WOOD: 2540
-    - FLOWER: 36
-  - week48: completed contracts: WOOD,FUR / 69 action points left
-    - FUR: 1763
-    - WOOD: 2004
-  - week49: completed contracts: none / 7845 action points left
-  - week50: completed contracts: WOOD / 62 action points left
-    - FUR: 1322
-    - WOOD: 2211
-  - week51: completed contracts: none / 9725 action points left
-  - week52: completed contracts: none / 80 action points left
-    - FUR: 421
-    - WOOD: 1488
-  - week53: completed contracts: none / 77 action points left
-    - WOOD: 1699
-
-
-## Player QDD: 
-  - week01: completed contracts: PLANK / 8070 action points left
-    - WOOD: 1268
-    - QUARTZ: 222
-    - FLOWER: 22
-    - PLANK: 1097
-  - week02: completed contracts: WOOD,GLASS / 3220 action points left
-    - QUARTZ: 148
-    - WOOD: 5025
-    - GLASS: 50
-  - week03: completed contracts: FLOWER / 181 action points left
-    - WOOD: 2510
-    - FLOWER: 41
-    - QUARTZ: 198
-  - week04: completed contracts: WOOD / 165 action points left
-    - WOOD: 4018
-    - FUR: 548
-  - week05: completed contracts: FUR,PLANK / 169 action points left
-    - FUR: 2001
-    - WOOD: 6374
-    - QUARTZ: 80
-    - PLANK: 5040
-  - week06: completed contracts: WOOD / 169 action points left
-    - QUARTZ: 9
-    - WOOD: 15068
-    - GLASS: 91
-  - week07: completed contracts: LEATHER / 11524 action points left
-    - FUR: 4
-    - WOOD: 514
-    - QUARTZ: 551
-    - LEATHER: 30
-  - week09: completed contracts: GLASS / 10290 action points left
-    - WOOD: 10
-    - QUARTZ: 2
-    - FUR: 268
-    - GLASS: 54
-  - week10: completed contracts: QUARTZ,LEATHER / 157 action points left
-    - QUARTZ: 503
-    - SUGAR_CANE: 365
-    - FUR: 2
-    - WOOD: 9777
-    - LEATHER: 300
-  - week11: completed contracts: WOOD,QUARTZ,LEATHER / 4759 action points left
-    - WOOD: 10002
-    - FUR: 4
-    - QUARTZ: 104
-    - LEATHER: 303
-  - week12: KO - game error
-  - week46: completed contracts: WOOD,FLOWER / 3991 action points left
-    - WOOD: 1025
-    - QUARTZ: 43
-    - FLOWER: 10
-  - week47: completed contracts: WOOD,FLOWER / 3707 action points left
-    - FLOWER: 10
-    - WOOD: 1033
-    - QUARTZ: 94
-  - week48: completed contracts: WOOD,FUR / 2237 action points left
-    - WOOD: 2007
-    - FUR: 1000
-  - week49: completed contracts: WOOD,SUGAR_CANE / 3244 action points left
-    - WOOD: 5012
-    - SUGAR_CANE: 1008
-  - week50: completed contracts: WOOD / 175 action points left
-    - FUR: 1638
-    - WOOD: 1007
-  - week51: completed contracts: none / 171 action points left
-    - FUR: 689
-  - week52: completed contracts: WOOD / 162 action points left
-    - WOOD: 4000
-    - FUR: 941
-  - week53: completed contracts: none / 8785 action points left
-
-## Player QDE: 
-  - week01: completed contracts: none / 29 action points left
-  - week02: completed contracts: none / 33 action points left
-  - week03: completed contracts: none / 19987 action points left
-  - week04: KO - game error
-  - week05: completed contracts: none / 19977 action points left
-  - week06: completed contracts: none / 19980 action points left
-  - week07: completed contracts: none / 19982 action points left
-  - week09: KO - game error
-  - week10: completed contracts: none / 19980 action points left
-  - week11: completed contracts: none / 19979 action points left
-  - week12: completed contracts: none / 19986 action points left
-  - week46: completed contracts: none / 6604 action points left
-  - week47: completed contracts: none / 23 action points left
-  - week48: completed contracts: none / 9980 action points left
-  - week49: completed contracts: none / 9980 action points left
-  - week50: completed contracts: none / 9391 action points left
-  - week51: completed contracts: none / 9982 action points left
-  - week52: KO - game error
-  - week53: completed contracts: none / 9978 action points left
-
-## Player QDF: 
-  - week01: completed contracts: none / 14519 action points left
-  - week02: completed contracts: none / 12563 action points left
-    - WOOD: 39
-  - week03: completed contracts: none / 19740 action points left
-    - WOOD: 30
-  - week04: completed contracts: none / 2459 action points left
-  - week05: completed contracts: none / 18856 action points left
-    - FUR: 5
-  - week06: completed contracts: none / 18109 action points left
-    - WOOD: 19
-  - week07: completed contracts: none / 13702 action points left
-    - WOOD: 39
-  - week09: completed contracts: none / 19805 action points left
-  - week10: completed contracts: none / 19682 action points left
-  - week11: completed contracts: none / 19492 action points left
-  - week12: completed contracts: none / 19404 action points left
-    - FUR: 7
-  - week46: completed contracts: none / 5062 action points left
-  - week47: completed contracts: none / 3988 action points left
-    - WOOD: 37
-  - week48: completed contracts: none / 9545 action points left
-    - FUR: 5
-  - week49: completed contracts: none / 9009 action points left
-    - SUGAR_CANE: 20
-  - week50: completed contracts: none / 9471 action points left
-  - week51: completed contracts: none / 8747 action points left
-  - week52: completed contracts: none / 2433 action points left
-  - week53: completed contracts: none / 9470 action points left
-    - WOOD: 40
+## Player QDF
+  - Collected contracts: 0 (0,00%)
+  - Detailed results:
+    - Using island week01, completed : none / 14637 action points left
+      - QUARTZ: 2
+    - Using island week02, completed : none / 12597 action points left
+    - Using island week03, completed : none / 19658 action points left
+    - Using island week04, completed : none / 2533 action points left
+    - Using island week05, completed : none / 18888 action points left
+      - FUR: 1
+    - Using island week06, completed : none / 18132 action points left
+      - WOOD: 19
+    - Using island week07, completed : none / 13729 action points left
+      - WOOD: 39
+    - Using island week09, completed : none / 19785 action points left
+    - Using island week10, completed : none / 19678 action points left
+    - Using island week11, completed : none / 19504 action points left
+    - Using island week12, completed : none / 19511 action points left
+      - FUR: 2
+    - Using island week46, completed : none / 5061 action points left
+    - Using island week47, completed : none / 3968 action points left
+      - WOOD: 29
+    - Using island week48, completed : none / 9450 action points left
+      - WOOD: 40
+    - Using island week49, completed : none / 8926 action points left
+    - Using island week50, completed : none / 9455 action points left
+      - FUR: 1
+    - Using island week51, completed : none / 8710 action points left
+    - Using island week52, completed : none / 2632 action points left
+    - Using island week53, completed : none / 9460 action points left
+      - WOOD: 40

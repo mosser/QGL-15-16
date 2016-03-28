@@ -19,7 +19,7 @@
     "budget": 20000
   },
   "part": "Engine",
-  "time": 1459192652741,
+  "time": 1459203703011,
   "meth": "initialize"
 },{
   "data": {
@@ -27,7 +27,7 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1459192652741,
+  "time": 1459203703011,
   "meth": "takeDecision"
 },{
   "data": {
@@ -39,7 +39,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459192652741,
+  "time": 1459203703011,
   "meth": "takeDecision"
 },{
   "data": {
@@ -47,7 +47,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1459192652741,
+  "time": 1459203703011,
   "meth": "takeDecision"
 },{
   "data": {
@@ -59,7 +59,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459192652741,
+  "time": 1459203703012,
   "meth": "takeDecision"
 },{
   "data": {
@@ -67,7 +67,41 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1459192652741,
+  "time": 1459203703012,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 52
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1459203703012,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1459203703012,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1459203703012,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1459203703012,
   "meth": "takeDecision"
 },{
   "data": {
@@ -79,21 +113,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459192652742,
+  "time": 1459203703013,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1459192652742,
+  "time": 1459203703013,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 3,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459192652742,
+  "time": 1459203703013,
   "meth": "takeDecision"
 },{
   "data": {
@@ -101,41 +135,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1459192652742,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 52
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1459192652743,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1459192652743,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 2,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1459192652743,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1459192652743,
+  "time": 1459203703013,
   "meth": "takeDecision"
 },{
   "data": {
@@ -147,21 +147,21 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459192652743,
+  "time": 1459203703013,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1459192652743,
+  "time": 1459203703014,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 5,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459192652744,
+  "time": 1459203703014,
   "meth": "takeDecision"
 },{
   "data": {
@@ -169,7 +169,41 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1459192652744,
+  "time": 1459203703014,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 52
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1459203703014,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1459203703014,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1459203703014,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1459203703014,
   "meth": "takeDecision"
 },{
   "data": {
@@ -181,12 +215,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459192652744,
+  "time": 1459203703015,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1459192652744,
+  "time": 1459203703015,
   "meth": "takeDecision"
 },{
   "data": {
@@ -195,7 +229,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459192652744,
+  "time": 1459203703015,
   "meth": "takeDecision"
 },{
   "data": {
@@ -203,11 +237,11 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1459192652744,
+  "time": 1459203703015,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 7,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 52
@@ -215,12 +249,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459192652745,
+  "time": 1459203703015,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1459192652745,
+  "time": 1459203703015,
   "meth": "takeDecision"
 },{
   "data": {
@@ -229,7 +263,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459192652745,
+  "time": 1459203703015,
   "meth": "takeDecision"
 },{
   "data": {
@@ -237,45 +271,11 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1459192652745,
+  "time": 1459203703015,
   "meth": "takeDecision"
 },{
   "data": {
     "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 52
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1459192652746,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1459192652746,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1459192652746,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1459192652746,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
     "extras": {
       "found": "GROUND",
       "range": 9
@@ -283,12 +283,12 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459192652746,
+  "time": 1459203703015,
   "meth": "takeDecision"
 },{
   "data": {"action": "fly"},
   "part": "Explorer",
-  "time": 1459192652746,
+  "time": 1459203703015,
   "meth": "takeDecision"
 },{
   "data": {
@@ -297,7 +297,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459192652746,
+  "time": 1459203703015,
   "meth": "takeDecision"
 },{
   "data": {
@@ -305,111 +305,7 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1459192652746,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1459192652746,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "heading",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1459192652746,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1459192652746,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "heading",
-    "parameters": {"direction": "E"}
-  },
-  "part": "Explorer",
-  "time": 1459192652746,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1459192652746,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1459192652746,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1459192652746,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1459192652747,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1459192652747,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1459192652747,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1459192652747,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1459192652747,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 3,
-    "extras": {},
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1459192652747,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "fly"},
-  "part": "Explorer",
-  "time": 1459192652747,
+  "time": 1459203703015,
   "meth": "takeDecision"
 },{
   "data": {
@@ -418,20 +314,124 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459192652747,
-  "meth": "takeDecision"
-},{
-  "data": {"action": "stop"},
-  "part": "Explorer",
-  "time": 1459192652747,
+  "time": 1459203703015,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 9,
+    "action": "heading",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 7,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459192652747,
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "heading",
+    "parameters": {"direction": "E"}
+  },
+  "part": "Explorer",
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 4,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 3,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 2,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "fly"},
+  "part": "Explorer",
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {"action": "stop"},
+  "part": "Explorer",
+  "time": 1459203703016,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 8,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1459203703016,
   "meth": "takeDecision"
 }]

@@ -23,7 +23,7 @@
     "budget": 20000
   },
   "part": "Engine",
-  "time": 1459193527925,
+  "time": 1459203437069,
   "meth": "initialize"
 },{
   "data": {
@@ -31,11 +31,11 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1459193527925,
+  "time": 1459203437070,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 4,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 0
@@ -43,7 +43,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459193527925,
+  "time": 1459203437070,
   "meth": "takeDecision"
 },{
   "data": {
@@ -51,7 +51,27 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1459193527925,
+  "time": 1459203437070,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 52
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1459203437071,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "W"}
+  },
+  "part": "Explorer",
+  "time": 1459203437079,
   "meth": "takeDecision"
 },{
   "data": {
@@ -63,40 +83,20 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459193527926,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "W"}
-  },
-  "part": "Explorer",
-  "time": 1459193527934,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 52
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1459193527935,
+  "time": 1459203437080,
   "meth": "takeDecision"
 },{
   "data": {"action": "stop"},
   "part": "Explorer",
-  "time": 1459193527957,
+  "time": 1459203437099,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 6,
+    "cost": 5,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1459193527957,
+  "time": 1459203437099,
   "meth": "takeDecision"
 }]
