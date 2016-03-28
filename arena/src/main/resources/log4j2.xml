@@ -4,7 +4,7 @@
     <Appenders>
         <Console name="stdout">
             <PatternLayout>
-                <Pattern>%16d{HH:mm:ss.SSS} %c{1}: %m%n</Pattern>
+                <Pattern>%d{HH:mm:ss.SSS} %c{1}: %m%n</Pattern>
             </PatternLayout>
         </Console>
     </Appenders>
