@@ -21,6 +21,4 @@ object Week05 extends Run with SI3 {
 
   override def players = all - "qaa" - "qcf"
 
-  run
-
 }

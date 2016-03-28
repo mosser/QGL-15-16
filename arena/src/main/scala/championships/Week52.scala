@@ -22,6 +22,4 @@ object Week52 extends Run with SI3 {
 
   override def players = all - "qac" - "qcd" - "qcf" - "qdd" - "qdf"
 
-  run
-
 }
